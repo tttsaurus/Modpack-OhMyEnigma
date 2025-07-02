@@ -1,0 +1,15 @@
+{
+	x: 12.5d,
+	y: -2.0d,
+	shape: "square",
+	dependencies: [
+		"e3228ea8"
+	],
+	tasks: [{
+		uid: "a84db4a5",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:lifecrystal"
+		}]
+	}]
+}

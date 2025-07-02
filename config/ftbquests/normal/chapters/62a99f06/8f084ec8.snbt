@@ -1,0 +1,36 @@
+{
+	title: "{mpq.str166}",
+	x: 7.0d,
+	y: -2.5d,
+	shape: "square",
+	text: [
+		"{mpq.str167}"
+	],
+	dependencies: [
+		"57e35d33"
+	],
+	tasks: [{
+		uid: "c0de65b0",
+		type: "item",
+		items: [{
+			item: "taiga:prometheum_ore"
+		}]
+	},
+	{
+		uid: "b3e2c3d6",
+		type: "item",
+		items: [{
+			item: "taiga:duranite_ore"
+		}]
+	}],
+	rewards: [{
+		uid: "8395b3e7",
+		type: "item",
+		item: {
+			id: "tconstruct:shard",
+			tag: {
+				Material: "dark_matter_steel_mat"
+			}
+		}
+	}]
+}

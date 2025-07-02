@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: 3.5d,
+	shape: "square",
+	text: [
+		"{mpq.str67}"
+	],
+	dependencies: [
+		"31a7b7df"
+	],
+	tasks: [{
+		uid: "9bbafaa6",
+		type: "item",
+		items: [{
+			item: "scp:level1card"
+		}]
+	}]
+}

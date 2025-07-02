@@ -1,0 +1,12 @@
+{
+	x: 8.0d,
+	y: 4.0d,
+	shape: "square",
+	tasks: [{
+		uid: "56581f2f",
+		type: "item",
+		items: [{
+			item: "contentcreator:crop_soybean"
+		}]
+	}]
+}

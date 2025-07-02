@@ -1,0 +1,20 @@
+{
+	x: 19.0d,
+	y: -3.0d,
+	shape: "square",
+	dependencies: [
+		"1ef62a61"
+	],
+	tasks: [{
+		uid: "f6f849f8",
+		type: "item",
+		items: [{
+			id: "galacticraftcore:battery",
+			tag: {
+				electricity: 15000.0f
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

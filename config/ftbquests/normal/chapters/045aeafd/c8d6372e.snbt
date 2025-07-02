@@ -1,0 +1,96 @@
+{
+	title: ":）",
+	icon: {
+		id: "jecalculation:item_calculator",
+		tag: {
+			jecalculation: {
+				craft: {
+					inventory: 0b,
+					amount: "",
+					recents: [{
+						type: "empty",
+						content: {}
+					},
+					{
+						type: "itemStack",
+						content: {
+							amount: 1L,
+							item: "minecraft:glass"
+						}
+					},
+					{
+						type: "itemStack",
+						content: {
+							amount: 1L,
+							item: "minecraft:stone"
+						}
+					}]
+				}
+			}
+		}
+	},
+	disable_toast: 1b,
+	x: 0.0d,
+	y: 2.6d,
+	shape: "diamond",
+	text: [
+		"{mpq.str145}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "5e43a152",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "472a0998",
+		type: "item",
+		item: {
+			id: "jecalculation:item_calculator",
+			tag: {
+				jecalculation: {
+					craft: {
+						inventory: 0b,
+						amount: "",
+						recents: [{
+							type: "empty",
+							content: {}
+						},
+						{
+							type: "itemStack",
+							content: {
+								amount: 1L,
+								item: "minecraft:glass"
+							}
+						},
+						{
+							type: "itemStack",
+							content: {
+								amount: 1L,
+								item: "minecraft:stone"
+							}
+						}]
+					}
+				}
+			}
+		}
+	},
+	{
+		uid: "494a2f11",
+		type: "item",
+		item: {
+			id: "jecalculation:item_calculator",
+			Damage: 1s,
+			tag: {
+				jecalculation: {
+					math: {
+						current: "",
+						last: "0",
+						operator: 0,
+						state: 0
+					}
+				}
+			}
+		}
+	}]
+}

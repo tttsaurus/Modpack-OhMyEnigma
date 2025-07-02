@@ -1,0 +1,18 @@
+{
+	x: 3.5d,
+	y: -4.25d,
+	shape: "square",
+	text: [
+		"{mpq.str32}"
+	],
+	dependencies: [
+		"3cc5e000"
+	],
+	tasks: [{
+		uid: "de3ae3c6",
+		type: "item",
+		items: [{
+			item: "beneath:teleporterbeneath"
+		}]
+	}]
+}

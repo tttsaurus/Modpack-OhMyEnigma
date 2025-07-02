@@ -1,0 +1,23 @@
+{
+	x: 6.0d,
+	y: -6.0d,
+	shape: "square",
+	dependencies: [
+		"3981a280"
+	],
+	tasks: [{
+		uid: "ffd8fcee",
+		type: "custom",
+		title: "{mpq.str72}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "ignitz_fluid",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"ignitz_fluid"
+		]
+	}]
+}

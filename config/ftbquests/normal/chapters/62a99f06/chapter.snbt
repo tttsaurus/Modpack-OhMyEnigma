@@ -1,0 +1,34 @@
+{
+	title: "{mpq.str47}",
+	icon: {
+		id: "tconstruct:large_plate",
+		tag: {
+			Material: "terrax"
+		}
+	},
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -2.28d,
+		y: 3.72d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/6.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: -3.0d,
+		y: -9.5d,
+		width: 10.87d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/chapter2.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	}]
+}

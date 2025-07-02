@@ -1,0 +1,15 @@
+{
+	x: 13.0d,
+	y: -7.5d,
+	shape: "square",
+	dependencies: [
+		"acdd7128"
+	],
+	tasks: [{
+		uid: "7100a63c",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:distributor"
+		}]
+	}]
+}

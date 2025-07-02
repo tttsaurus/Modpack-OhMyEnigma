@@ -1,0 +1,95 @@
+# Don't touch 'version' manually. This is an indicator for config updater.
+version=1
+config {
+    background-styles {
+        box {
+            # In the form of hex #rrggbb or #aarrggbb.
+            color="#383838"
+        }
+        box-with-outline {
+            # In the form of hex #rrggbb or #aarrggbb.
+            color="#383838"
+            # In the form of hex #rrggbb or #aarrggbb.
+            outline-color="#232323"
+        }
+        rounded-box {
+            # In the form of hex #rrggbb or #aarrggbb.
+            color="#383838"
+            corner-radius=3
+        }
+        rounded-box-with-outline {
+            # In the form of hex #rrggbb or #aarrggbb.
+            color="#383838"
+            # In the form of hex #rrggbb or #aarrggbb.
+            outline-color="#232323"
+            corner-radius=3
+        }
+        mc-vanilla {
+            # In the form of hex #rrggbb or #aarrggbb.
+            color="#ffffff"
+        }
+    }
+    element {
+        # This will only be applied to Element with style property 'backgroundStyle' left empty.
+        # Valid values are 'box', 'box-with-outline', 'rounded-box', 'rounded-box-with-outline', 'mc-vanilla'
+        background-style=mc-vanilla
+    }
+    text {
+        # This will only be applied to Text with style property 'color' left empty.
+        # In the form of hex #rrggbb or #aarrggbb.
+        color="#232323"
+        # This will only be applied to Text with style property 'scale' left empty.
+        scale=1
+    }
+    sliding-text {
+        # This will only be applied to SlidingText with style property 'color' left empty.
+        # In the form of hex #rrggbb or #aarrggbb.
+        color="#232323"
+        # This will only be applied to SlidingText with style property 'scale' left empty.
+        scale=1
+    }
+    anim-text {
+        # This will only be applied to AnimText with style property 'color' left empty.
+        # In the form of hex #rrggbb or #aarrggbb.
+        color="#232323"
+        # This will only be applied to AnimText with style property 'scale' left empty.
+        scale=1
+    }
+    image {
+        corner-radius=3
+    }
+    url-image {
+        corner-radius=3
+    }
+    progress-bar {
+        # This will only be applied to ProgressBar with style property 'fillerColor' left empty.
+        # In the form of hex #rrggbb or #aarrggbb.
+        filler-color="#d2d2d2"
+        # This will only be applied to ProgressBar with style property 'backgroundColor' left empty.
+        # In the form of hex #rrggbb or #aarrggbb.
+        background-color="#383838"
+        # This will only be applied to ProgressBar with style property 'outlineColor' left empty.
+        # In the form of hex #rrggbb or #aarrggbb.
+        outline-color="#232323"
+    }
+    button {
+        # This will only be applied to Button with style property 'defaultColor' left empty when using this style.
+        # In the form of hex #rrggbb or #aarrggbb.
+        default-color="#ffffff"
+        # This will only be applied to Button with style property 'hoverColor' left empty when using this style.
+        # In the form of hex #rrggbb or #aarrggbb.
+        hover-color="#bec7ff"
+        # This will only be applied to Button with style property 'holdColor' left empty when using this style.
+        # In the form of hex #rrggbb or #aarrggbb.
+        hold-color="#232323"
+        # This will only be applied to Button with style property 'defaultTextColor' left empty when using this style.
+        # In the form of hex #rrggbb or #aarrggbb.
+        default-text-color="#ffffff"
+        # This will only be applied to Button with style property 'hoverTextColor' left empty when using this style.
+        # In the form of hex #rrggbb or #aarrggbb.
+        hover-text-color="#ffffa0"
+        # This will only be applied to Button with style property 'holdTextColor' left empty when using this style.
+        # In the form of hex #rrggbb or #aarrggbb.
+        hold-text-color="#383838"
+    }
+}

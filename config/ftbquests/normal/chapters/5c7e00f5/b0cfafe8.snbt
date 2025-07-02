@@ -1,0 +1,27 @@
+{
+	x: 10.3d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str174}"
+	],
+	dependencies: [
+		"cd81a8c1",
+		"877e5bb4",
+		"742ecc31"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "e5662e8d",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_t1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1632e487",
+		type: "item",
+		item: "galacticraftcore:prelaunch_checklist"
+	}]
+}

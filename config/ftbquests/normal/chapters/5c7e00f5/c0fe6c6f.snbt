@@ -1,0 +1,18 @@
+{
+	x: 7.0d,
+	y: -3.5d,
+	shape: "square",
+	text: [
+		"{mpq.str120}"
+	],
+	dependencies: [
+		"85cf7f2a"
+	],
+	tasks: [{
+		uid: "a02713a4",
+		type: "item",
+		items: [{
+			item: "refinedstorage:wireless_transmitter"
+		}]
+	}]
+}

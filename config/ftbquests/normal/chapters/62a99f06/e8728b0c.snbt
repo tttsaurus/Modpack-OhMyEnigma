@@ -1,0 +1,18 @@
+{
+	x: 5.0d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str58}"
+	],
+	dependencies: [
+		"9d1c1d74"
+	],
+	tasks: [{
+		uid: "e0af868a",
+		type: "item",
+		items: [{
+			item: "contenttweaker:dread_piece"
+		}]
+	}]
+}

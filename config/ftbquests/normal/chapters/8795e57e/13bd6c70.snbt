@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 1.0d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"e9504587"
+	],
+	tasks: [{
+		uid: "2d2a08b9",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}]
+}

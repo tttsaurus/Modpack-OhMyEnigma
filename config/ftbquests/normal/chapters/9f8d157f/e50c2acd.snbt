@@ -1,0 +1,17 @@
+{
+	x: -7.0d,
+	y: -10.5d,
+	shape: "rsquare",
+	dependencies: [
+		"d835c3d0"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "2f3c3fc9",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:mre"
+		}]
+	}]
+}

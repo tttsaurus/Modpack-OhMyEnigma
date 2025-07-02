@@ -1,0 +1,15 @@
+{
+	x: 18.0d,
+	y: 2.5d,
+	shape: "square",
+	dependencies: [
+		"80db7d90"
+	],
+	tasks: [{
+		uid: "60413a4e",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:basic_item 1 1"
+		}]
+	}]
+}

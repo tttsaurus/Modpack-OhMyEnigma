@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: -2.5d,
+	shape: "square",
+	dependencies: [
+		"d086be85"
+	],
+	tasks: [{
+		uid: "4c618040",
+		type: "item",
+		items: [{
+			item: "hbm:ball_fireclay"
+		}]
+	}]
+}

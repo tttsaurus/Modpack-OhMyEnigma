@@ -1,0 +1,19 @@
+{
+	x: -5.5d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str208}"
+	],
+	dependencies: [
+		"4350432d",
+		"c343ccd1"
+	],
+	tasks: [{
+		uid: "8f4f363b",
+		type: "item",
+		items: [{
+			item: "tconstruct:cast_custom 1 4"
+		}]
+	}]
+}

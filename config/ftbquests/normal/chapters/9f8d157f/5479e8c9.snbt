@@ -1,0 +1,32 @@
+{
+	x: -3.5d,
+	y: -5.25d,
+	shape: "square",
+	text: [
+		"{mpq.str192}",
+		"{mpq.str193}"
+	],
+	dependencies: [
+		"dc3d293f"
+	],
+	tasks: [{
+		uid: "0913ea28",
+		type: "item",
+		items: [{
+			item: "sakura:maple_cauldron"
+		}]
+	},
+	{
+		uid: "fb40aebf",
+		type: "item",
+		items: [{
+			item: "sakura:maple_spile"
+		}]
+	}],
+	rewards: [{
+		uid: "bf2454cf",
+		type: "item",
+		item: "sakura:foodset 1 1",
+		count: 5
+	}]
+}

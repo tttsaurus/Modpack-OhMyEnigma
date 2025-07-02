@@ -1,0 +1,6 @@
+tile.denseneutroncollectors:compressed_neutron_collector.name=中子素颗粒收集器
+tile.denseneutroncollectors:double_compressed_neutron_collector.name=中子锭收集器
+tile.denseneutroncollectors:triple_compressed_neutron_collector.name=中子态素块收集器
+container.compressed_neutron_collector=中子素颗粒收集器
+container.double_compressed_neutron_collector=中子锭收集器
+container.triple_compressed_neutron_collector=中子态素块收集器

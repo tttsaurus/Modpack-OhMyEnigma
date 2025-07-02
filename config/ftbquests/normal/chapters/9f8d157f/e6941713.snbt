@@ -1,0 +1,15 @@
+{
+	x: -8.5d,
+	y: -9.5d,
+	shape: "square",
+	dependencies: [
+		"daff329b"
+	],
+	tasks: [{
+		uid: "aa338ff9",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor"
+		}]
+	}]
+}

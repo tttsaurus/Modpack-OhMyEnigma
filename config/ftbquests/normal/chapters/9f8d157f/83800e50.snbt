@@ -1,0 +1,26 @@
+{
+	title: "{mpq.str89}",
+	x: -0.5d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		"{mpq.str104}"
+	],
+	dependencies: [
+		"487a1a2d"
+	],
+	tasks: [{
+		uid: "f1ec6817",
+		type: "item",
+		items: [{
+			item: "scp:sapling"
+		}]
+	},
+	{
+		uid: "e65aca5b",
+		type: "item",
+		items: [{
+			item: "scp:fertile_soil"
+		}]
+	}]
+}

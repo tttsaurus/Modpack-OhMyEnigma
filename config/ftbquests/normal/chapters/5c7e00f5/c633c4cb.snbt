@@ -1,0 +1,39 @@
+{
+	x: 0.0d,
+	y: -5.0d,
+	shape: "square",
+	text: [
+		"{mpq.str122}"
+	],
+	dependencies: [
+		"c419a368"
+	],
+	tasks: [{
+		uid: "47121109",
+		type: "item",
+		items: [{
+			item: "refinedstorage:importer"
+		}]
+	},
+	{
+		uid: "612f02e3",
+		type: "item",
+		items: [{
+			item: "refinedstorage:exporter"
+		}]
+	},
+	{
+		uid: "7fa77fb6",
+		type: "item",
+		items: [{
+			item: "refinedstorage:constructor"
+		}]
+	},
+	{
+		uid: "dc11bb82",
+		type: "item",
+		items: [{
+			item: "refinedstorage:destructor"
+		}]
+	}]
+}

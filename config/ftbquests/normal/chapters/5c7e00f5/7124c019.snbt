@@ -1,0 +1,43 @@
+{
+	x: 8.0d,
+	y: -3.5d,
+	shape: "square",
+	text: [
+		"{mpq.str121}"
+	],
+	dependencies: [
+		"c0fe6c6f"
+	],
+	tasks: [{
+		uid: "82e22437",
+		type: "item",
+		items: [{
+			id: "refinedstorage:wireless_grid",
+			tag: {
+				Energy: 3200
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "05743088",
+		type: "item",
+		item: {
+			id: "refinedstorage:wireless_fluid_grid",
+			tag: {
+				Energy: 3200
+			}
+		}
+	},
+	{
+		uid: "a8a8b2e0",
+		type: "item",
+		item: {
+			id: "refinedstorage:wireless_crafting_monitor",
+			tag: {
+				Energy: 3200
+			}
+		}
+	}]
+}

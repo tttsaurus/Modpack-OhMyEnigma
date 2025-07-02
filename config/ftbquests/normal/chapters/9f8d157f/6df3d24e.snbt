@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: -2.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str180}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "7f6f7647",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:range_addon"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: -7.0d,
+	y: -13.5d,
+	shape: "rsquare",
+	dependencies: [
+		"524895b0"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "549068ce",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}]
+	},
+	{
+		uid: "206b19b5",
+		type: "item",
+		items: [{
+			item: "forestry:crafting_material 1 1"
+		}]
+	}]
+}

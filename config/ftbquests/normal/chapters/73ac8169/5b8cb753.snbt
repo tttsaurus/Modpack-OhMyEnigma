@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: 9.0d,
+	shape: "square",
+	dependencies: [
+		"baf8df59"
+	],
+	tasks: [{
+		uid: "ad78363f",
+		type: "item",
+		items: [{
+			item: "environmentaltech:litherite_crystal"
+		}]
+	}]
+}

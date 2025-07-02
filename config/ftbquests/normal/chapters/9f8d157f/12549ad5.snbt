@@ -1,0 +1,18 @@
+{
+	x: 0.9d,
+	y: -14.5d,
+	shape: "square",
+	text: [
+		"{mpq.str39}"
+	],
+	dependencies: [
+		"dfb3f46b"
+	],
+	tasks: [{
+		uid: "a182697e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_slaughter_factory"
+		}]
+	}]
+}

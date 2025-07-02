@@ -1,0 +1,18 @@
+{
+	disable_toast: 1b,
+	x: -5.0d,
+	y: 0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str49}"
+	],
+	tasks: [{
+		uid: "c2da93f5",
+		type: "custom",
+		title: "{mpq.str48}",
+		icon: "contenttweaker:gummy_investigator",
+		tags: [
+			"stage1"
+		]
+	}]
+}

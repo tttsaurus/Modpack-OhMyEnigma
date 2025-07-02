@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: -5.25d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"3cc5e000"
+	],
+	tasks: [{
+		uid: "ac77a2a3",
+		type: "item",
+		items: [{
+			item: "sakura:barrel"
+		}]
+	}]
+}

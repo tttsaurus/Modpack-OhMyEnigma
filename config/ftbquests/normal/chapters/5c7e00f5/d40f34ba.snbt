@@ -1,0 +1,17 @@
+{
+	x: 15.5d,
+	y: -5.0d,
+	shape: "square",
+	dependencies: [
+		"5abce893",
+		"9515577a"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "30769d4f",
+		type: "item",
+		items: [{
+			item: "torcherino:torch_lvl1"
+		}]
+	}]
+}

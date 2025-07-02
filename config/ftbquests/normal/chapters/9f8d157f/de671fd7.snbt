@@ -1,0 +1,16 @@
+{
+	x: -0.5d,
+	y: -14.5d,
+	shape: "square",
+	dependencies: [
+		"606d4408"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "1894e5b5",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}]
+	}]
+}

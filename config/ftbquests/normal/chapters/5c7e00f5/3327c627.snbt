@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"8a087cbf"
+	],
+	tasks: [{
+		uid: "3fa080f8",
+		type: "item",
+		items: [{
+			item: "refinedstorage:processor 1 5"
+		}]
+	}]
+}

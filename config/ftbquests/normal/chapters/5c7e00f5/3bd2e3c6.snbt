@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: -2.5d,
+	shape: "square",
+	dependencies: [
+		"c152597e"
+	],
+	tasks: [{
+		uid: "2d641c30",
+		type: "item",
+		items: [{
+			item: "environmentaltech:diode"
+		}]
+	}]
+}

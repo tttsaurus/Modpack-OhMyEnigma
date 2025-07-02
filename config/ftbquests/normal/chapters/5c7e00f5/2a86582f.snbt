@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"eb011e7d"
+	],
+	tasks: [{
+		uid: "493012ad",
+		type: "item",
+		items: [{
+			item: "contenttweaker:casing_refractory"
+		}]
+	}]
+}

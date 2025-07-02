@@ -1,0 +1,22 @@
+{
+	x: -2.0d,
+	y: -3.25d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str109}"
+	],
+	dependencies: [
+		"f41d4568"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "89bab111",
+		type: "item",
+		items: [{
+			item: "enderio:item_yeta_wrench"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

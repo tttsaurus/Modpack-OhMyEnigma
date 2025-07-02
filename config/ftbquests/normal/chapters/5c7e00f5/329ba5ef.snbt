@@ -1,0 +1,15 @@
+{
+	x: 19.5d,
+	y: 1.5d,
+	shape: "square",
+	dependencies: [
+		"bd8edf68"
+	],
+	tasks: [{
+		uid: "dc371edc",
+		type: "item",
+		items: [{
+			item: "hbm:ore_tikite"
+		}]
+	}]
+}

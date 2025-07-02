@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -2.5d,
+	shape: "square",
+	text: [
+		"{mpq.str134}"
+	],
+	dependencies: [
+		"3bd2e3c6",
+		"85cf7f2a"
+	],
+	tasks: [{
+		uid: "9e9ea1ee",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_res_miner_cont_1"
+		}]
+	}]
+}

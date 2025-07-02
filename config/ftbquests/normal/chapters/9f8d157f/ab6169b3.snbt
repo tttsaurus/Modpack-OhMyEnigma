@@ -1,0 +1,23 @@
+{
+	x: -5.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"c343ccd1"
+	],
+	tasks: [{
+		uid: "922c49d3",
+		type: "custom",
+		title: "{mpq.str212}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "glass",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"glass"
+		]
+	}]
+}

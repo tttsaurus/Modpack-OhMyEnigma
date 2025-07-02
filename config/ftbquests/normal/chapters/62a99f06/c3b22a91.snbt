@@ -1,0 +1,16 @@
+{
+	x: 3.5d,
+	y: 6.5d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"ca9b0bbb"
+	],
+	tasks: [{
+		uid: "f3740c8a",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank3 1 1"
+		}]
+	}]
+}

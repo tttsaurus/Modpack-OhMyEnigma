@@ -1,0 +1,15 @@
+{
+	x: 25.5d,
+	y: 4.0d,
+	shape: "square",
+	dependencies: [
+		"3b874c6e"
+	],
+	tasks: [{
+		uid: "0f6650ce",
+		type: "item",
+		items: [{
+			item: "contenttweaker:litherite_flavor"
+		}]
+	}]
+}

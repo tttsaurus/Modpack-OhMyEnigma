@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: -4.25d,
+	shape: "square",
+	dependencies: [
+		"c5b2b8c8"
+	],
+	tasks: [{
+		uid: "79246e64",
+		type: "item",
+		items: [{
+			item: "contenttweaker:lumber_kirisan"
+		}]
+	}]
+}

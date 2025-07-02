@@ -1,0 +1,29 @@
+{
+	x: -1.0d,
+	y: -7.0d,
+	shape: "square",
+	text: [
+		"{mpq.str119}"
+	],
+	dependencies: [
+		"3de45b91"
+	],
+	tasks: [{
+		uid: "9aeebad7",
+		type: "item",
+		items: [{
+			item: "refinedstorage:disk_drive"
+		}]
+	}],
+	rewards: [{
+		uid: "3aaceacf",
+		type: "item",
+		item: {
+			id: "refinedstorage:storage_disk",
+			tag: {
+				IdLeast: -7907327371083856004L,
+				IdMost: 91677364199442738L
+			}
+		}
+	}]
+}

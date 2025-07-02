@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 7.0d,
+	shape: "square",
+	dependencies: [
+		"452beeb2"
+	],
+	tasks: [{
+		uid: "c2f69dd9",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadkey"
+		}]
+	}]
+}

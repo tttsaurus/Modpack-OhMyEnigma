@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"f1822911"
+	],
+	tasks: [{
+		uid: "d7a917e7",
+		type: "item",
+		items: [{
+			item: "teastory:soil_detection_meter"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

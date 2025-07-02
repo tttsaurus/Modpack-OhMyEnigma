@@ -1,0 +1,17 @@
+{
+	x: 11.5d,
+	y: -5.5d,
+	shape: "square",
+	dependencies: [
+		"b601353d"
+	],
+	tasks: [{
+		uid: "c6855063",
+		type: "item",
+		items: [{
+			item: "hbm:stamp_schrabidium_plate"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

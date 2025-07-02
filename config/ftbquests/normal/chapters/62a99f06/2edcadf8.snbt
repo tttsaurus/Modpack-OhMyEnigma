@@ -1,0 +1,17 @@
+{
+	title: "{mpq.str92}",
+	x: 24.0d,
+	y: 1.0d,
+	shape: "square",
+	text: [
+		"{mpq.str98}"
+	],
+	dependencies: [
+		"e07d39a5"
+	],
+	tasks: [{
+		uid: "929da275",
+		type: "dimension",
+		dim: 53
+	}]
+}

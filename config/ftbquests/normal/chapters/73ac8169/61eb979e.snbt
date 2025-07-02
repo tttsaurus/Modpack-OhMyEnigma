@@ -1,0 +1,17 @@
+{
+	x: 0.0d,
+	y: 10.5d,
+	shape: "square",
+	dependencies: [
+		"8d452981",
+		"5b8cb753"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "fdb1492b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:gummy_litherite"
+		}]
+	}]
+}

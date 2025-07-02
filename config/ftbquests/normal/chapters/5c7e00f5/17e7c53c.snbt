@@ -1,0 +1,15 @@
+{
+	x: 14.2d,
+	y: -5.5d,
+	shape: "square",
+	dependencies: [
+		"d78c14cf"
+	],
+	tasks: [{
+		uid: "d3b07eb7",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_compressor 1 4"
+		}]
+	}]
+}

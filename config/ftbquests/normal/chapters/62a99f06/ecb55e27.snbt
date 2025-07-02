@@ -1,0 +1,19 @@
+{
+	x: 27.5d,
+	y: 4.0d,
+	shape: "square",
+	text: [
+		"{mpq.str103}",
+		"{mpq.str124}"
+	],
+	dependencies: [
+		"7233ce2c"
+	],
+	tasks: [{
+		uid: "3a0bdf59",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:interface"
+		}]
+	}]
+}

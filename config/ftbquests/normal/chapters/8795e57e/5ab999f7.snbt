@@ -1,0 +1,13 @@
+{
+	disable_toast: 1b,
+	x: 1.0d,
+	y: -2.0d,
+	shape: "square",
+	tasks: [{
+		uid: "e32ac49f",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}]
+	}]
+}

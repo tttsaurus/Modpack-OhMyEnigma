@@ -1,0 +1,45 @@
+{
+	title: "{mpq.str173}",
+	x: 9.5d,
+	y: 4.5d,
+	shape: "square",
+	dependencies: [
+		"7784b611"
+	],
+	tasks: [{
+		uid: "3060d83f",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_helmet"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "29c9dee4",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_plate"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "e6f63725",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_legs"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62db62cf",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_boots"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

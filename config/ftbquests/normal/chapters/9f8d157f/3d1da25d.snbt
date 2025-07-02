@@ -1,0 +1,39 @@
+{
+	x: -10.5d,
+	y: 2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str176}"
+	],
+	tasks: [{
+		uid: "1a0fbd51",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}]
+	}],
+	rewards: [{
+		uid: "6bf62724",
+		type: "item",
+		item: "fossil:obsidian_spikes",
+		count: 8
+	},
+	{
+		uid: "a8dbda89",
+		type: "item",
+		item: "extra_slabs:obsidian_stairs",
+		count: 8
+	},
+	{
+		uid: "b9e5ce7b",
+		type: "item",
+		item: "extra_slabs:obsidian_slab",
+		count: 8
+	},
+	{
+		uid: "098491e7",
+		type: "item",
+		item: "newwalls:obsidian_wall",
+		count: 8
+	}]
+}

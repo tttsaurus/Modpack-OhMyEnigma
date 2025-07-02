@@ -1,0 +1,24 @@
+{
+	x: 6.0d,
+	y: 2.5d,
+	shape: "square",
+	text: [
+		"{mpq.str138}",
+		"{mpq.str168}"
+	],
+	dependencies: [
+		"2d8ff679"
+	],
+	tasks: [{
+		uid: "66bde091",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:refinery"
+		}]
+	}],
+	rewards: [{
+		uid: "808ab8a0",
+		type: "item",
+		item: "industrialforegoing:fluiddictionary_converter"
+	}]
+}

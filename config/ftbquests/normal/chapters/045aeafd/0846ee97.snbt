@@ -1,0 +1,22 @@
+{
+	title: "：)",
+	icon: "travelersbackpack:travelers_backpack 1 4",
+	disable_toast: 1b,
+	x: 0.65d,
+	y: 1.9500000000000002d,
+	shape: "diamond",
+	text: [
+		"{mpq.str144}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "5456262e",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "c90d63c1",
+		type: "item",
+		item: "travelersbackpack:travelers_backpack 1 4"
+	}]
+}

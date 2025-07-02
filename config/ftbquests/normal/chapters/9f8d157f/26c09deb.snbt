@@ -1,0 +1,20 @@
+{
+	x: -1.5d,
+	y: -10.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str210}"
+	],
+	dependencies: [
+		"72ddaa60"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "9948a84f",
+		type: "item",
+		items: [{
+			item: "mctsmelteryio:powdered_fuel"
+		}]
+	}]
+}

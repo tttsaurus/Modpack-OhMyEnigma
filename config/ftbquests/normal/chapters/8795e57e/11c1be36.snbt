@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 3.0d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"12b1848e"
+	],
+	tasks: [{
+		uid: "58c5a20e",
+		type: "item",
+		items: [{
+			item: "forestry:farm_crops"
+		}]
+	}]
+}

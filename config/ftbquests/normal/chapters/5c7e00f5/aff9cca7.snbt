@@ -1,0 +1,18 @@
+{
+	x: 19.5d,
+	y: -5.5d,
+	shape: "square",
+	text: [
+		"{mpq.str175}"
+	],
+	dependencies: [
+		"5da458be"
+	],
+	tasks: [{
+		uid: "369f8524",
+		type: "item",
+		items: [{
+			item: "contenttweaker:netherite_scrap"
+		}]
+	}]
+}

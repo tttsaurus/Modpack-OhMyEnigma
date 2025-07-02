@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 4.0d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"fee9a839"
+	],
+	tasks: [{
+		uid: "886381cb",
+		type: "item",
+		items: [{
+			item: "enderio:block_inventory_chest_huge"
+		}]
+	}]
+}

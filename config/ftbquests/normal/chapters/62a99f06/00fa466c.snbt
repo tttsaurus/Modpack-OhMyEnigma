@@ -1,0 +1,23 @@
+{
+	x: 28.5d,
+	y: 1.0d,
+	shape: "square",
+	text: [
+		"{mpq.str190}"
+	],
+	dependencies: [
+		"e07d39a5"
+	],
+	tasks: [{
+		uid: "e34c0873",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:gatekeeperessence"
+		}]
+	}],
+	rewards: [{
+		uid: "41ce5afc",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

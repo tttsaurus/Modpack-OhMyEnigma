@@ -1,0 +1,20 @@
+{
+	x: 6.5d,
+	y: 0.5d,
+	shape: "square",
+	dependencies: [
+		"03129f58"
+	],
+	tasks: [{
+		uid: "fd237311",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_mask"
+		}]
+	}],
+	rewards: [{
+		uid: "9e2077b8",
+		type: "item",
+		item: "galacticraftcore:parachute 1 15"
+	}]
+}

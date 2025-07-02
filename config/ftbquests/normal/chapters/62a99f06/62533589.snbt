@@ -1,0 +1,24 @@
+{
+	x: 16.5d,
+	y: -5.0d,
+	shape: "square",
+	dependencies: [
+		"60fee0ef",
+		"e87914d4"
+	],
+	tasks: [{
+		uid: "62bb72c4",
+		type: "custom",
+		title: "{mpq.str86}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "dragon_gene",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"dragon_gene"
+		]
+	}]
+}

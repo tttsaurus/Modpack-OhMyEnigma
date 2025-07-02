@@ -1,0 +1,21 @@
+{
+	x: -9.5d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str28}",
+		"{mpq.str200}"
+	],
+	tasks: [{
+		uid: "4a20b537",
+		type: "item",
+		items: [{
+			item: "sakura:tatara"
+		}]
+	}],
+	rewards: [{
+		uid: "ca5f5fcf",
+		type: "item",
+		item: "minecraft:flint_and_steel"
+	}]
+}

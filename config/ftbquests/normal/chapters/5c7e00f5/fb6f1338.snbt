@@ -1,0 +1,20 @@
+{
+	x: -1.0d,
+	y: -6.0d,
+	shape: "square",
+	dependencies: [
+		"aa27ad00"
+	],
+	tasks: [{
+		uid: "541d9cb2",
+		type: "item",
+		items: [{
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 32000
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

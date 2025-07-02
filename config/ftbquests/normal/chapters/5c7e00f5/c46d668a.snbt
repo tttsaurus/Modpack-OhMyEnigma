@@ -1,0 +1,19 @@
+{
+	x: 12.0d,
+	y: 9.0d,
+	shape: "square",
+	dependencies: [
+		"b77bf3e8"
+	],
+	tasks: [{
+		uid: "37097a1c",
+		type: "item",
+		items: [{
+			id: "bloodmagic:monster_soul",
+			tag: {
+				souls: 0.7955940827673547d
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

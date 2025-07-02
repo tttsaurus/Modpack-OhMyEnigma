@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str110}"
+	],
+	dependencies: [
+		"e6c453fc"
+	],
+	tasks: [{
+		uid: "6619606a",
+		type: "item",
+		title: "{mpq.str112}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:compressor_2"
+			}
+		}]
+	}]
+}

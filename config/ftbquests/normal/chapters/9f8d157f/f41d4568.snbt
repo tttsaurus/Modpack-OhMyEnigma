@@ -1,0 +1,18 @@
+{
+	x: -2.0d,
+	y: -4.25d,
+	shape: "square",
+	text: [
+		"{mpq.str54}"
+	],
+	dependencies: [
+		"65d2c371"
+	],
+	tasks: [{
+		uid: "a9453bbd",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: -0.5d,
+	shape: "square",
+	dependencies: [
+		"864e03c4"
+	],
+	tasks: [{
+		uid: "9626ad66",
+		type: "item",
+		items: [{
+			item: "contenttweaker:nightmare_piece"
+		}]
+	}]
+}

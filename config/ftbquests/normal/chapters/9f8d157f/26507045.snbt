@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -10.5d,
+	shape: "rsquare",
+	dependencies: [
+		"718a9546"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "6da5bcb7",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:protein_reactor"
+		}]
+	}]
+}

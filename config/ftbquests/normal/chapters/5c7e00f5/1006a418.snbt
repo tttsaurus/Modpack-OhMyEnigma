@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 1.5d,
+	shape: "square",
+	dependencies: [
+		"2d8ff679"
+	],
+	tasks: [{
+		uid: "9d234d88",
+		type: "item",
+		items: [{
+			item: "scp:cog"
+		}]
+	}]
+}

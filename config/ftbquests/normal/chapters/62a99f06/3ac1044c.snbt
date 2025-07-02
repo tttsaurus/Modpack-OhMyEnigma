@@ -1,0 +1,23 @@
+{
+	x: 6.5d,
+	y: -5.0d,
+	shape: "square",
+	text: [
+		"{mpq.str62}"
+	],
+	dependencies: [
+		"3981a280"
+	],
+	tasks: [{
+		uid: "efb4f260",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 2"
+		}]
+	}],
+	rewards: [{
+		uid: "ffab8b87",
+		type: "item",
+		item: "avaritia:resource 1 2"
+	}]
+}

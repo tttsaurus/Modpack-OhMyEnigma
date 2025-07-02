@@ -1,0 +1,23 @@
+{
+	title: "{mpq.str172}",
+	x: 10.8d,
+	y: 4.5d,
+	shape: "square",
+	dependencies: [
+		"bf85bbf9"
+	],
+	tasks: [{
+		uid: "99cd6e9a",
+		type: "item",
+		items: [{
+			item: "hbm:hazmat_cloth"
+		}]
+	},
+	{
+		uid: "6a81acc7",
+		type: "item",
+		items: [{
+			item: "hbm:filter_coal"
+		}]
+	}]
+}

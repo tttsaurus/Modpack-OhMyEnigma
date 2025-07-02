@@ -1,0 +1,31 @@
+{
+	x: 1.5d,
+	y: 2.5d,
+	shape: "square",
+	text: [
+		"{mpq.str68}"
+	],
+	dependencies: [
+		"478957ef"
+	],
+	tasks: [{
+		uid: "57d58114",
+		type: "custom",
+		title: "{mpq.str13}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "scp_lamp",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"scp_lamp"
+		]
+	}],
+	rewards: [{
+		uid: "4c75aa0f",
+		type: "xp",
+		xp: 10
+	}]
+}

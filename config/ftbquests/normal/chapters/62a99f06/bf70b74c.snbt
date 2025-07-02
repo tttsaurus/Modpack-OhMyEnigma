@@ -1,0 +1,15 @@
+{
+	x: 24.0d,
+	y: -2.0d,
+	shape: "square",
+	dependencies: [
+		"353943ec"
+	],
+	tasks: [{
+		uid: "8fb4bb2e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:epic_gateway_key_head"
+		}]
+	}]
+}

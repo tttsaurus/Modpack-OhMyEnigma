@@ -1,0 +1,28 @@
+{
+	x: -2.5d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str206}"
+	],
+	dependencies: [
+		"32de1f23"
+	],
+	tasks: [{
+		uid: "f82c6eba",
+		type: "item",
+		items: [{
+			item: "sakura:materials 1 56"
+		}]
+	}],
+	rewards: [{
+		uid: "aa349632",
+		type: "item",
+		item: "sakura:materials 1 54"
+	},
+	{
+		uid: "d8499e9f",
+		type: "item",
+		item: "hbm:crate_steel"
+	}]
+}

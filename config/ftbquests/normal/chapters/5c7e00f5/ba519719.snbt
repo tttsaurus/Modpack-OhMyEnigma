@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: -1.5d,
+	shape: "square",
+	dependencies: [
+		"c6ed0b62"
+	],
+	tasks: [{
+		uid: "61497d6e",
+		type: "item",
+		items: [{
+			item: "refinedstorage:quartz_enriched_iron"
+		}]
+	}]
+}

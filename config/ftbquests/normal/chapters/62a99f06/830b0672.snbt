@@ -1,0 +1,30 @@
+{
+	title: "{mpq.str51}",
+	icon: "abyssalcraft:skin",
+	x: 2.0d,
+	y: 0.5d,
+	shape: "square",
+	dependencies: [
+		"5f12b897"
+	],
+	tasks: [{
+		uid: "1a22d318",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:skin"
+		}]
+	},
+	{
+		uid: "1b4df4e6",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:powerstonetracker"
+		}]
+	}],
+	rewards: [{
+		uid: "a8231120",
+		type: "item",
+		item: "abyssalcraft:powerstonetracker",
+		count: 9
+	}]
+}

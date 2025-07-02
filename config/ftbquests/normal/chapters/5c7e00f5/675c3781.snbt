@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: -4.0d,
+	shape: "square",
+	text: [
+		"{mpq.str128}"
+	],
+	dependencies: [
+		"85cf7f2a"
+	],
+	tasks: [{
+		uid: "057445ec",
+		type: "item",
+		items: [{
+			item: "refinedstorage:external_storage"
+		}]
+	}]
+}

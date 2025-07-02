@@ -1,0 +1,18 @@
+{
+	x: 3.0d,
+	y: -7.0d,
+	shape: "square",
+	text: [
+		"{mpq.str126}"
+	],
+	dependencies: [
+		"5a603c52"
+	],
+	tasks: [{
+		uid: "eaf8c929",
+		type: "item",
+		items: [{
+			item: "rslargepatterns:large_pattern_encoder"
+		}]
+	}]
+}

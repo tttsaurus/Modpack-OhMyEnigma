@@ -1,0 +1,32 @@
+{
+	x: -3.5d,
+	y: -1.0d,
+	shape: "square",
+	text: [
+		"{mpq.str11}",
+		"{mpq.str12}"
+	],
+	dependencies: [
+		"c343ccd1"
+	],
+	tasks: [{
+		uid: "f9f3be6e",
+		type: "custom",
+		title: "{mpq.str6}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "burnt_black_flesh",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"burnt_black_flesh"
+		]
+	}],
+	rewards: [{
+		uid: "d2bf0eb4",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

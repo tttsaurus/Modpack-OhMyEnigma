@@ -1,0 +1,15 @@
+{
+	x: 14.5d,
+	y: -1.0d,
+	shape: "square",
+	dependencies: [
+		"e3228ea8"
+	],
+	tasks: [{
+		uid: "0052854c",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:ingotnugget 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -6.0d,
+	y: -12.5d,
+	shape: "square",
+	text: [
+		"{mpq.str207}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"d2ceb292"
+	],
+	tasks: [{
+		uid: "29796ee7",
+		type: "item",
+		items: [{
+			item: "forestry:carpenter"
+		}]
+	}]
+}

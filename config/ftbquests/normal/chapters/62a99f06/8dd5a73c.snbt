@@ -1,0 +1,25 @@
+{
+	x: 8.5d,
+	y: 4.5d,
+	shape: "square",
+	text: [
+		"{mpq.str102}"
+	],
+	dependencies: [
+		"7f2a7884"
+	],
+	tasks: [{
+		uid: "56b72fa6",
+		type: "item",
+		items: [{
+			item: "forestry:analyzer"
+		}]
+	},
+	{
+		uid: "96e68798",
+		type: "item",
+		items: [{
+			item: "forestry:database"
+		}]
+	}]
+}

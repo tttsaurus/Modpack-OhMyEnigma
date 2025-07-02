@@ -1,0 +1,16 @@
+{
+	x: -1.0d,
+	y: 5.0d,
+	shape: "square",
+	dependencies: [
+		"c722c26a",
+		"e43c2378"
+	],
+	tasks: [{
+		uid: "faec8bab",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:materializer"
+		}]
+	}]
+}

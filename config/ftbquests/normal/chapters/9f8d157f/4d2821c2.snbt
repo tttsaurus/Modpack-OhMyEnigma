@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: -3.25d,
+	shape: "rsquare",
+	dependencies: [
+		"e7cb1dd3"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "d70f8606",
+		type: "item",
+		items: [{
+			item: "contenttweaker:shoggoth_matter"
+		}]
+	}]
+}

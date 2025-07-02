@@ -1,0 +1,17 @@
+{
+	x: -10.5d,
+	y: -2.0d,
+	shape: "rsquare",
+	optional: 1b,
+	tasks: [{
+		uid: "8c74ecd8",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 0.0d,
+	y: -4.0d,
+	shape: "square",
+	text: [
+		"{mpq.str118}"
+	],
+	dependencies: [
+		"c6b38e53"
+	],
+	tasks: [{
+		uid: "b8976a29",
+		type: "item",
+		items: [{
+			item: "refinedstorage:cable"
+		}]
+	}],
+	rewards: [{
+		uid: "4a7bcecc",
+		type: "item",
+		item: "enderio:item_refined_storage_conduit"
+	}]
+}

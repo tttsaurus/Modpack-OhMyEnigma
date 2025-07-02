@@ -1,0 +1,7 @@
+
+harvestlevel.valyrium=%1$s瓦雷利亚(6)%2$s
+harvestlevel.duranite=%1$s杜兰特(5)%2$s
+harvestlevel.vibranium=%1$s振金(7)%2$s
+
+modifier.mutate.name=变异
+modifier.mutate.desc=§oβ射线？§r\n使得你准备挖掘的方块变成别的方块...

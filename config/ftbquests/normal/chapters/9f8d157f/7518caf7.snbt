@@ -1,0 +1,30 @@
+{
+	x: -1.5d,
+	y: 3.5d,
+	shape: "rsquare",
+	dependencies: [
+		"478957ef"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "adb0ef74",
+		type: "custom",
+		title: "{mpq.str14}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "abyss_shadow",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"abyss_shadow"
+		]
+	}],
+	rewards: [{
+		uid: "f781329f",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

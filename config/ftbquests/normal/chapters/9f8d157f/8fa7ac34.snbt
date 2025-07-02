@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		"{mpq.str35}"
+	],
+	dependencies: [
+		"b33d0397"
+	],
+	tasks: [{
+		uid: "e9de1702",
+		type: "custom",
+		title: "{mpq.str34}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "spiciest_sake",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"spiciest_sake"
+		]
+	}]
+}

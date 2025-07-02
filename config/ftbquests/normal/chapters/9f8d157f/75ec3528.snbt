@@ -1,0 +1,30 @@
+{
+	x: -3.5d,
+	y: -14.5d,
+	shape: "square",
+	dependencies: [
+		"6e2cf8c5"
+	],
+	tasks: [{
+		uid: "efca52ce",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ee48bd44",
+		type: "item",
+		item: {
+			id: "forestry:ffarm",
+			tag: {
+				FarmBlock: 0
+			}
+		},
+		count: 4
+	}]
+}

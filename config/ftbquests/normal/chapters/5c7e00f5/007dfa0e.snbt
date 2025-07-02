@@ -1,0 +1,26 @@
+{
+	x: 5.5d,
+	y: 0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str146}"
+	],
+	dependencies: [
+		"383655a6"
+	],
+	tasks: [{
+		uid: "5f52387c",
+		type: "item",
+		items: [{
+			item: "hbm:can_empty"
+		}]
+	},
+	{
+		uid: "4cea8adb",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oil_canister_partial 1 1001"
+		}],
+		ignore_nbt: 1b
+	}]
+}

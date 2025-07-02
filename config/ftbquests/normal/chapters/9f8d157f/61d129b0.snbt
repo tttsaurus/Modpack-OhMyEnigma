@@ -1,0 +1,25 @@
+{
+	x: 0.5d,
+	y: -2.6d,
+	shape: "square",
+	text: [
+		"{mpq.str29}"
+	],
+	dependencies: [
+		"3cc5e000"
+	],
+	tasks: [{
+		uid: "b761cd17",
+		type: "item",
+		items: [{
+			item: "sakura:cooking_pot"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "48fe4a0e",
+		type: "item",
+		item: "sakura:campfire_idle"
+	}]
+}

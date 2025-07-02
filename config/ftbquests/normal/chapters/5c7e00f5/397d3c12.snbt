@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: -5.0d,
+	shape: "square",
+	text: [
+		"{mpq.str127}"
+	],
+	dependencies: [
+		"c633c4cb"
+	],
+	tasks: [{
+		uid: "7e9598e2",
+		type: "item",
+		items: [{
+			item: "refinedstorage:interface"
+		}]
+	}],
+	rewards: [{
+		uid: "91e41997",
+		type: "item",
+		item: "refinedstorage:fluid_interface"
+	}]
+}

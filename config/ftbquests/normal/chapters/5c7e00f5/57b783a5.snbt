@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"b04d4c63"
+	],
+	tasks: [{
+		uid: "1156b88c",
+		type: "item",
+		items: [{
+			item: "refinedstorage:processor 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "4fb90a65",
+		type: "item",
+		item: "refinedstorage:upgrade"
+	}]
+}

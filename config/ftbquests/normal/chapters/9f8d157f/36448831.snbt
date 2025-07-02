@@ -1,0 +1,21 @@
+{
+	title: "(:",
+	icon: "minecraft:iron_block",
+	x: 5.5d,
+	y: 2.5d,
+	shape: "diamond",
+	text: [
+		"{mpq.str77}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "3c005aba",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "d27e6f5a",
+		type: "item",
+		item: "minecraft:rail"
+	}]
+}

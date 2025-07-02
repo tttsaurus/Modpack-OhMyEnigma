@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: -1.5d,
+	shape: "square",
+	dependencies: [
+		"e69cff90",
+		"ccaf475d"
+	],
+	tasks: [{
+		uid: "4f2b88bd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:bound_cast"
+		}]
+	}]
+}

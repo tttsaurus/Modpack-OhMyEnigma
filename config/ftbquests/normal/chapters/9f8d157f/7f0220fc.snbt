@@ -1,0 +1,18 @@
+{
+	x: 13.0d,
+	y: -14.0d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "ace14c5d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:bioreactor"
+		}]
+	}]
+}

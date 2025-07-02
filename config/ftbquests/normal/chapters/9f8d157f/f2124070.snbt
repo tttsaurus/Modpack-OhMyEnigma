@@ -1,0 +1,19 @@
+{
+	x: 4.5d,
+	y: -0.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"bc8a1c73"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "c4aeecd1",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:range_addon 1 8"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,29 @@
+{
+	title: "{mpq.str74}",
+	icon: "teslacorelib:machine_case",
+	x: 6.75d,
+	y: -13.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str113}",
+		"{mpq.str180}"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "8b528697",
+		type: "item",
+		items: [{
+			item: "teslacorelib:machine_case"
+		}]
+	}],
+	rewards: [{
+		uid: "bcf43adb",
+		type: "item",
+		item: "teslacorelib:energy_tier1"
+	},
+	{
+		uid: "b8cc1bcf",
+		type: "item",
+		item: "teslacorelib:speed_tier1"
+	}]
+}

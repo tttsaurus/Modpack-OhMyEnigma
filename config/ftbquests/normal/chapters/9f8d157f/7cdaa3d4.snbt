@@ -1,0 +1,23 @@
+{
+	x: -10.5d,
+	y: 0.0d,
+	shape: "square",
+	tasks: [{
+		uid: "4bb00ca7",
+		type: "item",
+		items: [{
+			item: "conarm:armorstation"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "0dd746ff",
+		type: "xp",
+		xp: 10
+	},
+	{
+		uid: "70f53840",
+		type: "item",
+		item: "conarm:book"
+	}]
+}

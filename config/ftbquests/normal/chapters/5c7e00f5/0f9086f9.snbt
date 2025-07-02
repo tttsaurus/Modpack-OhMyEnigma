@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: 4.5d,
+	shape: "square",
+	text: [
+		"{mpq.str131}"
+	],
+	dependencies: [
+		"2d8ff679"
+	],
+	tasks: [{
+		uid: "61f25e02",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:mars_machine 1 8"
+		}]
+	}]
+}

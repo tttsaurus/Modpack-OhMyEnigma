@@ -1,0 +1,31 @@
+{
+	x: 2.5d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str26}"
+	],
+	dependencies: [
+		"31a7b7df"
+	],
+	tasks: [{
+		uid: "cdf4df29",
+		type: "custom",
+		title: "{mpq.str25}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "kirisan",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"kirisan"
+		]
+	}],
+	rewards: [{
+		uid: "d68e12de",
+		type: "item",
+		item: "contenttweaker:kirisan_mat_ingot"
+	}]
+}

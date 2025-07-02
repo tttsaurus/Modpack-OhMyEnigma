@@ -1,0 +1,17 @@
+{
+	disable_toast: 1b,
+	x: 0.0d,
+	y: 4.0d,
+	shape: "square",
+	dependencies: [
+		"b5802f8c",
+		"2232afc9"
+	],
+	tasks: [{
+		uid: "ede0d5fd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:coral_flavor"
+		}]
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 6.8d,
+	y: 10.2d,
+	shape: "square",
+	dependencies: [
+		"253b2c2b",
+		"28f6fc5f",
+		"3638f763",
+		"46573412",
+		"318ad855",
+		"6237c6a0"
+	],
+	tasks: [{
+		uid: "5f67dc4f",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_steel_dusted"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	x: 10.8d,
+	y: 10.2d,
+	shape: "square",
+	dependencies: [
+		"90b3e16e"
+	],
+	tasks: [{
+		uid: "c5731808",
+		type: "custom",
+		title: "{mpq.str164}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "violium_fluid",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"violium_fluid"
+		]
+	}]
+}

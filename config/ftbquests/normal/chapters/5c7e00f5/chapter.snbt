@@ -1,0 +1,56 @@
+{
+	title: "{mpq.str106}",
+	icon: {
+		id: "tconstruct:large_plate",
+		tag: {
+			Material: "prismarine"
+		}
+	},
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: "",
+	images: [{
+		x: -4.0d,
+		y: -2.28d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/8.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: -4.0d,
+		y: -6.8d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/9.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: 13.5d,
+		y: 3.0d,
+		width: 5.0d,
+		height: 5.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/10.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	},
+	{
+		x: -6.0d,
+		y: -11.5d,
+		width: 10.47d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/chapter3.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	}]
+}

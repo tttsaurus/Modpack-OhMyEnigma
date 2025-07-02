@@ -1,0 +1,20 @@
+{
+	x: 5.0d,
+	y: 4.5d,
+	shape: "square",
+	text: [
+		"{mpq.str131}"
+	],
+	dependencies: [
+		"85cf7f2a",
+		"2d8ff679"
+	],
+	tasks: [{
+		uid: "8d8fdfc4",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:landing_pad"
+		}],
+		count: 9L
+	}]
+}

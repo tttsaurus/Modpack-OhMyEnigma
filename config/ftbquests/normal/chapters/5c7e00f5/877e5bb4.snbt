@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 2.5d,
+	shape: "square",
+	dependencies: [
+		"03129f58"
+	],
+	tasks: [{
+		uid: "00ea9b31",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:nose_cone"
+		}]
+	}]
+}

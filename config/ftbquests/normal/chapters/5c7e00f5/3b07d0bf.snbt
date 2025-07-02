@@ -1,0 +1,20 @@
+{
+	x: 16.5d,
+	y: 6.0d,
+	shape: "square",
+	dependencies: [
+		"6f77741a"
+	],
+	tasks: [{
+		uid: "af7aa45f",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:abyssalnomicon",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

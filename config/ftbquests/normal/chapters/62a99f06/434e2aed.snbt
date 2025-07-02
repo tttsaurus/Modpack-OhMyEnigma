@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: 0.5d,
+	shape: "square",
+	dependencies: [
+		"e8728b0c"
+	],
+	tasks: [{
+		uid: "c757dd30",
+		type: "item",
+		title: "{mpq.str73}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:brewing_barrel"
+			}
+		}]
+	}]
+}

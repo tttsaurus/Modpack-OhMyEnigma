@@ -1,0 +1,16 @@
+<Def debug = false>
+<HorizontalGroup uid = "infoBar" pivot = TOP_RIGHT alignment = TOP_RIGHT padding = {"top": 2}>
+    <Separator color = #6abe30>
+    <Text text = "[CTRL + P] to expand" color =rgb(48, 190, 48)>
+    <Separator color = #6abe30>
+    <Text uid = "fps">
+    <Separator color = #6abe30>
+    <Text uid = "tps/mspt">
+    <Separator color = #6abe30>
+    <HorizontalGroup enabled = false>
+        <Text text = "Memory: ">
+        <ProgressBar uid = "memoryBar" width = 40 height = 3 alignment = CENTER pivot = CENTER padding = {"right": 5}>
+        <Text uid = "memory">
+    </Group>
+    <Separator color = #6abe30 enabled = false>
+</Group>

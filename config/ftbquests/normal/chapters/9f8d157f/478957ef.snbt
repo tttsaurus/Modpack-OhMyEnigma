@@ -1,0 +1,28 @@
+{
+	x: -1.5d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"a7b7eebf"
+	],
+	tasks: [{
+		uid: "eba3cf17",
+		type: "custom",
+		title: "{mpq.str8}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "nitronite_fluid",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"nitronite_fluid"
+		]
+	}],
+	rewards: [{
+		uid: "f3cdc1a4",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: -5.25d,
+	shape: "square",
+	text: [
+		"{mpq.str63}"
+	],
+	dependencies: [
+		"6c601f2e"
+	],
+	tasks: [{
+		uid: "02955587",
+		type: "item",
+		items: [{
+			item: "enderio:item_material"
+		}]
+	}]
+}

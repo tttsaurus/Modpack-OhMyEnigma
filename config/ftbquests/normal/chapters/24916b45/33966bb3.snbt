@@ -1,0 +1,16 @@
+{
+	x: 8.0d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"e8ab3e73",
+		"8835477a"
+	],
+	tasks: [{
+		uid: "c775bd01",
+		type: "item",
+		items: [{
+			item: "contenttweaker:kinugoshi_tofu_block"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 12.5d,
+	y: -6.5d,
+	shape: "square",
+	dependencies: [
+		"8804db45"
+	],
+	tasks: [{
+		uid: "3eaa7913",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_dura_steel"
+		}]
+	}]
+}

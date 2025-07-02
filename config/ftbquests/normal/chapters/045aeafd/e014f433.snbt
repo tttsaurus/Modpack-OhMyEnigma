@@ -1,0 +1,22 @@
+{
+	title: ";）",
+	icon: "minecraft:wooden_pickaxe",
+	disable_toast: 1b,
+	x: -0.65d,
+	y: 1.9500000000000002d,
+	shape: "diamond",
+	text: [
+		"{mpq.str141}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "c697cfbc",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "8ff3649d",
+		type: "item",
+		item: "minecraft:wooden_pickaxe"
+	}]
+}

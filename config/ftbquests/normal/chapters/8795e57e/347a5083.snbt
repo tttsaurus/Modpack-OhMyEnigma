@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 1.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"2686a8ad"
+	],
+	tasks: [{
+		uid: "747e3eb6",
+		type: "item",
+		items: [{
+			item: "enderio:item_basic_capacitor"
+		}]
+	}]
+}

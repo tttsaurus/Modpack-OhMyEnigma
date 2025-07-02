@@ -1,0 +1,17 @@
+{
+	x: 24.2d,
+	y: -0.8d,
+	shape: "square",
+	dependencies: [
+		"bf70b74c",
+		"2c6a11ec"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "175477b9",
+		type: "item",
+		items: [{
+			item: "contenttweaker:epic_gateway_key"
+		}]
+	}]
+}

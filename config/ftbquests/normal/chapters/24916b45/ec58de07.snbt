@@ -1,0 +1,15 @@
+{
+	x: 2.5d,
+	y: 4.0d,
+	shape: "square",
+	dependencies: [
+		"751988af"
+	],
+	tasks: [{
+		uid: "95856fbf",
+		type: "item",
+		items: [{
+			item: "teastory:straw"
+		}]
+	}]
+}

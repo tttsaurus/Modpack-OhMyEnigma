@@ -1,0 +1,20 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	shape: "square",
+	dependencies: [
+		"830b0672"
+	],
+	tasks: [{
+		uid: "8d15b9e4",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:necronomicon_cor",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

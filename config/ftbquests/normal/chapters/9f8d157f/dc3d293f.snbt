@@ -1,0 +1,34 @@
+{
+	x: -2.0d,
+	y: -5.25d,
+	shape: "square",
+	text: [
+		"{mpq.str191}",
+		"{mpq.str108}"
+	],
+	dependencies: [
+		"f41d4568"
+	],
+	tasks: [{
+		uid: "86a02efc",
+		type: "item",
+		items: [{
+			item: "enderio:item_material 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "28318da7",
+		type: "item",
+		item: "enderio:item_liquid_conduit"
+	},
+	{
+		uid: "d73e9b8a",
+		type: "item",
+		item: "enderio:item_power_conduit"
+	},
+	{
+		uid: "af6dc3fe",
+		type: "item",
+		item: "enderio:item_item_conduit"
+	}]
+}

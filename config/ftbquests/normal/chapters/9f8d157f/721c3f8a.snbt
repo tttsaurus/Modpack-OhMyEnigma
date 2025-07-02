@@ -1,0 +1,20 @@
+{
+	x: 3.5d,
+	y: -5.25d,
+	shape: "square",
+	text: [
+		"{mpq.str195}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"3cc5e000",
+		"8312350d"
+	],
+	tasks: [{
+		uid: "c7e1d9ea",
+		type: "item",
+		items: [{
+			item: "sakura:barrel_distillation"
+		}]
+	}]
+}

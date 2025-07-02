@@ -1,0 +1,31 @@
+{
+	x: -8.5d,
+	y: 0.0d,
+	shape: "square",
+	tasks: [{
+		uid: "15a74e19",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			Damage: 1s,
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1b6a2f06",
+		type: "xp",
+		xp: 10
+	},
+	{
+		uid: "edad550c",
+		type: "item",
+		item: "tconstruct:tooltables 1 4"
+	}]
+}

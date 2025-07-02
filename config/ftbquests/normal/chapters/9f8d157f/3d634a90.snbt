@@ -1,0 +1,68 @@
+{
+	title: "{mpq.str178}",
+	x: -3.5d,
+	y: -13.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str177}",
+		"{mpq.str179}"
+	],
+	dependencies: [
+		"75ec3528"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "b577319d",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			Damage: 2s,
+			tag: {
+				FarmBlock: 0
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "003922cd",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			Damage: 3s,
+			tag: {
+				FarmBlock: 0
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "35d75161",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			Damage: 4s,
+			tag: {
+				FarmBlock: 0
+			}
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1ba58da7",
+		type: "item",
+		items: [{
+			id: "forestry:ffarm",
+			Damage: 5s,
+			tag: {
+				FarmBlock: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8b7cd871",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

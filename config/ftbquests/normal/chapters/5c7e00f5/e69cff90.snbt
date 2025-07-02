@@ -1,0 +1,16 @@
+{
+	x: 6.0d,
+	y: -1.5d,
+	shape: "square",
+	dependencies: [
+		"f056b150",
+		"cf8a56b9"
+	],
+	tasks: [{
+		uid: "eeb387c2",
+		type: "item",
+		items: [{
+			item: "environmentaltech:mica"
+		}]
+	}]
+}

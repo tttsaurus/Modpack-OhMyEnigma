@@ -1,0 +1,28 @@
+{
+	x: -2.5d,
+	y: -10.5d,
+	shape: "rsquare",
+	dependencies: [
+		"9745edbd"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "5b729498",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:protein_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "da6d47d2",
+		type: "item",
+		item: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "if.protein",
+				Amount: 1000
+			}
+		}
+	}]
+}

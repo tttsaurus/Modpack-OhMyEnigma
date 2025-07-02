@@ -1,0 +1,18 @@
+{
+	x: 12.0d,
+	y: -0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str169}"
+	],
+	dependencies: [
+		"4699b4c5"
+	],
+	tasks: [{
+		uid: "3e0c26d1",
+		type: "item",
+		items: [{
+			item: "contenttweaker:soul_crystal_container"
+		}]
+	}]
+}

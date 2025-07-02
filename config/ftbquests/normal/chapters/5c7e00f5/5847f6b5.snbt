@@ -1,0 +1,15 @@
+{
+	x: 7.0d,
+	y: 2.5d,
+	shape: "square",
+	dependencies: [
+		"383655a6"
+	],
+	tasks: [{
+		uid: "900b94a2",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:oxygen_concentrator"
+		}]
+	}]
+}

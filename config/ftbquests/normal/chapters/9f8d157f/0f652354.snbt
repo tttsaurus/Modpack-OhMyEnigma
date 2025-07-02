@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: -8.0d,
+	shape: "square",
+	dependencies: [
+		"487a1a2d"
+	],
+	tasks: [{
+		uid: "135189f0",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:crystalized_menril_block"
+		}]
+	}]
+}

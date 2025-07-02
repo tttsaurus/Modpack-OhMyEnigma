@@ -1,0 +1,27 @@
+{
+	x: 14.5d,
+	y: -2.8d,
+	shape: "square",
+	text: [
+		"{mpq.str152}",
+		"{mpq.str151}",
+		"{mpq.str170}"
+	],
+	dependencies: [
+		"9515577a"
+	],
+	tasks: [{
+		uid: "eada7fe9",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:crafting_core"
+		}]
+	},
+	{
+		uid: "a56a0080",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:pedestal"
+		}]
+	}]
+}

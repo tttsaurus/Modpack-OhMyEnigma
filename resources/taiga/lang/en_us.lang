@@ -1,0 +1,7 @@
+
+harvestlevel.valyrium=%1$sValyrium(6)%2$s
+harvestlevel.duranite=%1$sDuranite(5)%2$s
+harvestlevel.vibranium=%1$sVibranium(7)%2$s
+
+modifier.mutate.name=Mutate
+modifier.mutate.desc=§oβ-ray?§r\nIt enables the block that you are going to mine to change...

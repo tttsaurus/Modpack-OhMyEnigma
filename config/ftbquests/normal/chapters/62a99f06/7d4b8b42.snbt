@@ -1,0 +1,16 @@
+{
+	x: 5.5d,
+	y: 6.5d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"8d4e6992"
+	],
+	tasks: [{
+		uid: "0274ff4c",
+		type: "item",
+		items: [{
+			item: "enderio:block_buffer 1 1"
+		}]
+	}]
+}

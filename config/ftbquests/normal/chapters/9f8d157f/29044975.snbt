@@ -1,0 +1,19 @@
+{
+	x: -10.0d,
+	y: -3.25d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"31a7b7df"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "3a6df369",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:energydepositioner"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 2.5d,
+	shape: "square",
+	dependencies: [
+		"71726ced"
+	],
+	tasks: [{
+		uid: "33cc2efb",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:heavy_plating"
+		}]
+	}]
+}

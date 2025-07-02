@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 2.0d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"e9504587"
+	],
+	tasks: [{
+		uid: "21737274",
+		type: "item",
+		items: [{
+			item: "teslacorelib:machine_case"
+		}]
+	}]
+}

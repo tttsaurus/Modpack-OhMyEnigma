@@ -1,0 +1,42 @@
+{
+	x: 3.0d,
+	y: -0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str135}"
+	],
+	dependencies: [
+		"e6c453fc"
+	],
+	tasks: [{
+		uid: "d480dd8a",
+		type: "item",
+		items: [{
+			item: "bloodmagic:altar"
+		}]
+	},
+	{
+		uid: "67c0c56b",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {
+				sacrifice: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "69691387",
+		type: "item",
+		item: {
+			id: "guideapi:bloodmagic-guide",
+			tag: {
+				G-API_Category_Page: 0,
+				G-API_Entry_Page: 0,
+				G-API_Page: 0,
+				G-API_Category: 1
+			}
+		}
+	}]
+}

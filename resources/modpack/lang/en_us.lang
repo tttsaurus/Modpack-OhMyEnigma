@@ -1,0 +1,51 @@
+
+current_language.code=en_us
+
+banned_item_tooltip=§o§cThis item is being banned
+banned_item_compensation_tooltip=§oCan be crafted to a bread as a compensation
+
+#Harvest Level
+harvest_level_0.name=§8§lStone §r§f§l§o0§r§e
+harvest_level_1.name=§7§lIron §r§f§l§o1§r§e
+harvest_level_2.name=§b§lDiamond §r§f§l§o2§r§e
+harvest_level_3.name=§0§lObsidian §r§f§l§o3§r§e
+harvest_level_4.name=§9§lCobalt §r§f§l§o4§r§e
+harvest_level_5.name=§1§lDuranite §r§f§l§o5§r§e
+harvest_level_6.name=§6§lValyrium §r§f§l§o6§r§e
+harvest_level_7.name=§f§lVibranium §r§f§l§o7§r§e
+harvest_level_8.name=§b§lSchrabidium §r§f§l§o8§r§e
+
+#Event
+mpe.str1=Part of the Moon ascends to the Overworld at x=0, y=200, z=0
+
+#JEI
+mpjei.str1=Catalyst
+mpjei.str2=Output
+mpjei.str3=Infusion
+mpjei.str4=PE: 
+mpjei.str5=No Risk 100%
+mpjei.str6=Mild 90%
+mpjei.str7=Moderate 75%
+mpjei.str8=Severe 50%
+mpjei.str9=Very Severe! 30%
+mpjei.str10=Impossible!! 20%
+mpjei.str11=Risk: 
+mpjei.str12=Aspects
+mpjei.str13=Spawns in groups in the Nether between y=0 and y=15
+mpjei.str14=Spawns within the bedrock layer at y=1 in the Nether
+mpjei.str15=Spawns in groups within the bedrock layer at y=1 in the Nether
+mpjei.str16=Cannot be mined, can only be destroyed by explosions
+mpjei.str17=Harvest Level is Duranite
+mpjei.str18=This was discovered on the surface of the Moon
+mpjei.str19=This meteoric iron is not like ordinary meteoric iron
+mpjei.str20=These are fertilizers that can be used in Forestry machines
+mpjei.str21=Firstly, look for a Shoggoth lair
+mpjei.str22=Obtain it by mining the slime produced by Shoggoths
+
+#Ritual
+ac.ritual.craft_teleporterbeneath=Paulownia enters the Beneath
+ac.ritual.craft_teleporterbeneath.desc=When the paulownia tree enters, three thousand years pass
+ac.ritual.craft_liquidcoralium=Coralium Summoning
+ac.ritual.craft_liquidcoralium.desc=The Coralium Plague will eventually arrive
+ac.ritual.craft_psdl=Getting the Powerstone from no where
+ac.ritual.craft_psdl.desc=Obtain the Powerstone from a thousand miles away, focusing on the enjoyment of playing without leaving home

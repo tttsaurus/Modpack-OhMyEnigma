@@ -1,0 +1,15 @@
+{
+	x: 8.5d,
+	y: 1.5d,
+	shape: "square",
+	dependencies: [
+		"03129f58"
+	],
+	tasks: [{
+		uid: "344eb59a",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_fins"
+		}]
+	}]
+}

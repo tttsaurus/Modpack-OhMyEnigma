@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 7.5d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"8d4e6992"
+	],
+	tasks: [{
+		uid: "be430ec1",
+		type: "item",
+		items: [{
+			item: "enderio:block_lava_generator"
+		}]
+	}]
+}

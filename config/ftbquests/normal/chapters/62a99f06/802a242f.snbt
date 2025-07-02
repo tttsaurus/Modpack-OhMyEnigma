@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: 3.0d,
+	shape: "square",
+	text: [
+		"{mpq.str116}",
+		"{mpq.str199}"
+	],
+	tasks: [{
+		uid: "b9d923ae",
+		type: "item",
+		items: [{
+			item: "enderio:block_inventory_panel"
+		}]
+	}]
+}

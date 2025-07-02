@@ -1,0 +1,19 @@
+{
+	x: 13.5d,
+	y: 6.0d,
+	shape: "square",
+	dependencies: [
+		"b3e46a02"
+	],
+	tasks: [{
+		uid: "c6e0cba5",
+		type: "item",
+		title: "{mpq.str156}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:infusion_altar"
+			}
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 3.5d,
+	y: 4.0d,
+	shape: "square",
+	tasks: [{
+		uid: "9d835907",
+		type: "item",
+		items: [{
+			item: "sakura:buckwheat"
+		}]
+	}]
+}

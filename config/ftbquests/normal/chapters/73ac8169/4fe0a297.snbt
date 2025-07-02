@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 1.0d,
+	shape: "square",
+	dependencies: [
+		"d6ead3ff"
+	],
+	tasks: [{
+		uid: "844f9b59",
+		type: "item",
+		items: [{
+			item: "sakura:kitunebi"
+		}]
+	}]
+}

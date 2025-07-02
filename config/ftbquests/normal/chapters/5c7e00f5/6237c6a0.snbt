@@ -1,0 +1,17 @@
+{
+	x: 7.4d,
+	y: 7.8d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7ab3bd31"
+	],
+	size: 0.7d,
+	tasks: [{
+		uid: "0a8760a0",
+		type: "item",
+		items: [{
+			item: "bloodmagic:component 1 4"
+		}]
+	}]
+}

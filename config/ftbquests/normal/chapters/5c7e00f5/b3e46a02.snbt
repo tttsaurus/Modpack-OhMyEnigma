@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: -0.5d,
+	shape: "square",
+	dependencies: [
+		"fc1f5b39"
+	],
+	tasks: [{
+		uid: "b4849525",
+		type: "item",
+		items: [{
+			item: "contenttweaker:infusion_book"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 5.5d,
+	y: -6.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"1b693768"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "59a64033",
+		type: "item",
+		items: [{
+			item: "mctsmelteryio:upgrade 1 4"
+		}]
+	}]
+}

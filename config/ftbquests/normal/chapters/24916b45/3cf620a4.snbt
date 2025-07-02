@@ -1,0 +1,16 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"38ecae99"
+	],
+	tasks: [{
+		uid: "9740ae07",
+		type: "item",
+		items: [{
+			item: "sakura:ramen_block"
+		}]
+	}]
+}

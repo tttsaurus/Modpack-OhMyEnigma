@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str207}"
+	],
+	dependencies: [
+		"d2ceb292"
+	],
+	tasks: [{
+		uid: "ab79a22c",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:latex_processing_unit"
+		}]
+	}]
+}

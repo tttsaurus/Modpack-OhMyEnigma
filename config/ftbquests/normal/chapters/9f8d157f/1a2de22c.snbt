@@ -1,0 +1,26 @@
+{
+	x: -3.5d,
+	y: -2.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c343ccd1"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "21537d79",
+		type: "item",
+		items: [{
+			item: "mctsmelteryio:machine 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "0f0524b0",
+		type: "item",
+		item: "mctsmelteryio:upgrade 1 6"
+	},
+	{
+		uid: "d6242d25",
+		type: "item",
+		item: "mctsmelteryio:upgrade 1 7"
+	}]
+}

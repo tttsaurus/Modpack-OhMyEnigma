@@ -1,0 +1,30 @@
+{
+	x: 13.5d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"059668ce",
+		"81368cba",
+		"138e4212"
+	],
+	tasks: [{
+		uid: "fc1e823d",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:materializer"
+		}]
+	},
+	{
+		uid: "fa34a324",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:crystalbag_small",
+			tag: {
+				InvSize: 18,
+				ItemInventory: []
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

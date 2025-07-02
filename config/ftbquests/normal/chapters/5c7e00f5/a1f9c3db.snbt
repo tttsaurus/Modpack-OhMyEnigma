@@ -1,0 +1,18 @@
+{
+	x: 16.5d,
+	y: 0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str143}"
+	],
+	dependencies: [
+		"bd8edf68"
+	],
+	tasks: [{
+		uid: "1408723c",
+		type: "item",
+		items: [{
+			item: "environmentaltech:erodium_crystal"
+		}]
+	}]
+}

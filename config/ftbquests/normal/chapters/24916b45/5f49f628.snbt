@@ -1,0 +1,26 @@
+{
+	x: 0.0d,
+	y: 1.0d,
+	shape: "square",
+	text: [
+		"{mpq.str198}"
+	],
+	dependencies: [
+		"b65053f6",
+		"309569d2"
+	],
+	tasks: [{
+		uid: "ef0be97b",
+		type: "item",
+		items: [{
+			item: "sakura:foodset"
+		}]
+	},
+	{
+		uid: "06cf5a2f",
+		type: "item",
+		items: [{
+			item: "sakura:foodset 1 120"
+		}]
+	}]
+}

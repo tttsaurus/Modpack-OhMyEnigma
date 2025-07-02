@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: -1.0d,
+	shape: "square",
+	tasks: [{
+		uid: "dd99ff62",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:psdl"
+		}]
+	}]
+}

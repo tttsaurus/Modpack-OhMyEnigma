@@ -1,0 +1,17 @@
+{
+	disable_toast: 1b,
+	x: 1.0d,
+	y: 5.5d,
+	shape: "square",
+	dependencies: [
+		"559f4e3b"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "7bb8549d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:gummy_investigator"
+		}]
+	}]
+}

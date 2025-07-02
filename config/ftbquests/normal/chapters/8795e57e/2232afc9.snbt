@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 1.0d,
+	y: 4.0d,
+	shape: "square",
+	dependencies: [
+		"7c6bfce7"
+	],
+	tasks: [{
+		uid: "59959ed7",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_sag_mill"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 18.0d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"02da1bf0"
+	],
+	tasks: [{
+		uid: "a33db346",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:solar"
+		}]
+	}]
+}

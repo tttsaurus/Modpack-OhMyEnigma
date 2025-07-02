@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: -1.5d,
+	shape: "square",
+	dependencies: [
+		"d47db16e"
+	],
+	tasks: [{
+		uid: "6e0b4a9b",
+		type: "item",
+		items: [{
+			item: "teastory:half_dried_leaf_block"
+		}]
+	}]
+}

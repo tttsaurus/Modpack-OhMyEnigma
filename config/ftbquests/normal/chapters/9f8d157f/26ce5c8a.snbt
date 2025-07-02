@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		"{mpq.str207}"
+	],
+	dependencies: [
+		"d2ceb292"
+	],
+	tasks: [{
+		uid: "2391da5e",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:tree_fluid_extractor"
+		}]
+	}]
+}

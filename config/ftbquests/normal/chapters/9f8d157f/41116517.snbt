@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -9.5d,
+	shape: "square",
+	dependencies: [
+		"0f652354"
+	],
+	tasks: [{
+		uid: "4532ddbf",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:mechanical_drying_basin"
+		}]
+	}]
+}

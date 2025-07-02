@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"a858b330"
+	],
+	tasks: [{
+		uid: "3292d61d",
+		type: "item",
+		items: [{
+			item: "contenttweaker:casing_heavy"
+		}]
+	}]
+}

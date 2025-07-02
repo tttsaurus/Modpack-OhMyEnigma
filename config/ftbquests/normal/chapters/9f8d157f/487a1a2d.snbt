@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: -9.5d,
+	shape: "square",
+	dependencies: [
+		"d2ceb292"
+	],
+	tasks: [{
+		uid: "632b8efe",
+		type: "item",
+		items: [{
+			item: "forestry:squeezer"
+		}]
+	}]
+}

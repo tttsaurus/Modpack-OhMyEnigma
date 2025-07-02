@@ -1,0 +1,18 @@
+{
+	x: -6.5d,
+	y: -5.25d,
+	shape: "square",
+	text: [
+		"{mpq.str203}"
+	],
+	dependencies: [
+		"5479e8c9"
+	],
+	tasks: [{
+		uid: "7473d603",
+		type: "item",
+		items: [{
+			item: "sakura:materials 1 49"
+		}]
+	}]
+}

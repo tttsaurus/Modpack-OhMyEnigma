@@ -1,0 +1,26 @@
+{
+	title: "{mpq.str87}",
+	x: -2.5d,
+	y: -7.0d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"d2ceb292"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "998ce57c",
+		type: "item",
+		items: [{
+			item: "enderio:block_vacuum_chest"
+		}]
+	},
+	{
+		uid: "c5a07d62",
+		type: "item",
+		items: [{
+			item: "enderio:block_xp_vacuum"
+		}]
+	}]
+}

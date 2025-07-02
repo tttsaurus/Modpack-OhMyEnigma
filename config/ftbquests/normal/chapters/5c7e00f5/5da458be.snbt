@@ -1,0 +1,15 @@
+{
+	x: 19.5d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"77d1344d"
+	],
+	tasks: [{
+		uid: "323caede",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ancient_debris"
+		}]
+	}]
+}

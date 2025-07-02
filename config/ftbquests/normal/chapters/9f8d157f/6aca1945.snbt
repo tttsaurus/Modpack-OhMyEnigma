@@ -1,0 +1,20 @@
+{
+	title: "{mpq.str2}",
+	x: -10.5d,
+	y: -1.0d,
+	shape: "square",
+	tasks: [{
+		uid: "d9805fa4",
+		type: "item",
+		items: [{
+			item: "tconstruct:soil"
+		}],
+		count: 5L
+	}],
+	rewards: [{
+		uid: "aaeeab85",
+		type: "item",
+		item: "tconstruct:soil",
+		count: 32
+	}]
+}

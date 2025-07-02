@@ -1,0 +1,18 @@
+{
+	x: 0.5d,
+	y: -13.0d,
+	shape: "square",
+	text: [
+		"{mpq.str65}"
+	],
+	dependencies: [
+		"04335a91"
+	],
+	tasks: [{
+		uid: "14ad84c3",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:mob_relocator"
+		}]
+	}]
+}

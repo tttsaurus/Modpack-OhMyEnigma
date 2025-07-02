@@ -1,0 +1,16 @@
+{
+	x: 2.0d,
+	y: 6.0d,
+	shape: "square",
+	dependencies: [
+		"7206b5e9"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "3465b9fc",
+		type: "item",
+		items: [{
+			item: "dimstack:bedrock"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -6.0d,
+	y: -11.5d,
+	shape: "rsquare",
+	dependencies: [
+		"524895b0"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "ca7f1554",
+		type: "item",
+		items: [{
+			item: "forestry:oak_stick"
+		}]
+	}]
+}

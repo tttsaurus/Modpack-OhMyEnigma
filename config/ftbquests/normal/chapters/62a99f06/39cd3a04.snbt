@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: -2.5d,
+	shape: "square",
+	text: [
+		"{mpq.str70}"
+	],
+	dependencies: [
+		"3f7986f9"
+	],
+	tasks: [{
+		uid: "a7790d7a",
+		type: "item",
+		items: [{
+			item: "enderio:item_end_steel_pickaxe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

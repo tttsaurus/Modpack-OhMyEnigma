@@ -1,0 +1,15 @@
+{
+	x: 11.0d,
+	y: -1.5d,
+	shape: "square",
+	dependencies: [
+		"4699b4c5"
+	],
+	tasks: [{
+		uid: "888a5f92",
+		type: "item",
+		items: [{
+			item: "environmentaltech:solar_cell_litherite"
+		}]
+	}]
+}

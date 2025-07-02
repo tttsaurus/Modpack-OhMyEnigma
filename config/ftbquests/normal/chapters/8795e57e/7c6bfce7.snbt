@@ -1,0 +1,18 @@
+{
+	disable_toast: 1b,
+	x: 1.0d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"fa29ef58",
+		"1e883fc9",
+		"3b25baef"
+	],
+	tasks: [{
+		uid: "99ce2609",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_washer"
+		}]
+	}]
+}

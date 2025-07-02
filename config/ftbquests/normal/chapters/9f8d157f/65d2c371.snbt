@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: -4.25d,
+	shape: "square",
+	dependencies: [
+		"8ae8a990",
+		"94913b21",
+		"61d129b0"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "0469f28e",
+		type: "item",
+		items: [{
+			item: "contenttweaker:mandela_plastic_steel"
+		}]
+	}]
+}

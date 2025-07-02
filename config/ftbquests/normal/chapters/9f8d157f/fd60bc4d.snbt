@@ -1,0 +1,17 @@
+{
+	x: -5.5d,
+	y: -4.25d,
+	shape: "square",
+	dependencies: [
+		"117753b3",
+		"0cb90336"
+	],
+	tasks: [{
+		uid: "b6362341",
+		type: "item",
+		items: [{
+			item: "baubles:ring"
+		}],
+		ignore_nbt: 1b
+	}]
+}

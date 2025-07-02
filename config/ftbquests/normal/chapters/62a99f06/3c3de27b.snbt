@@ -1,0 +1,15 @@
+{
+	x: 9.0d,
+	y: 0.5d,
+	shape: "square",
+	dependencies: [
+		"27d3774a"
+	],
+	tasks: [{
+		uid: "b79f220b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:polycrystalline_silicon_plate"
+		}]
+	}]
+}

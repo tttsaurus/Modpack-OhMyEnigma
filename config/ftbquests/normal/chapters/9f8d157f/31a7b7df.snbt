@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str21}"
+	],
+	tasks: [{
+		uid: "2b452c8e",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:cpearl"
+		}]
+	}]
+}

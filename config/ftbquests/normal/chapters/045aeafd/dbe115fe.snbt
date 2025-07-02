@@ -1,0 +1,23 @@
+{
+	title: "： )",
+	icon: "elevatorid:elevator_white",
+	disable_toast: 1b,
+	x: 1.3d,
+	y: 1.3d,
+	shape: "diamond",
+	text: [
+		"{mpq.str153}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "3ba625c6",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "6afe19da",
+		type: "item",
+		item: "elevatorid:elevator_white",
+		count: 4
+	}]
+}

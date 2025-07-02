@@ -1,0 +1,20 @@
+{
+	x: 6.0d,
+	y: -2.5d,
+	shape: "square",
+	text: [
+		"{mpq.str132}"
+	],
+	dependencies: [
+		"85cf7f2a"
+	],
+	tasks: [{
+		uid: "cfd6aa99",
+		type: "item",
+		items: [{
+			item: "environmentaltech:tool_multiblock_assembler"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

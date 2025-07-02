@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -4.25d,
+	shape: "square",
+	dependencies: [
+		"f41d4568"
+	],
+	tasks: [{
+		uid: "f9f928c9",
+		type: "item",
+		items: [{
+			item: "baublelicious:itemring"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

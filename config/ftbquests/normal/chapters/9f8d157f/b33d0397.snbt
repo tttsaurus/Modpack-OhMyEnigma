@@ -1,0 +1,18 @@
+{
+	x: 4.0d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		"{mpq.str30}"
+	],
+	dependencies: [
+		"778f1afc"
+	],
+	tasks: [{
+		uid: "dd1bd6c3",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:solidlava"
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: -3.5d,
+	shape: "square",
+	dependencies: [
+		"8a087cbf"
+	],
+	tasks: [{
+		uid: "470042f5",
+		type: "item",
+		items: [{
+			item: "environmentaltech:connector"
+		}]
+	}]
+}

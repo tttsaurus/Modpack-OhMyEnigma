@@ -1,0 +1,20 @@
+{
+	title: "{mpq.str197}",
+	x: 0.0d,
+	y: 2.0d,
+	shape: "square",
+	tasks: [{
+		uid: "a99212aa",
+		type: "item",
+		items: [{
+			item: "sakura:grape_splint_stand"
+		}]
+	},
+	{
+		uid: "d8dbbed2",
+		type: "item",
+		items: [{
+			item: "sakura:grape_splint"
+		}]
+	}]
+}

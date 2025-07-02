@@ -1,0 +1,22 @@
+{
+	x: -2.5d,
+	y: -9.5d,
+	shape: "square",
+	dependencies: [
+		"d2ceb292",
+		"e6941713"
+	],
+	tasks: [{
+		uid: "e2021288",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:petrified_fuel_generator"
+		}]
+	}],
+	rewards: [{
+		uid: "de8038c1",
+		type: "item",
+		item: "minecraft:coal_block",
+		count: 3
+	}]
+}

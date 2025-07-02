@@ -1,0 +1,21 @@
+{
+	x: -5.0d,
+	y: -10.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str207}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"d2ceb292"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "b57b7d84",
+		type: "item",
+		items: [{
+			item: "forestry:bottler"
+		}]
+	}]
+}

@@ -1,0 +1,151 @@
+
+#Effect
+effect.contenttweaker.stare_of_pleiades=Gaze of the Pleiades
+
+#Fluid
+fluid.burnt_black_flesh=Molten Seared Flesh
+fluid.rotten_flesh=Molten Rotten Flesh
+fluid.diamond=Molten Diamond
+fluid.sakura_diamond=Molten Sakura Diamond
+fluid.sakura_abyss_dimeat_paste=Molten Abyss Di-meat Sauce
+fluid.scp_lamp=Molten Polluted Glowing Metal
+fluid.abyss_shadow=Molten Pure Shadow
+fluid.cpearl=Molten Coral Pearl
+fluid.kirisan=Molten Paulownia
+fluid.scp_unusual_ingot=Molten Telekill
+fluid.mandela=Molten Mandela Alloy
+fluid.bladewood_resin=Bladewood Resin
+fluid.spiciest_sake=The Spiciest Sake
+fluid.dark_matter_steel=Molten "Dark Matter" Steel
+fluid.chaga=Chaga Flux
+fluid.dragon_gene=Draconic Genetic Matter
+fluid.advanced_fuel=Advanced Fuel
+fluid.golden_apple_juice=Golden Apple Juice
+fluid.soybean_liquid=Soybean Liquid
+fluid.soybean_juice=Soybean Juice
+
+#Material
+material.burnt_black_flesh_mat.name=Seared Flesh
+item.contenttweaker.burnt_black_flesh_mat_ingot.name=§cSeared Flesh Ingot
+material.diamond_mat.name=Diamond
+material.sakura_diamond_mat.name=Sakura Diamond
+material.kirisan_mat.name=Paulownia
+item.contenttweaker.kirisan_mat_ingot.name=§6Paulownia Ingot
+material.mandela_mat.name=Mandela Alloy
+item.contenttweaker.mandela_mat_ingot.name=§2Mandela Alloy Ingot
+material.dark_matter_steel_mat.name="Dark Matter" Steel
+item.contenttweaker.dark_matter_steel_mat_ingot.name=§8"Dark Matter" Steel Ingot
+material.netherite_mat.name=Netherite
+
+#Modifier
+modifier.whydontyoueat.name=Why Don't You Eat?
+modifier.whydontyoueat.desc=§oStop it, I'm scared.§r\nEach time a critical hit occurs, restore health proportional to the attack damage, with a maximum limit of 5 hearts.
+modifier.shadow_of_pleiades.name=The Shadow of the Pleiades
+modifier.shadow_of_pleiades.desc=§oThe Pleiades will appear above the horizon!§r\nGain Shadow Fragments with each critical hit, and trigger the Gaze of the Pleiades with a 20% chance.
+modifier.glimpse_of_time.name=A Glimpse of the Form of Time
+modifier.glimpse_of_time.desc=§oWhen the paulownia tree enters, three thousand years pass.§r\nDuring battle, there is a 10% chance that the opponent's attack will fail because time no longer exists.
+modifier.the_feaster.name=The Feaster
+modifier.the_feaster.desc=§oHas the Feaster actually arrived or not?§r\nAttacking has a 10% chance to bestow the Gaze of the Pleiades upon the opponent.
+
+#Item
+item.contenttweaker.fresh_flesh.name=§cFresh Flesh
+item.contenttweaker.lumber_kirisan.name=§6Paulownia Wood
+item.contenttweaker.rule_stick.name=§eBlood and Flesh Rule Stick
+item.contenttweaker.mandela_plastic_steel.name=§2Mandela Organic Steel
+item.contenttweaker.bladewood_residue.name=§eBladewood Residue
+item.contenttweaker.dread_piece.name=§4Dread Piece
+item.contenttweaker.polycrystalline_silicon_plate.name=Polycrystalline Silicon Plate
+item.contenttweaker.circuit_board.name=Precise Circuit Board
+item.contenttweaker.monocrystalline_silicon_plate.name=Monocrystalline Silicon Plate
+item.contenttweaker.dragon_issue.name=Dragon Flesh Tissue
+item.contenttweaker.dread_essence.name=§4Essence of Fear Gemstone
+item.contenttweaker.epic_gateway_key_head.name=§c§kA§r§4?Key Head?§r§c§kA
+item.contenttweaker.epic_gateway_key_tail.name=§c§kA§r§4?Key Handle?§r§c§kA
+item.contenttweaker.epic_gateway_key.name=§4Sealed Legendary Key
+item.contenttweaker.litherite_flavor.name=§2Litherite Seasoning
+item.contenttweaker.nightmare_piece.name=§4Nightmare Piece
+item.contenttweaker.soul_crystal.name=Soul Crystal
+item.contenttweaker.bound_cast.name=§4Bound Ingot Casting Mold
+item.contenttweaker.soul_crystal_container.name=Soul Crystal Container
+item.contenttweaker.heated_dusted_steel_1.name=Tier 1 Blazing Dusted Steel
+item.contenttweaker.heated_dusted_steel_2.name=Tier 2 Blazing Dusted Steel
+item.contenttweaker.heated_dusted_steel_3.name=Tier 3 Blazing Dusted Steel
+item.contenttweaker.heated_dusted_steel_4.name=Tier 4 Blazing Dusted Steel
+item.contenttweaker.heated_dusted_steel_5.name=Tier 5 Blazing Dusted Steel
+item.contenttweaker.heated_dusted_steel_6.name=Tier 6 Blazing Dusted Steel
+item.contenttweaker.infusion_book.name=Infusion Guiding Book
+item.contenttweaker.fatal_error.name=§4§lFat§2§lal §e§lEr§6§lrro
+item.contenttweaker.netherite_scrap.name=Netherite Scrap
+item.contenttweaker.moon_dust.name=Moon Dust
+item.contenttweaker.shoggoth_clay.name=Shoggoth Clay
+item.contenttweaker.shoggoth_matter.name=§4Shoggoth Matter
+item.contenttweaker.jauxum_crystal_shard.name=§2Jauxum Crystal Shard
+item.contenttweaker.karmesine_crystal_shard.name=§cKarmesine Crystal Shard
+item.contenttweaker.ovium_crystal_shard.name=§3Ovium Crystal Shard
+item.contenttweaker.coral_flavor.name=§2Coral Seasoning
+
+#Food
+item.contenttweaker.gummy_investigator.name=§2Gummy Investigator
+item.contenttweaker.gummy_litherite.name=§2Gummy Litherite
+item.contenttweaker.fake_dragon_skin.name=§dImitated Dragon Skin
+item.contenttweaker.little_fake_dragon_skin.name=§dSmall Piece of Imitated Dragon Skin
+
+#Block
+tile.contenttweaker.ancient_debris_raw.name=Primal Ancient Debris
+tile.contenttweaker.ancient_debris.name=Ancient Debris
+tile.contenttweaker.sakura_osram_trunk.name=Sakura Osram Tree Trunk
+tile.contenttweaker.kinugoshi_tofu_block.name=Kinugoshi Tofu Block
+tile.contenttweaker.momen_tofu_block.name=Momen Tofu Block
+tile.contenttweaker.hard_tofu_block.name=Hard Tofu Block
+tile.contenttweaker.halide_salt.name=Halide Salt
+
+#Casing
+tile.contenttweaker.casing_dragon.name=§dDragon Casing
+tile.contenttweaker.casing_heavy.name=Heavy-Duty Protective Casing
+tile.contenttweaker.casing_multifunc_machine_tool.name=Multifunctional Machine Tool Casing
+tile.contenttweaker.casing_soul_stabilizing.name=Soul Stabilizing Casing
+tile.contenttweaker.casing_forge_press.name=Forging Press Casing
+tile.contenttweaker.casing_refractory.name=Fire-Resistant Casing
+tile.contenttweaker.casing_ender_suppression.name=Ender Suppression Casing
+
+#Framework
+tile.contenttweaker.framework_dragon.name=§d§dDragon Framework
+tile.contenttweaker.framework_soul_capturing.name=Soul Capturing Framework
+tile.contenttweaker.framework_forge_press.name=Forging Press Framework
+
+#Compressed
+item.contenttweaker.compressed_dark_matter_steel.name=Compressed "Dark Matter" Steel
+item.contenttweaker.compressed_ethaxium.name=Compressed Ethaxium
+item.contenttweaker.compressed_litherite.name=Compressed Litherite
+item.contenttweaker.compressed_crystaltine.name=Compressed Crystaltine
+item.contenttweaker.compressed_gold.name=Compressed Gold
+item.contenttweaker.compressed_lead.name=Compressed Lead
+
+#Dust
+item.contenttweaker.dust_diamond.name=Diamond Dust
+item.contenttweaker.dust_sakura_diamond.name=Sakura Diamond Dust
+item.contenttweaker.dust_telekill.name=Telekill Dust
+item.contenttweaker.dust_copper.name=Copper Dust
+item.contenttweaker.dust_tin.name=Tin Dust
+item.contenttweaker.dust_iron.name=Iron Dust
+item.contenttweaker.dust_gold.name=Gold Dust
+item.contenttweaker.dust_cobalt.name=Cobalt Dust
+item.contenttweaker.dust_ardite.name=Ardite Dust
+item.contenttweaker.dust_lead.name=Lead Dust
+item.contenttweaker.dust_promethium_contained.name=Prometheum Containing Dust
+item.contenttweaker.dust_valyrium_contained.name=Valyrium Containing Dust
+item.contenttweaker.dust_titanium_contained.name=Titanium Containing Dust
+
+#TinyBlock
+item.contenttweaker.tiny_block_trixite.name=Small Piece of Trixite
+item.contenttweaker.tiny_block_ender_trixite.name=Small Piece of Ender Trixite
+
+#SC
+item.contenttweaker.sc_dragon.name=§c§kA§r§e§lSoul Aspect - Dragon§c§kA
+item.contenttweaker.sc_entropy.name=§c§kA§r§e§lSoul Aspect - Entropy§c§kA
+item.contenttweaker.sc_dark.name=§c§kA§r§e§lSoul Aspect - Dark§c§kA
+item.contenttweaker.sc_luminous.name=§c§kA§r§e§lSoul Aspect - Light§c§kA
+item.contenttweaker.sc_ancient.name=§c§kA§r§e§lSoul Aspect - Ancient§c§kA
+item.contenttweaker.sc_penetration.name=§c§kA§r§e§lSoul Aspect - Penetration§c§kA
+item.contenttweaker.sc_decay.name=§c§kA§r§e§lSoul Aspect - Corruption§c§kA
+item.contenttweaker.sc_twin.name=§c§kA§r§e§lSoul Aspect - Twin§c§kA

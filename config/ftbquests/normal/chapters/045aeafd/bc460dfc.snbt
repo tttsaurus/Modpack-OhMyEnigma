@@ -1,0 +1,22 @@
+{
+	title: "：)",
+	icon: "forestry:pipette",
+	disable_toast: 1b,
+	x: -0.65d,
+	y: 0.65d,
+	shape: "diamond",
+	text: [
+		"{mpq.str16}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "a21dbf99",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "a70270f4",
+		type: "item",
+		item: "forestry:pipette"
+	}]
+}

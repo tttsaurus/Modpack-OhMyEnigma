@@ -1,0 +1,19 @@
+{
+	x: 10.8d,
+	y: 6.0d,
+	shape: "square",
+	text: [
+		"{mpq.str171}"
+	],
+	dependencies: [
+		"1bf662f3",
+		"7ab3bd31"
+	],
+	tasks: [{
+		uid: "ec2f9c58",
+		type: "item",
+		items: [{
+			item: "avaritiaitem:paradox"
+		}]
+	}]
+}

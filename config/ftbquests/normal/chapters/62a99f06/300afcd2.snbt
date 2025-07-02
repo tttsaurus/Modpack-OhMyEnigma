@@ -1,0 +1,28 @@
+{
+	title: "{mpq.str45}",
+	x: 26.0d,
+	y: 6.5d,
+	shape: "square",
+	text: [
+		"{mpq.str105}",
+		"{mpq.str129}"
+	],
+	dependencies: [
+		"9a72a902",
+		"7233ce2c"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "d1962cdc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:gummy_litherite"
+		}]
+	}],
+	rewards: [{
+		uid: "a63469a9",
+		type: "item",
+		item: "torcherino:torch_lvl1",
+		count: 2
+	}]
+}

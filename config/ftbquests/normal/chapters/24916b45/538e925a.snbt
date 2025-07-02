@@ -1,0 +1,21 @@
+{
+	x: 4.5d,
+	y: 4.0d,
+	shape: "square",
+	text: [
+		"{mpq.str201}"
+	],
+	tasks: [{
+		uid: "097e8a69",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	}],
+	rewards: [{
+		uid: "550bb15b",
+		type: "item",
+		item: "sakura:materials 1 4",
+		count: 16
+	}]
+}

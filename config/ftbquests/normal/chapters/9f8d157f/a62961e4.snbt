@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str43}"
+	],
+	dependencies: [
+		"b33d0397"
+	],
+	tasks: [{
+		uid: "7fb7ae5c",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:drainstaff"
+		}],
+		ignore_nbt: 1b
+	}]
+}

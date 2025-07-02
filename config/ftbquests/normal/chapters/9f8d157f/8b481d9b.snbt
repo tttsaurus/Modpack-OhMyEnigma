@@ -1,0 +1,36 @@
+{
+	x: -6.0d,
+	y: -13.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str182}",
+		"{mpq.str209}"
+	],
+	dependencies: [
+		"524895b0"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "9e6262f9",
+		type: "item",
+		items: [{
+			id: "forestry:soldering_iron",
+			tag: {
+				UID: 783778454,
+				Slots: {}
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "3dcb1ad8",
+		type: "item",
+		item: {
+			id: "forestry:chipsets",
+			tag: {
+				T: 0s
+			}
+		}
+	}]
+}

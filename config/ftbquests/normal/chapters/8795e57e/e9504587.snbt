@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 2.0d,
+	y: 1.0d,
+	shape: "square",
+	dependencies: [
+		"a7e86964"
+	],
+	tasks: [{
+		uid: "784e5958",
+		type: "item",
+		items: [{
+			item: "contenttweaker:mandela_plastic_steel"
+		}]
+	}]
+}

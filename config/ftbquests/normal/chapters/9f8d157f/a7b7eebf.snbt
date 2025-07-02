@@ -1,0 +1,29 @@
+{
+	x: -3.5d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"a9b4ada9",
+		"dab1384e"
+	],
+	tasks: [{
+		uid: "c18a7b9e",
+		type: "custom",
+		title: "{mpq.str7}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "magma_fluid",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"magma_fluid"
+		]
+	}],
+	rewards: [{
+		uid: "9e0aa1f7",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

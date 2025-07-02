@@ -1,0 +1,23 @@
+{
+	disable_toast: 1b,
+	x: -8.0d,
+	y: 0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str49}"
+	],
+	tasks: [{
+		uid: "75814063",
+		type: "custom",
+		title: "{mpq.str107}",
+		icon: "contenttweaker:gummy_litherite",
+		tags: [
+			"stage2"
+		]
+	}],
+	rewards: [{
+		uid: "712296be",
+		type: "item",
+		item: "denseneutroncollectors:compressed_neutron_collector"
+	}]
+}

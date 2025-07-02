@@ -1,0 +1,18 @@
+{
+	x: 22.0d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str95}"
+	],
+	dependencies: [
+		"60fbb8ca"
+	],
+	tasks: [{
+		uid: "b6c8b444",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:dreadkey"
+		}]
+	}]
+}

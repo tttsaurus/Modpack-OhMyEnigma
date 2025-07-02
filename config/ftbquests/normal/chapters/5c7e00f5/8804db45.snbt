@@ -1,0 +1,22 @@
+{
+	x: 12.5d,
+	y: -3.5d,
+	shape: "square",
+	text: [
+		"{mpq.str160}"
+	],
+	dependencies: [
+		"eb011e7d"
+	],
+	tasks: [{
+		uid: "a22a2237",
+		type: "item",
+		title: "{mpq.str149}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:industrial_blast_furnace"
+			}
+		}]
+	}]
+}

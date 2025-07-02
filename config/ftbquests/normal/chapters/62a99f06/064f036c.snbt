@@ -1,0 +1,20 @@
+{
+	title: "{mpq.str93}",
+	x: 16.5d,
+	y: -2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str94}"
+	],
+	dependencies: [
+		"71cd6f49",
+		"9c77300c"
+	],
+	tasks: [{
+		uid: "fd8139b3",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:machine2 1 4"
+		}]
+	}]
+}

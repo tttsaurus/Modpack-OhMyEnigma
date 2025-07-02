@@ -1,0 +1,19 @@
+{
+	x: 12.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"e3228ea8"
+	],
+	tasks: [{
+		uid: "db906320",
+		type: "item",
+		title: "{mpq.str79}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:chaga_generator"
+			}
+		}]
+	}]
+}

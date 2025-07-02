@@ -1,0 +1,22 @@
+{
+	title: "{mpq.str45}",
+	x: 8.5d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str44}",
+		"{mpq.str46}"
+	],
+	dependencies: [
+		"2b9e0f1a",
+		"8fa7ac34"
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "06241293",
+		type: "item",
+		items: [{
+			item: "contenttweaker:gummy_investigator"
+		}]
+	}]
+}

@@ -1,0 +1,43 @@
+{
+	title: "{mpq.str165}",
+	x: 7.5d,
+	y: -7.0d,
+	shape: "square",
+	text: [
+		"{mpq.str167}"
+	],
+	dependencies: [
+		"5dda200e"
+	],
+	tasks: [{
+		uid: "1a0b3190",
+		type: "item",
+		items: [{
+			item: "taiga:valyrium_ore"
+		}]
+	},
+	{
+		uid: "2c3198cf",
+		type: "item",
+		items: [{
+			item: "taiga:uru_ore"
+		}]
+	},
+	{
+		uid: "b164fd66",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ancient_debris_raw"
+		}]
+	}],
+	rewards: [{
+		uid: "4c397400",
+		type: "item",
+		item: {
+			id: "tconstruct:shard",
+			tag: {
+				Material: "crystal_matrix"
+			}
+		}
+	}]
+}

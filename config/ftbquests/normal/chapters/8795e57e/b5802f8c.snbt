@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: -1.0d,
+	y: 4.0d,
+	shape: "square",
+	dependencies: [
+		"9022e5cc"
+	],
+	tasks: [{
+		uid: "28a0d413",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:essence"
+		}]
+	}]
+}

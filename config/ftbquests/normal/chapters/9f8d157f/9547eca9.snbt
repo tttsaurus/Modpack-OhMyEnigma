@@ -1,0 +1,32 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str20}"
+	],
+	dependencies: [
+		"414cd04b"
+	],
+	tasks: [{
+		uid: "09d41242",
+		type: "custom",
+		title: "{mpq.str23}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "liquidcoralium",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"liquidcoralium"
+		]
+	}],
+	rewards: [{
+		uid: "c4de9830",
+		type: "item",
+		item: "abyssalcraft:coralium",
+		count: 2
+	}]
+}

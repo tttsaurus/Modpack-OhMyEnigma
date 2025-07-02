@@ -1,0 +1,22 @@
+{
+	title: ":)",
+	icon: "betterbuilderswands:wandiron",
+	disable_toast: 1b,
+	x: -1.3d,
+	y: 1.3d,
+	shape: "diamond",
+	text: [
+		"{mpq.str147}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "a177538b",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "93c9f221",
+		type: "item",
+		item: "betterbuilderswands:wandiron"
+	}]
+}

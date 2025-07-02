@@ -1,0 +1,22 @@
+{
+	x: 0.5d,
+	y: -7.0d,
+	shape: "square",
+	dependencies: [
+		"0f652354",
+		"65d2c371"
+	],
+	tasks: [{
+		uid: "120cd98a",
+		type: "item",
+		items: [{
+			item: "teslacorelib:machine_case"
+		}]
+	}],
+	rewards: [{
+		uid: "0f509eaa",
+		type: "item",
+		item: "contenttweaker:mandela_plastic_steel",
+		count: 4
+	}]
+}

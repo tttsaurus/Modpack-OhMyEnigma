@@ -1,0 +1,15 @@
+{
+	x: 14.5d,
+	y: 5.5d,
+	shape: "square",
+	dependencies: [
+		"9e758af0"
+	],
+	tasks: [{
+		uid: "5d3daada",
+		type: "item",
+		items: [{
+			item: "enderio:block_transceiver"
+		}]
+	}]
+}

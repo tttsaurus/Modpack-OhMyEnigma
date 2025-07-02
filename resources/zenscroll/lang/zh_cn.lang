@@ -1,0 +1,13 @@
+zenscroll.config.modifierKey=Modifier Key
+zenscroll.config.reversed=Reversed
+zenscroll.config.enabled=Enabled
+
+zenscroll.tooltip=%s-滚动滚轮以切换至同类物品
+
+zenscroll.options.modifier_key=[Zen Scroll] 启动滚轮物品切换的热键
+
+zenscroll.jei.notBound=No ZenScroll modifier key bound
+zenscroll.jei.creativeOnly=%s-scroll to cycle in creative
+zenscroll.jei.scroll.title=滚轮物品切换
+
+zenscroll.kick.uCheatin=Invalid scroll packet, u cheatin?

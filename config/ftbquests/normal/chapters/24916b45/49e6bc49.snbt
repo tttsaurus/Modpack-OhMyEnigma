@@ -1,0 +1,15 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"cdb02ce4"
+	],
+	tasks: [{
+		uid: "df430017",
+		type: "item",
+		items: [{
+			item: "sakura:materials 1 38"
+		}]
+	}]
+}

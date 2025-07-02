@@ -1,0 +1,19 @@
+{
+	x: 17.0d,
+	y: -2.0d,
+	shape: "square",
+	dependencies: [
+		"f8b5981e"
+	],
+	tasks: [{
+		uid: "41a90237",
+		type: "item",
+		title: "{mpq.str157}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:circular_soul_farm_2"
+			}
+		}]
+	}]
+}

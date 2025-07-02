@@ -1,0 +1,18 @@
+{
+	x: -5.5d,
+	y: -6.25d,
+	shape: "square",
+	dependencies: [
+		"8312350d"
+	],
+	tasks: [{
+		uid: "412b7f4a",
+		type: "item",
+		items: [{
+			id: "sakura:bottle_alcoholic",
+			Damage: 8s,
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	x: 16.5d,
+	y: -3.0d,
+	shape: "square",
+	dependencies: [
+		"81368cba",
+		"c2758bb2"
+	],
+	tasks: [{
+		uid: "a714a2cc",
+		type: "item",
+		items: [{
+			item: "contenttweaker:framework_dragon"
+		}]
+	}]
+}

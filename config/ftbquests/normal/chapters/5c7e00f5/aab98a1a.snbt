@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: 4.5d,
+	shape: "square",
+	text: [
+		"{mpq.str131}"
+	],
+	dependencies: [
+		"2d8ff679"
+	],
+	tasks: [{
+		uid: "74919cee",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}]
+}

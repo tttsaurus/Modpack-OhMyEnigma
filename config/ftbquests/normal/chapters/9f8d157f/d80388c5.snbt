@@ -1,0 +1,17 @@
+{
+	x: -3.5d,
+	y: -3.25d,
+	shape: "rsquare",
+	dependencies: [
+		"f41d4568"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "2f235078",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statue"
+		}]
+	}]
+}

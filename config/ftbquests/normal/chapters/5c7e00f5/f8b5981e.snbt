@@ -1,0 +1,16 @@
+{
+	x: 18.0d,
+	y: -2.0d,
+	shape: "square",
+	dependencies: [
+		"77d1344d",
+		"80c4a295"
+	],
+	tasks: [{
+		uid: "fde54c89",
+		type: "item",
+		items: [{
+			item: "contenttweaker:tiny_block_ender_trixite"
+		}]
+	}]
+}

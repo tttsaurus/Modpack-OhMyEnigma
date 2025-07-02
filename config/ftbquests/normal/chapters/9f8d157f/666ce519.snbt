@@ -1,0 +1,20 @@
+{
+	x: -6.5d,
+	y: -3.25d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str204}"
+	],
+	dependencies: [
+		"4d2821c2"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "f2bc804c",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:shoggothbiomass"
+		}]
+	}]
+}

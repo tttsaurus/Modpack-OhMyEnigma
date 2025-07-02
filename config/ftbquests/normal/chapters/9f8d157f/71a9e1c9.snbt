@@ -1,0 +1,23 @@
+{
+	x: -3.5d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"a7b7eebf"
+	],
+	tasks: [{
+		uid: "575ba98f",
+		type: "custom",
+		title: "{mpq.str19}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "sakura_diamond",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"sakura_diamond"
+		]
+	}]
+}

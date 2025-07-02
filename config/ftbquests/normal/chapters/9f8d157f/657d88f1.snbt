@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: -11.5d,
+	shape: "square",
+	dependencies: [
+		"487a1a2d"
+	],
+	tasks: [{
+		uid: "ef8a6761",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:conveyor"
+		}]
+	}]
+}

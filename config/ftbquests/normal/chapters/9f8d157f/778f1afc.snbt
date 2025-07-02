@@ -1,0 +1,21 @@
+{
+	x: 2.75d,
+	y: -9.5d,
+	shape: "square",
+	text: [
+		"{mpq.str78}"
+	],
+	dependencies: [
+		"6c601f2e",
+		"58fdccb3",
+		"04335a91"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "928ffb02",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:transmutator"
+		}]
+	}]
+}

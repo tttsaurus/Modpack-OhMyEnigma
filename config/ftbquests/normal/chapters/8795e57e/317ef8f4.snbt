@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 3.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"598bf169"
+	],
+	tasks: [{
+		uid: "1bc11302",
+		type: "item",
+		items: [{
+			item: "forestry:carpenter"
+		}]
+	}]
+}

@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str82}",
+		"{mpq.str83}",
+		"{mpq.str84}"
+	],
+	dependencies: [
+		"64eac3ce"
+	],
+	tasks: [{
+		uid: "1e958c7a",
+		type: "item",
+		title: "{mpq.str80}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:mining_machine"
+			}
+		}]
+	}]
+}

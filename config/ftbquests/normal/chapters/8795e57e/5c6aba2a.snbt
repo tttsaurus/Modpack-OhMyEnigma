@@ -1,0 +1,19 @@
+{
+	disable_toast: 1b,
+	x: -1.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"64939cdb",
+		"2fb14b4b"
+	],
+	tasks: [{
+		uid: "c2d09e1c",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:transmutationgem"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

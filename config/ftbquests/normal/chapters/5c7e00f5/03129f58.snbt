@@ -1,0 +1,22 @@
+{
+	x: 7.0d,
+	y: 1.5d,
+	shape: "square",
+	dependencies: [
+		"383655a6"
+	],
+	tasks: [{
+		uid: "34d85ec0",
+		type: "item",
+		items: [{
+			item: "hbm:plate_steel"
+		}]
+	},
+	{
+		uid: "64c4454b",
+		type: "item",
+		items: [{
+			item: "hbm:plate_lead"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: 2.0d,
+	y: 2.5d,
+	shape: "square",
+	dependencies: [
+		"a858b330"
+	],
+	tasks: [{
+		uid: "5ab7533c",
+		type: "item",
+		title: "{mpq.str130}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:multifunc_machine_tool"
+			}
+		}]
+	}]
+}

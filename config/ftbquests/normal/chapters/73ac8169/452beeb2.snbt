@@ -1,0 +1,15 @@
+{
+	x: -1.0d,
+	y: 7.0d,
+	shape: "square",
+	dependencies: [
+		"e64f17ab"
+	],
+	tasks: [{
+		uid: "90d6facf",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:skin 1 1"
+		}]
+	}]
+}

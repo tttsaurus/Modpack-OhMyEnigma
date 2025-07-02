@@ -1,0 +1,19 @@
+{
+	x: -8.5d,
+	y: -11.5d,
+	shape: "rsquare",
+	dependencies: [
+		"f91c94ee"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "6706855a",
+		type: "item",
+		items: [{
+			item: "sakura:knife_fish"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

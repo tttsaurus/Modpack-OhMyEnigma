@@ -1,0 +1,23 @@
+{
+	x: 8.0d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"62aaef00"
+	],
+	tasks: [{
+		uid: "1a968210",
+		type: "custom",
+		title: "{mpq.str202}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "soybean_liquid",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"soybean_liquid"
+		]
+	}]
+}

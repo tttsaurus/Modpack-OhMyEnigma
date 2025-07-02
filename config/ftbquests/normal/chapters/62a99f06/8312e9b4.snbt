@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: -4.0d,
+	shape: "square",
+	dependencies: [
+		"60fee0ef"
+	],
+	tasks: [{
+		uid: "09769d71",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcasing 1 2"
+		}]
+	}]
+}

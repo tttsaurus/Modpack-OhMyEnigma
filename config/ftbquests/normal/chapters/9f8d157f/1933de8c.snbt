@@ -1,0 +1,51 @@
+{
+	x: -4.5d,
+	y: -2.0d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"c343ccd1"
+	],
+	tasks: [{
+		uid: "b81be09e",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "8b84c048",
+		type: "item",
+		item: {
+			id: "tconstruct:cast",
+			tag: {
+				PartType: "tconstruct:pick_head"
+			}
+		}
+	},
+	{
+		uid: "7de732ca",
+		type: "item",
+		item: "tconstruct:book"
+	},
+	{
+		uid: "b6dda310",
+		type: "item",
+		item: "hbm:crate_iron"
+	},
+	{
+		uid: "4f7713b7",
+		type: "item",
+		item: {
+			id: "naturescompass:naturescompass",
+			tag: {
+				BiomeID: 50,
+				FoundX: 1744,
+				SearchRadius: 10001,
+				Samples: 109,
+				State: 2,
+				FoundZ: -1315
+			}
+		}
+	}]
+}

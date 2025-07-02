@@ -1,0 +1,22 @@
+{
+	x: 1.0d,
+	y: -0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str110}"
+	],
+	dependencies: [
+		"e6c453fc"
+	],
+	tasks: [{
+		uid: "cfef3a83",
+		type: "item",
+		title: "{mpq.str111}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:heter_fabrication_machine_2"
+			}
+		}]
+	}]
+}

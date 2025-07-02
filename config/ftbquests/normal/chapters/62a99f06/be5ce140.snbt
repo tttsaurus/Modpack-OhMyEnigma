@@ -1,0 +1,71 @@
+{
+	title: "{mpq.str57}",
+	icon: "integrateddynamics:variable",
+	x: -4.0d,
+	y: 2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str56}"
+	],
+	tasks: [{
+		uid: "6c8d603e",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:portable_logic_programmer"
+		}]
+	},
+	{
+		uid: "ebb27143",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:variable"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "61354d7a",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_interface_energy_item"
+		}]
+	},
+	{
+		uid: "2ea23b31",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_interface_item_item"
+		}]
+	},
+	{
+		uid: "3619f7b3",
+		type: "item",
+		items: [{
+			item: "integratedtunnels:part_interface_fluid_item"
+		}]
+	},
+	{
+		uid: "46ff6ddc",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:cable"
+		}]
+	}],
+	rewards: [{
+		uid: "7971134f",
+		type: "item",
+		item: "integratedtunnels:part_interface_energy_item",
+		count: 5
+	},
+	{
+		uid: "3555921f",
+		type: "item",
+		item: "integratedtunnels:part_interface_item_item",
+		count: 5
+	},
+	{
+		uid: "5e63fcbd",
+		type: "item",
+		item: "integratedtunnels:part_interface_fluid_item",
+		count: 5
+	}]
+}

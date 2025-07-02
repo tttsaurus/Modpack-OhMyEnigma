@@ -1,0 +1,26 @@
+{
+	x: -9.5d,
+	y: 1.0d,
+	shape: "square",
+	text: [
+		"{mpq.str189}"
+	],
+	dependencies: [
+		"0cf83926"
+	],
+	tasks: [{
+		uid: "df306990",
+		type: "item",
+		items: [{
+			id: "tconstruct:toolforge",
+			tag: {
+				textureBlock: {
+					id: "minecraft:iron_block",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

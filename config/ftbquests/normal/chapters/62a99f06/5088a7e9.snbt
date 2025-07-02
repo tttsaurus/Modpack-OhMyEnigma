@@ -1,0 +1,16 @@
+{
+	x: 6.5d,
+	y: 1.5d,
+	shape: "square",
+	dependencies: [
+		"e8728b0c"
+	],
+	size: 1.5d,
+	tasks: [{
+		uid: "817188aa",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:odbcore"
+		}]
+	}]
+}

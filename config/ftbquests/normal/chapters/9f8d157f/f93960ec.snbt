@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: -6.25d,
+	shape: "square",
+	text: [
+		"{mpq.str194}"
+	],
+	dependencies: [
+		"dc3d293f"
+	],
+	tasks: [{
+		uid: "5f0f3594",
+		type: "item",
+		items: [{
+			item: "sakura:cup"
+		}]
+	}]
+}

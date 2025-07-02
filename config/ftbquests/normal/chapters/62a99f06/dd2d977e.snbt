@@ -1,0 +1,16 @@
+{
+	x: 26.5d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"63d9f741",
+		"5a3e7775"
+	],
+	tasks: [{
+		uid: "3f03e3a7",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:eldercoin"
+		}]
+	}]
+}

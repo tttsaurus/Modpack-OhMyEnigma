@@ -1,0 +1,22 @@
+{
+	x: -4.5d,
+	y: -3.25d,
+	shape: "rsquare",
+	dependencies: [
+		"d80388c5"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "2b51ef18",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "abyssalcraft:lessershoggoth"
+				}
+			}
+		}]
+	}]
+}

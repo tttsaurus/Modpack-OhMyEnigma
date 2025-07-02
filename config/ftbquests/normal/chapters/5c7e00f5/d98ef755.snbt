@@ -1,0 +1,24 @@
+{
+	x: 3.0d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"{mpq.str123}",
+		"{mpq.str125}"
+	],
+	dependencies: [
+		"5a603c52"
+	],
+	tasks: [{
+		uid: "4fa9b4b2",
+		type: "item",
+		items: [{
+			item: "refinedstorage:crafter"
+		}]
+	}],
+	rewards: [{
+		uid: "c903ae09",
+		type: "item",
+		item: "requious:cache"
+	}]
+}

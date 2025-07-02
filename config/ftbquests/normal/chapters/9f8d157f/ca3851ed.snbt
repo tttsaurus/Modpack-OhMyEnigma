@@ -1,0 +1,18 @@
+{
+	x: 5.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"fc8e260a"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "c4f31fb7",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}]
+	}]
+}

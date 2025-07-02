@@ -1,0 +1,15 @@
+{
+	x: 3.5d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"9d1c1d74"
+	],
+	tasks: [{
+		uid: "edba21ff",
+		type: "item",
+		items: [{
+			item: "enderio:block_dark_steel_anvil"
+		}]
+	}]
+}

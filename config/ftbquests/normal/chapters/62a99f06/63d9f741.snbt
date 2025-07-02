@@ -1,0 +1,15 @@
+{
+	x: 27.5d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"e07d39a5"
+	],
+	tasks: [{
+		uid: "91d8875e",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:engraver"
+		}]
+	}]
+}

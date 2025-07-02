@@ -1,0 +1,17 @@
+{
+	x: 16.5d,
+	y: 9.0d,
+	shape: "square",
+	dependencies: [
+		"928175b4"
+	],
+	tasks: [{
+		uid: "2d933418",
+		type: "item",
+		items: [{
+			item: "hbm:cobalt_decorated_pickaxe"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

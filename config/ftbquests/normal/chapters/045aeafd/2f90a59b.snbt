@@ -1,0 +1,17 @@
+{
+	title: "： ）",
+	icon: "minecraft:lava_bucket",
+	disable_toast: 1b,
+	x: 0.65d,
+	y: 0.65d,
+	shape: "diamond",
+	text: [
+		"{mpq.str15}"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "d43d7f24",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}]
+}

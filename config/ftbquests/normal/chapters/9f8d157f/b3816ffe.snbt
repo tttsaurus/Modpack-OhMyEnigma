@@ -1,0 +1,16 @@
+{
+	x: 2.5d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"69bb077e"
+	],
+	tasks: [{
+		uid: "21faf650",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:oc"
+		}],
+		ignore_nbt: 1b
+	}]
+}

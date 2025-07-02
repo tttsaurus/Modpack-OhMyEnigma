@@ -1,0 +1,27 @@
+{
+	title: "{mpq.str38}",
+	x: -1.5d,
+	y: -13.0d,
+	shape: "square",
+	text: [
+		"{mpq.str37}"
+	],
+	dependencies: [
+		"657d88f1",
+		"72ddaa60"
+	],
+	tasks: [{
+		uid: "47ad08a6",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_sieve"
+		}]
+	},
+	{
+		uid: "b7a548a0",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_fermenter"
+		}]
+	}]
+}

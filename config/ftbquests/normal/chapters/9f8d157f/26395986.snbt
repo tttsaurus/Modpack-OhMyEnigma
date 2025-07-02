@@ -1,0 +1,25 @@
+{
+	x: 3.0d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str52}"
+	],
+	dependencies: [
+		"6c98aa21"
+	],
+	tasks: [{
+		uid: "3629833a",
+		type: "item",
+		items: [{
+			item: "integrateddynamics:on_the_dynamics_of_integration"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "80c44676",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

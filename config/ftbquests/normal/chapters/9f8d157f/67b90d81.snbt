@@ -1,0 +1,18 @@
+{
+	x: 11.0d,
+	y: -13.0d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "f74cdb07",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:potion_enervator"
+		}]
+	}]
+}

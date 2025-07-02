@@ -1,0 +1,23 @@
+{
+	x: -4.5d,
+	y: 3.5d,
+	shape: "square",
+	dependencies: [
+		"a7b7eebf"
+	],
+	tasks: [{
+		uid: "63730ec9",
+		type: "custom",
+		title: "{mpq.str10}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "diamond",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"diamond"
+		]
+	}]
+}

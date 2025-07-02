@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -5.0d,
+	shape: "square",
+	dependencies: [
+		"ffa05808"
+	],
+	tasks: [{
+		uid: "7c0a2bde",
+		type: "item",
+		title: "{mpq.str60}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:anni_neutron_collector"
+			}
+		}]
+	}]
+}

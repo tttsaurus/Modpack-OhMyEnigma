@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: -11.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"4445da78"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "8fa3e356",
+		type: "item",
+		items: [{
+			item: "forestry:farm_ender"
+		}]
+	}]
+}

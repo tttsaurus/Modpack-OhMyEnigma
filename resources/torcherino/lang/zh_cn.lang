@@ -1,0 +1,36 @@
+
+gui.button.StrWork=工作中: 
+gui.button.StrRender=可视化: 
+gui.button.StrOn=开
+gui.button.StrOff=关
+
+gui.info.text=信息: 点击鼠标左键增加半径或速度，SHIFT+点击鼠标左键用于减小
+gui.info.modes=速度模式数量: 
+gui.info.area=最大半径: 
+gui.info.pos=位置: 
+
+item.timewand.name=§6时间之杖
+
+item.config.name=§e配置
+item.torchinfo.name=§e信息
+item.diamondclock.name=§b钻石钟
+item.emeraldclock.name=§a绿宝石钟
+item.goldclock.name=§6金钟
+item.lapisclock.name=§9青金石钟
+item.redstoneclock.name=§c红石钟
+item.compressedtorch.name=§e压缩火把
+item.bindingelement.name=§d概念级粘合元素
+item.bindingelement2.name=§5进阶概念级粘合元素
+itemGroup.torcherinoTab=加速火把社区版
+
+tile.torch_lvl1.name=§9加速火把 1级
+tile.torch_lvl2.name=§a加速火把 2级
+tile.torch_lvl3.name=§c加速火把 3级
+tile.torch_lvl4.name=§6加速火把 4级
+tile.torch_lvl5.name=§b加速火把 5级
+
+tile.compressed_torch_lvl1.name=§9压缩版加速火把 1级
+tile.compressed_torch_lvl2.name=§a压缩版加速火把 2级
+tile.compressed_torch_lvl3.name=§c压缩版加速火把 3级
+tile.compressed_torch_lvl4.name=§6压缩版加速火把 4级
+tile.compressed_torch_lvl5.name=§b压缩版加速火把 5级

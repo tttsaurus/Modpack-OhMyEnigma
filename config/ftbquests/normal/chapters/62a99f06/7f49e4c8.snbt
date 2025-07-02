@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 2.0d,
+	shape: "square",
+	text: [
+		"{mpq.str99}",
+		"{mpq.str100}",
+		"{mpq.str117}"
+	],
+	dependencies: [
+		"2edcadf8"
+	],
+	tasks: [{
+		uid: "e20a6ffe",
+		type: "item",
+		items: [{
+			item: "scp:plant_cow_seeds"
+		}]
+	}]
+}

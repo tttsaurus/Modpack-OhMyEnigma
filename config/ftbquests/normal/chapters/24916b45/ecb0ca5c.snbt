@@ -1,0 +1,16 @@
+{
+	x: 1.0d,
+	y: -3.5d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"91a32944"
+	],
+	tasks: [{
+		uid: "d527c437",
+		type: "item",
+		items: [{
+			item: "teastory:dried_tea"
+		}]
+	}]
+}

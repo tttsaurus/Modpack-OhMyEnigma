@@ -1,0 +1,25 @@
+{
+	title: "{mpq.str205}",
+	x: -6.5d,
+	y: -2.0d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"1933de8c"
+	],
+	or_tasks: 1b,
+	tasks: [{
+		uid: "c9f0125b",
+		type: "item",
+		items: [{
+			item: "teslacorelib:gear_wood"
+		}]
+	},
+	{
+		uid: "2ef2bbea",
+		type: "item",
+		items: [{
+			item: "teslacorelib:gear_stone"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: 9.0d,
+	y: 3.0d,
+	shape: "square",
+	tasks: [{
+		uid: "9d0ef0ba",
+		type: "item",
+		items: [{
+			item: "contenttweaker:halide_salt"
+		}]
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: -1.0d,
+	shape: "square",
+	tasks: [{
+		uid: "be6fe950",
+		type: "item",
+		items: [{
+			item: "teastory:broken_tea"
+		}]
+	}]
+}

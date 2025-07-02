@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: -3.5d,
+	shape: "square",
+	dependencies: [
+		"7124c019"
+	],
+	tasks: [{
+		uid: "32cc32b5",
+		type: "item",
+		items: [{
+			id: "refinedstorage:wireless_crafting_grid",
+			tag: {
+				Energy: 3200
+			}
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

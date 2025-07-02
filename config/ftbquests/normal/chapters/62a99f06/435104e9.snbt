@@ -1,0 +1,19 @@
+{
+	x: 19.0d,
+	y: -4.0d,
+	shape: "square",
+	dependencies: [
+		"c2758bb2"
+	],
+	tasks: [{
+		uid: "dd7e6e9c",
+		type: "item",
+		title: "{mpq.str88}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:ore_reduction_altar"
+			}
+		}]
+	}]
+}

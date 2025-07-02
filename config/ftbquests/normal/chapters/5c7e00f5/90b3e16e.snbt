@@ -1,0 +1,21 @@
+{
+	x: 12.5d,
+	y: 10.2d,
+	shape: "square",
+	text: [
+		"{mpq.str163}"
+	],
+	dependencies: [
+		"31045822"
+	],
+	tasks: [{
+		uid: "3344b92f",
+		type: "item",
+		items: [{
+			id: "tconstruct:shard",
+			tag: {
+				Material: "sentient_metal"
+			}
+		}]
+	}]
+}

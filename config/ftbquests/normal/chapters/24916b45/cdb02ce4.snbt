@@ -1,0 +1,12 @@
+{
+	x: -1.5d,
+	y: 4.0d,
+	shape: "square",
+	tasks: [{
+		uid: "8700d7bd",
+		type: "item",
+		items: [{
+			item: "teastory:xian_rice_seeds"
+		}]
+	}]
+}

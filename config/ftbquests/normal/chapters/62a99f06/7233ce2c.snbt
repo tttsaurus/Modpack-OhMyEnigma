@@ -1,0 +1,16 @@
+{
+	title: "{mpq.str97}",
+	x: 26.5d,
+	y: 4.0d,
+	shape: "square",
+	dependencies: [
+		"dd2d977e"
+	],
+	tasks: [{
+		uid: "feb18141",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}]
+}

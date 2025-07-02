@@ -1,0 +1,33 @@
+{
+	x: -10.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str31}",
+		"{mpq.str64}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"1933de8c"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "a1374fdb",
+		type: "item",
+		items: [{
+			item: "flopper:flopper"
+		}]
+	}],
+	rewards: [{
+		uid: "38db7790",
+		type: "item",
+		item: "enderio:block_reservoir",
+		count: 4
+	},
+	{
+		uid: "bf2048a8",
+		type: "item",
+		item: "enderio:block_niard"
+	}]
+}

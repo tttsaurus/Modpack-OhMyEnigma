@@ -1,0 +1,23 @@
+{
+	x: 4.0d,
+	y: -6.0d,
+	shape: "square",
+	dependencies: [
+		"3981a280"
+	],
+	tasks: [{
+		uid: "14721a5a",
+		type: "custom",
+		title: "{mpq.str71}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "tritonite_fluid",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"tritonite_fluid"
+		]
+	}]
+}

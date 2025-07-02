@@ -1,0 +1,18 @@
+{
+	x: -3.5d,
+	y: -12.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"4445da78"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "ae598282",
+		type: "item",
+		items: [{
+			item: "forestry:farm_nether"
+		}]
+	}]
+}

@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: -1.0d,
+	y: 2.0d,
+	shape: "square",
+	dependencies: [
+		"b8fab1a0"
+	],
+	tasks: [{
+		uid: "3103fe01",
+		type: "item",
+		items: [{
+			item: "scp:tree_material"
+		}]
+	}]
+}

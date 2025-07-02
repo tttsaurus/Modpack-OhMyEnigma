@@ -1,0 +1,38 @@
+key.quit=退出
+key.hideHUD=隐藏 HUD
+key.debugScreen=Debug 界面
+key.switchShader=切换着色器
+key.narrator=叙述者
+
+rebind.command.help.title=可用的指令: 
+rebind.command.help.list=显示未知的键位绑定
+rebind.command.help.update=添加未知的键位绑定至配置文件
+
+rebind.command.err.noUnknownKeys=不存在未知的键位绑定
+rebind.command.list=未知的键位绑定: 
+rebind.command.err.externalConfigDisabled=禁用外部配置文件
+rebind.command.update=外部配置文件更新
+
+rebind.update.newVersion=新版本!
+rebind.update.projectPage=链接
+
+category.mods.misc=模组杂项
+key.fpsreducer_guiopen=[FPS Reducer] 配置界面
+key.fpsreducer_forceidle=[FPS Reducer] 强制闲置
+key.smoothfont_guiopen=[Smooth Font] 配置界面
+category.abyssalcraft=深渊国度
+category.betterbuilderswands=更好的建筑手杖
+category.bloodmagic=血魔法
+category.conarm=匠魂盔甲
+category.hei=HEI 物品显示
+category.hbm=HBM 的核科技 - 仓鼠重置
+category.integrateddynamics=动态联合
+category.jeiutilities=JEI - 实用工具
+category.jecalculation=JEC 计算器
+key.optifine_of_zoom=[Optifine] 缩放
+category.xaerominimap=Xaero 的小地图
+category.xaeroworldmap=Xaero 的世界地图
+category.xaeroplus=Xaero 拓展
+key.universaltweaksbind_clear_toasts=清除右上角庆祝文本框
+category.travelersbackpack=旅行者背包
+category.theoneprobe=TOP 检测器 - The One Smeagle

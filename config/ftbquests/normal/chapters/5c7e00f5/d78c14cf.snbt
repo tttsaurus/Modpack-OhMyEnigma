@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: -4.5d,
+	shape: "square",
+	dependencies: [
+		"8804db45"
+	],
+	tasks: [{
+		uid: "cb7ae9bc",
+		type: "item",
+		items: [{
+			item: "hbm:plate_advanced_alloy"
+		}]
+	}]
+}

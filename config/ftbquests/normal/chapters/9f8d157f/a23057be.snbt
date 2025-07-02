@@ -1,0 +1,16 @@
+{
+	x: -9.5d,
+	y: -7.0d,
+	shape: "rsquare",
+	dependencies: [
+		"be59e620"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "983848c9",
+		type: "item",
+		items: [{
+			item: "sakura:materials 1 54"
+		}]
+	}]
+}

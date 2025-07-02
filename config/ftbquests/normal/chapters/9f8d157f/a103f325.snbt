@@ -1,0 +1,13 @@
+{
+	x: -9.5d,
+	y: 3.0d,
+	shape: "rsquare",
+	optional: 1b,
+	tasks: [{
+		uid: "c94365cc",
+		type: "item",
+		items: [{
+			item: "fluidtank:blocktank1"
+		}]
+	}]
+}

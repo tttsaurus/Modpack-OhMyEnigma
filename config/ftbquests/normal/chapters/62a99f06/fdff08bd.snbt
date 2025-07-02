@@ -1,0 +1,18 @@
+{
+	x: 19.0d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str96}"
+	],
+	dependencies: [
+		"247c4810"
+	],
+	tasks: [{
+		uid: "236e26e4",
+		type: "item",
+		items: [{
+			item: "galacticraftplanets:basic_item_venus 1 5"
+		}]
+	}]
+}

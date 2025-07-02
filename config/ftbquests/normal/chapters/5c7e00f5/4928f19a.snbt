@@ -1,0 +1,20 @@
+{
+	x: 7.0d,
+	y: 4.5d,
+	shape: "square",
+	dependencies: [
+		"5847f6b5"
+	],
+	tasks: [{
+		uid: "2e3103eb",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:collector"
+		}]
+	}],
+	rewards: [{
+		uid: "1ea49b30",
+		type: "item",
+		item: "galacticraftcore:oxygen_tank_light_full 1 900"
+	}]
+}

@@ -1,0 +1,33 @@
+{
+	x: 1.5d,
+	y: -7.0d,
+	shape: "square",
+	text: [
+		"{mpq.str53}"
+	],
+	dependencies: [
+		"6c601f2e"
+	],
+	tasks: [{
+		uid: "19343b0d",
+		type: "item",
+		items: [{
+			item: "modularmachinery:blockcasing"
+		}]
+	}],
+	rewards: [{
+		uid: "8c1f27fe",
+		type: "item",
+		item: {
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:research_table"
+			}
+		}
+	},
+	{
+		uid: "6bf0216c",
+		type: "item",
+		item: "modularmachinery:blockcontroller"
+	}]
+}

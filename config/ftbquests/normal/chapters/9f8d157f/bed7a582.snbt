@@ -1,0 +1,15 @@
+{
+	x: -5.0d,
+	y: -13.5d,
+	shape: "square",
+	dependencies: [
+		"524895b0"
+	],
+	tasks: [{
+		uid: "c5af4aa6",
+		type: "item",
+		items: [{
+			item: "forestry:fabricator"
+		}]
+	}]
+}

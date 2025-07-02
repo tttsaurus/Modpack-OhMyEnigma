@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: 10.2d,
+	shape: "square",
+	dependencies: [
+		"5c1fdee2"
+	],
+	tasks: [{
+		uid: "449559de",
+		type: "item",
+		items: [{
+			item: "hbm:ingot_chainsteel"
+		}]
+	}]
+}

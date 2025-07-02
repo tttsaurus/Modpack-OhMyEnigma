@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: 0.5d,
+	shape: "square",
+	dependencies: [
+		"a69bd953"
+	],
+	tasks: [{
+		uid: "30a4adcd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fake_dragon_skin"
+		}]
+	}]
+}

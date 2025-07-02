@@ -1,0 +1,10 @@
+fluid.oilgc=石油
+fluid.fuelgc=精炼燃料
+
+item.basic_item.compressed_aluminum.name=致密铝
+item.basic_item.compressed_bronze.name=致密青铜
+item.basic_item.compressed_copper.name=致密铜
+item.basic_item.compressed_iron.name=致密铁
+item.basic_item.compressed_steel.name=致密钢
+item.basic_item.compressed_tin.name=致密锡
+item.compressed_meteoric_iron.name=致密陨铁

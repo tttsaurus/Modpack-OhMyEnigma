@@ -1,0 +1,18 @@
+{
+	x: 17.5d,
+	y: -0.5d,
+	shape: "square",
+	text: [
+		"{mpq.str150}"
+	],
+	dependencies: [
+		"a1f9c3db"
+	],
+	tasks: [{
+		uid: "341d1b42",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:ender_alternator"
+		}]
+	}]
+}

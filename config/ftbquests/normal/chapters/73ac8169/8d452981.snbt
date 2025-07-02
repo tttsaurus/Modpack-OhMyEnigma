@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 9.0d,
+	shape: "square",
+	dependencies: [
+		"baf8df59"
+	],
+	tasks: [{
+		uid: "9b466fe5",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:table_advanced"
+		}]
+	}]
+}

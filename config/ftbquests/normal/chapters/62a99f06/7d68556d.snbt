@@ -1,0 +1,20 @@
+{
+	x: 9.0d,
+	y: -3.5d,
+	shape: "square",
+	text: [
+		"{mpq.str101}"
+	],
+	dependencies: [
+		"3f7986f9"
+	],
+	tasks: [{
+		uid: "e21543ea",
+		type: "item",
+		items: [{
+			item: "forestry:scoop"
+		}],
+		ignore_damage: 1b,
+		ignore_nbt: 1b
+	}]
+}

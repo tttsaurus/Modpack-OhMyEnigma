@@ -1,0 +1,62 @@
+
+current_language.code=zh_cn
+
+banned_item_tooltip=§o§c此物品已被禁用
+banned_item_compensation_tooltip=§o通过合成得到一块面包的补偿
+
+#Harvest Level
+harvest_level_0.name=§8§l石 §r§f§l§o0§r§e
+harvest_level_1.name=§7§l铁 §r§f§l§o1§r§e
+harvest_level_2.name=§b§l钻石 §r§f§l§o2§r§e
+harvest_level_3.name=§0§l黑曜石 §r§f§l§o3§r§e
+harvest_level_4.name=§9§l钴 §r§f§l§o4§r§e
+harvest_level_5.name=§1§l杜兰特 §r§f§l§o5§r§e
+harvest_level_6.name=§6§l瓦雷利亚 §r§f§l§o6§r§e
+harvest_level_7.name=§f§l振金 §r§f§l§o7§r§e
+harvest_level_8.name=§b§lSchrabidium §r§f§l§o8§r§e
+
+#Event
+mpe.str1=月球的部分已降临在主世界x=0, y=200, z=0
+
+#JEI
+mpjei.str1=催化剂
+mpjei.str2=输出
+mpjei.str3=注魔
+mpjei.str4=位能需求: 
+mpjei.str5=无风险 100%
+mpjei.str6=适量风险 90%
+mpjei.str7=可以忍受的 75%
+mpjei.str8=危险 50%
+mpjei.str9=非常危险！ 30%
+mpjei.str10=一失足成千古恨！！ 20%
+mpjei.str11=风险评估: 
+mpjei.str12=要素需求如上
+mpjei.str13=成群生成于下界y=0至y=15处
+mpjei.str14=生成于下界y=1的基岩层中
+mpjei.str15=成群生成于下界y=1的基岩层中
+mpjei.str16=不能被挖掘，只能被爆炸破坏
+mpjei.str17=挖掘等级为杜兰特
+mpjei.str18=这被发现于月球地表
+mpjei.str19=此陨铁非比陨铁
+mpjei.str20=这些属于可用于林业机器的肥料
+mpjei.str21=先寻找修格斯巢穴
+mpjei.str22=通过挖掘修格斯产生的软泥获取
+
+#Ritual
+ac.ritual.craft_teleporterbeneath=桐桑入梦深渊
+ac.ritual.craft_teleporterbeneath.desc=大梦惊觉今何在，桐桑一入三千年
+ac.ritual.craft_liquidcoralium=珊瑚召唤
+ac.ritual.craft_liquidcoralium.desc=珊瑚瘟疫终将降临
+ac.ritual.craft_psdl=虚空索蕴能石
+ac.ritual.craft_psdl.desc=千里之外取蕴能石，主打的就是足不出户爽玩
+
+#HBM Tooltip Localization (non-en_us only)
+hbm.tooltip.str1=已经锤锻 0 次
+hbm.tooltip.str2=已经锤锻 1 次
+hbm.tooltip.str3=已经锤锻 2 次
+hbm.tooltip.str4=已经锤锻 3 次
+hbm.tooltip.str5=已经锤锻 4 次
+hbm.tooltip.str6=已经锤锻 5 次
+hbm.tooltip.str7=可用能力如下:
+hbm.tooltip.str8=右键切换能力！
+hbm.tooltip.str9=Shift+右键彻底关闭能力！

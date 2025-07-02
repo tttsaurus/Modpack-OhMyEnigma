@@ -1,0 +1,26 @@
+{
+	x: -7.5d,
+	y: 0.0d,
+	shape: "square",
+	tasks: [{
+		uid: "b629efde",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			Damage: 2s,
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "77f8d337",
+		type: "xp",
+		xp: 10
+	}]
+}

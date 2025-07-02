@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: -11.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str184}"
+	],
+	dependencies: [
+		"f91c94ee"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "3e8c66e7",
+		type: "item",
+		items: [{
+			item: "forestry:moistener"
+		}]
+	}]
+}

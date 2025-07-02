@@ -1,0 +1,18 @@
+{
+	x: 13.5d,
+	y: 8.2d,
+	shape: "square",
+	text: [
+		"{mpq.str161}"
+	],
+	dependencies: [
+		"992bfdc5"
+	],
+	tasks: [{
+		uid: "65b16f86",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fatal_error"
+		}]
+	}]
+}

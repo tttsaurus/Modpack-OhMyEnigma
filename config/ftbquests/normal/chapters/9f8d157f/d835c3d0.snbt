@@ -1,0 +1,27 @@
+{
+	x: -6.0d,
+	y: -10.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str207}",
+		"{mpq.str185}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"d2ceb292"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "2e498472",
+		type: "item",
+		items: [{
+			item: "forestry:fermenter"
+		}]
+	}],
+	rewards: [{
+		uid: "3cc6e801",
+		type: "item",
+		item: "abyssalcraft:mre"
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 2.5d,
+	y: 4.5d,
+	shape: "square",
+	text: [
+		"{mpq.str131}"
+	],
+	dependencies: [
+		"2d8ff679"
+	],
+	tasks: [{
+		uid: "ad2268dd",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:cargo 1 4"
+		}]
+	}]
+}

@@ -1,0 +1,26 @@
+{
+	x: 2.0d,
+	y: -6.0d,
+	shape: "square",
+	dependencies: [
+		"3327c627",
+		"17cfc5a0"
+	],
+	tasks: [{
+		uid: "efe6599d",
+		type: "item",
+		items: [{
+			item: "refinedstorage:grid 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "ae608152",
+		type: "item",
+		item: "refinedstorage:grid 1 2"
+	},
+	{
+		uid: "54e6bad0",
+		type: "item",
+		item: "refinedstorage:grid 1 3"
+	}]
+}

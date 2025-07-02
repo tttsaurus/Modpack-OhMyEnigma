@@ -1,0 +1,15 @@
+{
+	x: -5.0d,
+	y: -14.5d,
+	shape: "square",
+	dependencies: [
+		"bed7a582"
+	],
+	tasks: [{
+		uid: "cd997af0",
+		type: "item",
+		items: [{
+			item: "forestry:thermionic_tubes 1 1"
+		}]
+	}]
+}

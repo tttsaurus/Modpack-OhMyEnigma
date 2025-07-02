@@ -1,0 +1,28 @@
+{
+	x: 3.5d,
+	y: 1.5d,
+	shape: "square",
+	text: [
+		"{mpq.str55}",
+		"{mpq.str81}"
+	],
+	dependencies: [
+		"3a15e70a"
+	],
+	tasks: [{
+		uid: "9301394b",
+		type: "item",
+		title: "{mpq.str61}",
+		items: [{
+			id: "modularmachinery:itemblueprint",
+			tag: {
+				dynamicmachine: "modularmachinery:heter_fabrication_machine"
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0b8cb88b",
+		type: "xp_levels",
+		xp_levels: 1
+	}]
+}

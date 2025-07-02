@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 5.0d,
+	shape: "square",
+	dependencies: [
+		"ade5dfb5"
+	],
+	tasks: [{
+		uid: "51e19250",
+		type: "item",
+		items: [{
+			item: "contenttweaker:circuit_board"
+		}]
+	}]
+}

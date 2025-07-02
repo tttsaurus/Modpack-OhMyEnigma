@@ -1,0 +1,20 @@
+{
+	x: 24.0d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"7f49e4c8"
+	],
+	tasks: [{
+		uid: "5adcb99f",
+		type: "item",
+		items: [{
+			id: "minecraft:spawn_egg",
+			tag: {
+				EntityTag: {
+					id: "scp:plant_cow"
+				}
+			}
+		}]
+	}]
+}

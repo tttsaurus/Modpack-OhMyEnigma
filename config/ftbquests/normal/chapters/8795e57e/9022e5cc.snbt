@@ -1,0 +1,17 @@
+{
+	disable_toast: 1b,
+	x: -1.0d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"3b25baef"
+	],
+	tasks: [{
+		uid: "6ae24f4a",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:drainstaff"
+		}],
+		ignore_nbt: 1b
+	}]
+}

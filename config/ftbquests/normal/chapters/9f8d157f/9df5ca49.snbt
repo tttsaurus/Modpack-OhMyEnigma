@@ -1,0 +1,19 @@
+{
+	x: -9.0d,
+	y: -3.25d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"31a7b7df"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "a3d74d16",
+		type: "item",
+		items: [{
+			item: "abyssalcraft:statetransformer"
+		}],
+		ignore_nbt: 1b
+	}]
+}

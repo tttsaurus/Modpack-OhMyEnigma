@@ -1,0 +1,23 @@
+{
+	title: "；)",
+	icon: "modularmachinery:blockcontroller",
+	disable_toast: 1b,
+	x: 0.0d,
+	y: 1.3d,
+	shape: "diamond",
+	text: [
+		"{mpq.str133}"
+	],
+	size: 1.3d,
+	min_width: 100,
+	tasks: [{
+		uid: "97ca979b",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}],
+	rewards: [{
+		uid: "396f6a7e",
+		type: "item",
+		item: "minecraft:stick"
+	}]
+}

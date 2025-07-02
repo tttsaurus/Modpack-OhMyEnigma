@@ -1,0 +1,15 @@
+{
+	x: 13.5d,
+	y: 5.5d,
+	shape: "square",
+	dependencies: [
+		"9e758af0"
+	],
+	tasks: [{
+		uid: "88eb0716",
+		type: "item",
+		items: [{
+			item: "chickenchunks:chunk_loader"
+		}]
+	}]
+}

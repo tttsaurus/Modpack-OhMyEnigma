@@ -1,0 +1,33 @@
+{
+	title: "{mpq.str213}",
+	x: -6.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"ab6169b3"
+	],
+	hide: 1b,
+	optional: 1b,
+	or_tasks: 1b,
+	tasks: [{
+		uid: "fadc6a05",
+		type: "item",
+		items: [{
+			item: "contenttweaker:karmesine_crystal_shard"
+		}]
+	},
+	{
+		uid: "8f3c6205",
+		type: "item",
+		items: [{
+			item: "contenttweaker:jauxum_crystal_shard"
+		}]
+	},
+	{
+		uid: "481605d2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ovium_crystal_shard"
+		}]
+	}]
+}

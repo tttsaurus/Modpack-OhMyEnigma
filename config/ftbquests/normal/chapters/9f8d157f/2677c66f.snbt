@@ -1,0 +1,20 @@
+{
+	x: 5.5d,
+	y: -2.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str181}"
+	],
+	dependencies: [
+		"6df3d24e"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "b87bdbfd",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage"
+		}]
+	}]
+}

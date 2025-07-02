@@ -1,0 +1,16 @@
+{
+	disable_toast: 1b,
+	x: 3.0d,
+	y: 3.0d,
+	shape: "square",
+	dependencies: [
+		"11c1be36"
+	],
+	tasks: [{
+		uid: "807052b8",
+		type: "item",
+		items: [{
+			item: "forestry:bituminous_peat"
+		}]
+	}]
+}

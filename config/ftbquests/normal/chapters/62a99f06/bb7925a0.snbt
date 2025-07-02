@@ -1,0 +1,15 @@
+{
+	x: 15.5d,
+	y: 5.0d,
+	shape: "square",
+	dependencies: [
+		"806ffc2f"
+	],
+	tasks: [{
+		uid: "c0edb1ac",
+		type: "item",
+		items: [{
+			item: "enderio:block_dialing_device"
+		}]
+	}]
+}

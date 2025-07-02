@@ -1,0 +1,15 @@
+{
+	x: 5.0d,
+	y: -6.0d,
+	shape: "square",
+	dependencies: [
+		"85cf7f2a"
+	],
+	tasks: [{
+		uid: "454a3fb1",
+		type: "item",
+		items: [{
+			item: "requious:cache"
+		}]
+	}]
+}

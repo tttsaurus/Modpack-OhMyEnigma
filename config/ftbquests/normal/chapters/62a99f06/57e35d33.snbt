@@ -1,0 +1,21 @@
+{
+	x: 8.0d,
+	y: -3.5d,
+	shape: "square",
+	dependencies: [
+		"ffa05808",
+		"3ac1044c"
+	],
+	tasks: [{
+		uid: "e178897b",
+		type: "item",
+		items: [{
+			item: "contenttweaker:dark_matter_steel_mat_ingot"
+		}]
+	}],
+	rewards: [{
+		uid: "4447de78",
+		type: "item",
+		item: "contenttweaker:dark_matter_steel_mat_ingot"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 7.5d,
+	y: 4.5d,
+	shape: "square",
+	dependencies: [
+		"7f2a7884"
+	],
+	tasks: [{
+		uid: "24f9e7ff",
+		type: "item",
+		items: [{
+			item: "enderio:block_enchanter"
+		}]
+	}]
+}

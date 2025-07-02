@@ -1,0 +1,24 @@
+{
+	x: -1.5d,
+	y: -11.5d,
+	shape: "square",
+	text: [
+		"{mpq.str186}",
+		"{mpq.str188}"
+	],
+	dependencies: [
+		"c58dd2e2"
+	],
+	tasks: [{
+		uid: "4b9595b0",
+		type: "item",
+		items: [{
+			item: "forestry:peat"
+		}]
+	}],
+	rewards: [{
+		uid: "8eb09f12",
+		type: "item",
+		item: "forestry:bituminous_peat"
+	}]
+}

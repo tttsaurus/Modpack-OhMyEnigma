@@ -1,0 +1,20 @@
+{
+	x: -0.5d,
+	y: -13.0d,
+	shape: "square",
+	text: [
+		"{mpq.str36}",
+		"{mpq.str41}"
+	],
+	dependencies: [
+		"657d88f1",
+		"12549ad5"
+	],
+	tasks: [{
+		uid: "52c9bc8d",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:ore_washer"
+		}]
+	}]
+}

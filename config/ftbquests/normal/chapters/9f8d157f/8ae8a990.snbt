@@ -1,0 +1,26 @@
+{
+	x: 1.5d,
+	y: -4.25d,
+	shape: "square",
+	text: [
+		"{mpq.str33}"
+	],
+	dependencies: [
+		"4c426d71"
+	],
+	tasks: [{
+		uid: "69a46036",
+		type: "custom",
+		title: "{mpq.str27}",
+		icon: {
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "mandela",
+				Amount: 1000
+			}
+		},
+		tags: [
+			"mandela"
+		]
+	}]
+}

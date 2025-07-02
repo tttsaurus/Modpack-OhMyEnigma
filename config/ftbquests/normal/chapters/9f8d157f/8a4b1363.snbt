@@ -1,0 +1,20 @@
+{
+	x: -5.0d,
+	y: -12.5d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str183}"
+	],
+	dependencies: [
+		"524895b0"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "b23a661b",
+		type: "item",
+		items: [{
+			item: "forestry:centrifuge"
+		}]
+	}]
+}

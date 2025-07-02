@@ -1,0 +1,12 @@
+{
+	x: 4.5d,
+	y: 3.0d,
+	shape: "square",
+	tasks: [{
+		uid: "a7326c6a",
+		type: "item",
+		items: [{
+			item: "sakura:materials 1 4"
+		}]
+	}]
+}

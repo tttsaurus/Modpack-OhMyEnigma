@@ -1,0 +1,34 @@
+{
+	x: -8.0d,
+	y: -3.25d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str24}",
+		"{mpq.str154}"
+	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"31a7b7df"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "42207639",
+		type: "item",
+		items: [{
+			id: "abyssalcraft:energypedestal",
+			tag: {
+				PotEnergy: 0.0f
+			}
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "999f6eb5",
+		type: "item",
+		item: {
+			id: "abyssalcraft:stonetablet",
+			tag: {}
+		}
+	}]
+}
