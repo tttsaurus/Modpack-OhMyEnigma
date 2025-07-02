@@ -64,18 +64,23 @@ if __name__ == '__main__':
             mod_file_name = parts[len(parts) - 1]
             mod_path = os.path.join(mods_dir, mod_file_name)
 
-            output = mod_file_name
+            output = ''
 
             mcmod_info = read_mcmod_info(mod_path)
 
             if mcmod_info is not None:
-                url = fetch_mcmod_info_entry(mcmod_info, 'url')
-                if url != '':
-                    output = f'[{output}]({url})'
-
                 name = fetch_mcmod_info_entry(mcmod_info, 'name')
-                if name != '':
-                    output = f'**{name}**: {output}'
+                url = fetch_mcmod_info_entry(mcmod_info, 'url')
+                if url == '':
+                    if name == '':
+                        output = mod_file_name
+                    else:
+                        output = f'{name}: {mod_file_name}'
+                else:
+                    if name == '':
+                        output = f'[{mod_file_name}]({url})'
+                    else:
+                        output = f'[{name}]({url}): {mod_file_name}'
             
             output = f'- {output}'
 
