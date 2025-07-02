@@ -75,12 +75,12 @@ if __name__ == '__main__':
                     if name == '':
                         output = mod_file_name
                     else:
-                        output = f'{name}: {mod_file_name}'
+                        output = f'**{name}**: {mod_file_name}'
                 else:
                     if name == '':
                         output = f'[{mod_file_name}]({url})'
                     else:
-                        output = f'[{name}]({url}): {mod_file_name}'
+                        output = f'**[{name}]({url})**: {mod_file_name}'
             
             output = f'- {output}'
 
