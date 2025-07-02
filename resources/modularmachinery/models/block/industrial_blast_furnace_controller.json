@@ -1,0 +1,9 @@
+{
+    "parent": "modularmachinery:block/blockmodel_overlay_orientable_all",
+    "textures": {
+        "bg_all": "enderio:blocks/block_dark_steel_pressure_plate",
+        "ov_top": "enderio:blocks/block_dark_steel_pressure_plate",
+        "ov_side": "enderio:blocks/block_dark_steel_pressure_plate",
+        "ov_front": "modularmachinery:blocks/overlay_controller"
+    }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "placeType": "Any",
+    "layerType": "Cutout",
+    "hasGUI": true,
+    "extraVariants": [],
+    "resourceName": "cache",
+    "model": "requious:assembly_block",
+    "colors": [
+      {
+        "r": 90,
+        "g": 90,
+        "b": 90,
+        "a": 255
+      }
+    ],
+    "hardness": 5.0,
+    "blastResistance": 5.0,
+    "aabb": {
+      "x1": 0.0,
+      "y1": 0.0,
+      "z1": 0.0,
+      "x2": 1.0,
+      "y2": 1.0,
+      "z2": 1.0
+    }
+  }
+]

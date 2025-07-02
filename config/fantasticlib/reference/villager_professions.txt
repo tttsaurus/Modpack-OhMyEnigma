@@ -1,0 +1,12 @@
+minecraft:farmer
+minecraft:librarian
+minecraft:priest
+minecraft:smith
+minecraft:butcher
+minecraft:nitwit
+fossil:archeologist
+fossil:palaeontologist
+sakura:wa_profession
+sakura:wa_silk
+forestry:apiarist
+forestry:arborist

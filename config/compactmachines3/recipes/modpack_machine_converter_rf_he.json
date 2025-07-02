@@ -1,0 +1,23 @@
+{
+  "name": "craft_machine_converter_rf_he",
+  "target-block": "hbm:machine_converter_rf_he",
+  "target-count": 1,
+  "duration": 40,
+  "catalyst": "hbm:coil_advanced_alloy",
+  "catalyst-meta": 0,
+  "symmetrical": true,
+
+  "input-types": {
+    "a": { "id": "enderio:block_alloy", "meta": 0 },
+    "b": { "id": "enderio:block_alloy", "meta": 3 },
+    "c": { "id": "minecraft:lapis_block", "meta": 0 }
+  },
+
+  "shape": [
+    [
+      ["_", "c", "_"],
+      ["b", "a", "b"],
+      ["_", "c", "_"]
+    ]
+  ]
+}

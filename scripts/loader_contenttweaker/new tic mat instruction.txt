@@ -1,0 +1,9 @@
+-liquid
+-tic_trait
+-tic_mat_ingot
+-tic_mat
+-liquid_recipe
+-tic_mat_ingot_recipe
+
+./resources/contenttweaker/lang
+./resources/contenttweaker/textures/items

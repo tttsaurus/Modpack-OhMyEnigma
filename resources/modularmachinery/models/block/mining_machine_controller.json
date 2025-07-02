@@ -1,0 +1,9 @@
+{
+    "parent": "modularmachinery:block/blockmodel_overlay_orientable_all",
+    "textures": {
+        "bg_all": "modularmachinery:controllers/mining_machine",
+        "ov_top": "modularmachinery:controllers/mining_machine",
+        "ov_side": "modularmachinery:controllers/mining_machine",
+        "ov_front": "modularmachinery:blocks/overlay_controller"
+    }
+}

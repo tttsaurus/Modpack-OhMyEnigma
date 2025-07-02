@@ -1,0 +1,9 @@
+{
+    "parent": "modularmachinery:block/blockmodel_overlay_orientable_all",
+    "textures": {
+        "bg_all": "contenttweaker:blocks/casing_heavy",
+        "ov_top": "contenttweaker:blocks/casing_heavy",
+        "ov_side": "contenttweaker:blocks/casing_heavy",
+        "ov_front": "modularmachinery:blocks/overlay_controller"
+    }
+}

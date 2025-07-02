@@ -1,0 +1,9 @@
+{
+    "parent": "modularmachinery:block/blockmodel_overlay_orientable_all",
+    "textures": {
+        "bg_all": "abyssalcraft:blocks/boa",
+        "ov_top": "abyssalcraft:blocks/boa",
+        "ov_side": "abyssalcraft:blocks/boa",
+        "ov_front": "modularmachinery:blocks/overlay_controller"
+    }
+}

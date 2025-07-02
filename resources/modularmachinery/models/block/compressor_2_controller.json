@@ -1,0 +1,9 @@
+{
+    "parent": "modularmachinery:block/blockmodel_overlay_orientable_all",
+    "textures": {
+        "bg_all": "integrateddynamics:blocks/crystalized_chorus_block",
+        "ov_top": "integrateddynamics:blocks/crystalized_chorus_block",
+        "ov_side": "integrateddynamics:blocks/crystalized_chorus_block",
+        "ov_front": "modularmachinery:blocks/overlay_controller"
+    }
+}

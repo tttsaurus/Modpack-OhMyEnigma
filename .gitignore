@@ -16,8 +16,10 @@
 /XaeroWaypoints_BACKUP240807/
 /mods/
 
-*.log
-*.txt
-*.json
-
+crafttweaker.log
+dropt.log
 icon.png
+options.txt
+optionsof.txt
+usercache.json
+usernamecache.json

@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "age=0": { "model": "contentcreator:crop_soybean_0" },
+    "age=1": { "model": "contentcreator:crop_soybean_1" },
+    "age=2": { "model": "contentcreator:crop_soybean_1" },
+    "age=3": { "model": "contentcreator:crop_soybean_2" },
+    "age=4": { "model": "contentcreator:crop_soybean_2" },
+    "age=5": { "model": "contentcreator:crop_soybean_3" },
+    "age=6": { "model": "contentcreator:crop_soybean_3" },
+    "age=7": { "model": "contentcreator:crop_soybean_4" },
+    "inventory": {
+      "model": "contentcreator:crop_soybean"
+    }
+  }
+}
