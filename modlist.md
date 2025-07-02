@@ -44,7 +44,7 @@ List of Mods (177):
 - **[CTM](https://minecraft.curseforge.com/projects/ctm)**: CTM-MC1.12.2-1.0.2.31.jar
 - **[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber)**: Cucumber-1.12.2-1.1.3.jar
 - **Custom Loading Screen**: CustomLoadingScreen-1.12.2-1.5.8.jar
-- 
+- CustomStartingGear-1.12-1.2.0.9-universal.jar
 - **[Cyclops Core](https://minecraft.curseforge.com/projects/cyclops-core)**: CyclopsCore-1.12.2-1.6.7.jar
 - **[Dakimakura Mod](https://minecraft.curseforge.com/projects/dakimakura-mod)**: dakimakuramod-1.12.2-1.5.jar
 - **Dense Neutron Collectors**: denseneutroncollectors-1.1.jar
@@ -62,7 +62,7 @@ List of Mods (177):
 - **Fantastic Lib**: FantasticLib-1.12.2.047.jar
 - **Fireproof Items Mod**: fireproofitems-1.0.jar
 - **[Fixeroo](https://github.com/CaliforniaDemise/Fixeroo)**: Fixeroo-2.3.5-hotfix.1.jar
-- 
+- flare-0.7.0.jar
 - **[Flavorful](TBA)**: flavorful-1.0.1.jar
 - **[Flopper](https://github.com/CyclopsMC/Flopper)**: Flopper-1.12.2-1.0.3.jar
 - **Fluid Dictionary**: fluidict-1.2.jar
@@ -109,7 +109,7 @@ List of Mods (177):
 - **LootTweaker**: LootTweaker-0.4.1+MC1.12.2.jar
 - **[Mantle](https://github.com/SlimeKnights/Mantle)**: Mantle-1.12-1.3.3.55.jar
 - **McJtyLib**: mcjtylib-1.12-3.5.4.jar
-- 
+- mcmouser-1.12.2-forge-1.0.2.jar
 - MCTSmelteryIO-1.12.2-1.2.63.jar
 - minieffects-2.3.2.jar
 - **Mysterious Mountain Lib**: MMLib-2.3.0.jar
@@ -139,7 +139,7 @@ List of Mods (177):
 - **[RenderLib](https://github.com/Meldexun/RenderLib)**: RenderLib-1.12.2-1.4.5.jar
 - **Requious Frakto**: Requious Frakto-0.12.jar
 - **Example Mod**: restrictedcrops-1.5.jar
-- 
+- RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
 - **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: scalar-1.0.0.jar
@@ -175,4 +175,4 @@ List of Mods (177):
 - **ZenTraits**: zentraits-1.1.jar
 - **ZenUtils**: zenutils-1.21.11.jar
 - **[ZenToast](https://github.com/MARYT-Studio/ZenToast)**: zen_toast-1.1-hotfix.jar
-- 
+- _MixinBootstrap-1.1.0.jar

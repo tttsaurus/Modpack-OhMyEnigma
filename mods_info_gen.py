@@ -64,7 +64,7 @@ if __name__ == '__main__':
             mod_file_name = parts[len(parts) - 1]
             mod_path = os.path.join(mods_dir, mod_file_name)
 
-            output = ''
+            output = mod_file_name
 
             mcmod_info = read_mcmod_info(mod_path)
 
