@@ -465,9 +465,9 @@ scp:invisiblechair
 teastory:entity
 beneath:shadow
 beneath:hand
-enderio:falling_machine
-enderio:primed_charge
 enderio:owl_egg
+enderio:primed_charge
+enderio:falling_machine
 tconstruct:blueslime
 tconstruct:indestructible
 tconstruct:arrow

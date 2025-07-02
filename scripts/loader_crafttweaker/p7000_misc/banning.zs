@@ -381,7 +381,7 @@ var banned_items = [
     <item:mcjtylib_ng:multipart>,
     <item:mctsmelteryio:upgrade>,
     /*
-    already disabled in industrial foregoing config
+    Those are already disabled in Industrial Foregoing config
     
     <item:industrialforegoing:black_hole_unit>,
     <item:industrialforegoing:black_hole_controller>,
@@ -391,6 +391,12 @@ var banned_items = [
     <item:industrialforegoing:pitiful_fuel_generator>,
     <item:industrialforegoing:fluid_crafter>
     */
+    <item:tconevo:metal_block>,
+    <item:tconevo:metal_block:1>,
+    <item:tconevo:metal_block:2>,
+    <item:tconevo:metal_block:4>,
+    <item:tconevo:metal_block:7>,
+    <item:tconevo:metal_block:8>,
     ] as IItemStack[];
 
 var banned_item_tooltip as string = game.localize("banned_item_tooltip");
