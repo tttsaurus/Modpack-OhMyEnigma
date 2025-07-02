@@ -126,7 +126,7 @@ List of Mods (177):
 - **NonConflictKeys**: NonConflictKeys-Forge-1.12.2-1.0.0.jar
 - **[Nothirium](https://github.com/Meldexun/Nothirium)**: Nothirium-1.12.2-0.4.7-beta.jar
 - **[Extra Slabs](https://mcreator.net)**: ObsidianSlabs.jar
-- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.1.jar
+- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.2.jar
 - **Ore Visual Detector**: Ore Visual Detector-2.0.2.jar
 - **OreExcavation**: OreExcavation-1.4.150.jar
 - **[Overloaded Armor Bar](https://github.com/Tfarcenim/OverpoweredArmorBar)**: overloadedarmorbar-1.0.4g.jar

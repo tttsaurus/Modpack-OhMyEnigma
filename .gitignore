@@ -35,3 +35,4 @@ config/fantasticlib/reference/potion_types.txt
 config/fantasticlib/reference/recipes.txt
 config/splash.properties
 config/xaerominimap_entities.json
+config/jei/worldSettings.cfg
