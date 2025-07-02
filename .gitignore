@@ -23,3 +23,15 @@ options.txt
 optionsof.txt
 usercache.json
 usernamecache.json
+
+config/customloadingscreen_timings.nbt
+config/fantasticlib/reference/blocks.txt
+config/fantasticlib/reference/blockstates.txt
+config/fantasticlib/reference/enchantments.txt
+config/fantasticlib/reference/entities.txt
+config/fantasticlib/reference/items.txt
+config/fantasticlib/reference/oredict.txt
+config/fantasticlib/reference/potion_types.txt
+config/fantasticlib/reference/recipes.txt
+config/splash.properties
+config/xaerominimap_entities.json
