@@ -5,7 +5,8 @@ import mods.ingameinfo.mvvm.View;
 import mods.ingameinfo.mvvm.Mvvm;
 import mods.ingameinfo.Types;
 import mods.ingameinfo.igievent.EventCenter;
-import mods.ingameinfo.input.Input;
+import mods.ingameinfo.input.Key;
+import mods.ingameinfo.input.DirectInput;
 import mods.ingameinfo.utils.AtomicBoolean;
 import mods.ingameinfo.utils.CommonUtils as CU;
 
@@ -40,15 +41,11 @@ ViewModel.setStartAction(function(this0)
 
 var infoBarList = ViewModel.registerReactiveCollection("infoBarList", "infoBar");
 
-val KEY_P = Input.getKeyCode("KEY_P");
-val KEY_LCONTROL = Input.getKeyCode("KEY_LCONTROL");
-val KEY_RCONTROL = Input.getKeyCode("KEY_RCONTROL");
-
 var hold = AtomicBoolean.new(false);
 var switch = AtomicBoolean.new(true);
 ViewModel.setFixedUpdate(function(this0, deltaTime)
 {
-    var keyDown = Input.isKeyDown(KEY_P) && (Input.isKeyDown(KEY_LCONTROL) || Input.isKeyDown(KEY_RCONTROL));
+    var keyDown = DirectInput.isKeyDown(Key.KEY_P) && (DirectInput.isKeyDown(Key.KEY_LCONTROL) || DirectInput.isKeyDown(Key.KEY_RCONTROL));
     
     if (keyDown && !hold.get())
     {

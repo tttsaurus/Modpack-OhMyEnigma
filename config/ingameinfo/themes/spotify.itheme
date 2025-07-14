@@ -40,6 +40,8 @@ config {
         color="#232323"
         # This will only be applied to Text with style property 'scale' left empty.
         scale=1
+        # This will only be applied to Text with style property 'shadow' left empty.
+        shadow=false
     }
     sliding-text {
         # This will only be applied to SlidingText with style property 'color' left empty.
@@ -47,6 +49,8 @@ config {
         color="#232323"
         # This will only be applied to SlidingText with style property 'scale' left empty.
         scale=1
+        # This will only be applied to SlidingText with style property 'shadow' left empty.
+        shadow=false
     }
     anim-text {
         # This will only be applied to AnimText with style property 'color' left empty.
@@ -54,6 +58,8 @@ config {
         color="#232323"
         # This will only be applied to AnimText with style property 'scale' left empty.
         scale=1
+        # This will only be applied to AnimText with style property 'shadow' left empty.
+        shadow=false
     }
     image {
         corner-radius=3
@@ -75,7 +81,7 @@ config {
     button {
         # This will only be applied to Button with style property 'defaultColor' left empty when using this style.
         # In the form of hex #rrggbb or #aarrggbb.
-        default-color="#ffffff"
+        default-color="#aaaaaa"
         # This will only be applied to Button with style property 'hoverColor' left empty when using this style.
         # In the form of hex #rrggbb or #aarrggbb.
         hover-color="#bec7ff"

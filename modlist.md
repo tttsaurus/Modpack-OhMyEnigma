@@ -1,4 +1,4 @@
-List of Mods (177):
+List of Mods (178):
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
 - **[Red Core](https://www.curseforge.com/minecraft/mc-mods/red-core)**: !Red-Core-MC-1.8-1.12-0.6.jar
@@ -67,7 +67,7 @@ List of Mods (177):
 - **[Flopper](https://github.com/CyclopsMC/Flopper)**: Flopper-1.12.2-1.0.3.jar
 - **Fluid Dictionary**: fluidict-1.2.jar
 - **[Fluid Interaction Tweaker](https://github.com/tttsaurus/Fluid-Interaction-Tweaker)**: fluidintetweaker-1.5.2.jar
-- **FluxLoading**: fluxloading-1.1.5.jar
+- **FluxLoading**: fluxloading-1.3.3.jar
 - **Foregoing RubberTrees**: foregoing-rubbertrees-1.0.3.jar
 - **[Forestry](http://forestry.sengir.net/)**: forestry_1.12.2-5.8.2.425.jar
 - **[Forgelin-Continuous](https://github.com/ChAoSUnItY/Forgelin-Continuous)**: Forgelin-Continuous-2.1.21.0.jar
@@ -87,7 +87,7 @@ List of Mods (177):
 - **Had Enough Characters**: hecharacters-1.12.2-1.4.1.jar
 - **[IFPatcher](https://www.curseforge.com/minecraft/mc-mods/ifpatcher)**: IFPatcher-2.4.0.jar
 - **[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)**: industrialforegoing-1.12.2-1.12.13-237.jar
-- **[In-Game Info Reborn](https://github.com/tttsaurus/Ingame-Info-Reborn)**: ingameinfo-1.1.0.jar
+- **[In-Game Info Reborn](https://github.com/tttsaurus/Ingame-Info-Reborn)**: ingameinfo-1.2.0.jar
 - **[Integrated Crafting](https://github.com/CyclopsMC/IntegratedCrafting)**: IntegratedCrafting-1.12.2-1.0.10.jar
 - **[Integrated Dynamics](https://minecraft.curseforge.com/projects/integrated-dynamics)**: IntegratedDynamics-1.12.2-1.1.11.jar
 - **[Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt)**: integratednbt-1.2.2.jar
@@ -126,7 +126,7 @@ List of Mods (177):
 - **NonConflictKeys**: NonConflictKeys-Forge-1.12.2-1.0.0.jar
 - **[Nothirium](https://github.com/Meldexun/Nothirium)**: Nothirium-1.12.2-0.4.7-beta.jar
 - **[Extra Slabs](https://mcreator.net)**: ObsidianSlabs.jar
-- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.2.jar
+- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.3.jar
 - **Ore Visual Detector**: Ore Visual Detector-2.0.2.jar
 - **OreExcavation**: OreExcavation-1.4.150.jar
 - **[Overloaded Armor Bar](https://github.com/Tfarcenim/OverpoweredArmorBar)**: overloadedarmorbar-1.0.4g.jar
@@ -142,6 +142,7 @@ List of Mods (177):
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
+- **Saurus3D**: saurus3d-0.1.0.jar
 - **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: scalar-1.0.0.jar
 - **SCP: Lockdown**: SCP Lockdown-1.12.2-2.4.3-release.jar
 - **[Sledgehammer](https://lxgaming.github.io/)**: Sledgehammer-1.12.2-2.0.26.jar

@@ -1,7 +1,7 @@
 <Def debug = false>
 <HorizontalGroup uid = "infoBar" pivot = TOP_RIGHT alignment = TOP_RIGHT padding = {"top": 2}>
     <Separator color = #6abe30>
-    <Text text = "[CTRL + P] to expand" color =rgb(48, 190, 48)>
+    <Text text = "[CTRL + P] To Expand" color =rgb(48, 190, 48)>
     <Separator color = #6abe30>
     <Text uid = "fps">
     <Separator color = #6abe30>

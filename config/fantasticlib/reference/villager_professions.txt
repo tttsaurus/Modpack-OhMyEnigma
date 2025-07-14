@@ -8,5 +8,5 @@ fossil:archeologist
 fossil:palaeontologist
 sakura:wa_profession
 sakura:wa_silk
-forestry:arborist
 forestry:apiarist
+forestry:arborist

@@ -1,10 +1,8 @@
 #loader preinit
 #priority 11000
-import mods.ingameinfo.gui.IgiGuiManager;
-import mods.ingameinfo.event.IgiGuiInitEvent;
+import mods.ingameinfo.event.IgiRuntimeEntryPointEvent;
 
-events.onIgiGuiInit(function(event as IgiGuiInitEvent)
+events.onIgiRuntimeEntryPoint(function(event as IgiRuntimeEntryPointEvent)
 {
-    IgiGuiManager.openGui("ome_hud");
-    //IgiGuiManager.openGui("template");
+    event.initPhase.openGuiOnStartup("ome_hud");
 });
