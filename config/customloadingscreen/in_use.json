@@ -15,8 +15,8 @@
                 "position": {
                     "x": "0",
                     "y": "screen_height * 0.4",
-                    "width": "183 * 2",
-                    "height": "10 * 2"
+                    "width": "progress_bar_pixel_width * pixel_size",
+                    "height": "progress_bar_pixel_height * pixel_size"
                 },
                 "texture": {
                     "x": "0",
@@ -33,10 +33,10 @@
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "position": {
-                    "x": "percentage * 183 - 183 + 1",
+                    "x": "percentage * (progress_bar_pixel_width * pixel_size / 2.0) - (progress_bar_pixel_width * pixel_size / 2.0)",
                     "y": "screen_height * 0.4",
-                    "width": "percentage * 183 * 2 - 10",
-                    "height": "12"
+                    "width": "percentage * progress_bar_pixel_width * pixel_size - (0.02 * progress_bar_pixel_width * pixel_size)",
+                    "height": "0.6 * progress_bar_pixel_height * pixel_size"
                 },
                 "texture": {
                     "x": "0",
@@ -55,8 +55,8 @@
                 "position": {
                     "x": "0",
                     "y": "screen_height * 0.4",
-                    "width": "183 * 2",
-                    "height": "10 * 2"
+                    "width": "progress_bar_pixel_width * pixel_size",
+                    "height": "progress_bar_pixel_height * pixel_size"
                 },
                 "texture": {
                     "x": "0",
@@ -155,8 +155,8 @@
                 "position": {
                     "x": "15",
                     "y": "15",
-                    "width": "84.31",
-                    "height": "10"
+                    "width": "130 / 2.0",
+                    "height": "anim_0_frame_pixel_height / 2.0"
                 },
                 "texture": {
                     "x": "0",
@@ -177,11 +177,15 @@
         "percentage_text": "(floor(percentage * 100)) + '.' + (floor(percentage * 1000) % 10) + '%'",
         "loading_time_text": "floor(time / 60) + 'm ' + floor((time % 60) / 10) + floor(time % 60 % 10) + 's'",
 
+        "pixel_size": 1.3,
+        "progress_bar_pixel_width": 281.0,
+        "progress_bar_pixel_height": 10.0,
+
         "anim_0_frame_duration": 0.7,
-        "anim_0_height": 715.0,
+        "anim_0_pixel_height": 143.0,
         "anim_0_frame_count": 11,
-        "anim_0_frame_height": "anim_0_height / anim_0_frame_count",
+        "anim_0_frame_pixel_height": "anim_0_pixel_height / anim_0_frame_count",
         "anim_0_uv_height": "1.0 / anim_0_frame_count",
-        "anim_0_uv_y": "anim_0_frame_height * floor((time % anim_0_frame_duration) / anim_0_frame_duration * anim_0_frame_count) / anim_0_height"
+        "anim_0_uv_y": "anim_0_frame_pixel_height * floor((time % anim_0_frame_duration) / anim_0_frame_duration * anim_0_frame_count) / anim_0_pixel_height"
     }
 }

@@ -37,6 +37,7 @@ config/fantasticlib/reference/villager_professions.txt
 config/splash.properties
 config/xaerominimap_entities.json
 config/jei/worldSettings.cfg
+config/ingameinfo/ui_element_dump.md
 
 /config/flare/activity/
 /config/flare/profiler/
