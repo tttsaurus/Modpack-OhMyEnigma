@@ -4,29 +4,29 @@
         "loading_time_text": "floor(time / 60) + 'm ' + floor((time % 60) / 10) + floor(time % 60 % 10) + 's'",
 
         "pixel_size": 1.3,
-        "progress_bar_pixel_width": 281.0,
-        "progress_bar_pixel_height": 10.0,
+        "progress_bar_pixel_width": 281,
+        "progress_bar_pixel_height": 10,
 
         "anim_0_frame_duration": 0.7,
-        "anim_0_pixel_height": 143.0,
+        "anim_0_pixel_height": 143,
         "anim_0_frame_count": 11,
-        "anim_0_frame_pixel_height": "anim_0_pixel_height / anim_0_frame_count",
+        "anim_0_frame_pixel_height": "(anim_0_pixel_height + 0.0) / anim_0_frame_count",
         "anim_0_uv_height": "1.0 / anim_0_frame_count",
         "anim_0_uv_y": "anim_0_frame_pixel_height * floor((time % anim_0_frame_duration) / anim_0_frame_duration * anim_0_frame_count) / anim_0_pixel_height"
     },
     "functions": {
         "ternary(int in0, int in1, float out0, float out1)": "out0 * (1 - min(1, abs(in0 - in1))) + out1 * min(1, abs(in0 - in1)) + 0.0",
 
-        "background_0_pixel_width()": "1401.0",
-        "background_0_pixel_height()": "891.0",
-        "background_1_pixel_width()": "4000.0",
-        "background_1_pixel_height()": "2250.0",
-        "background_2_pixel_width()": "4000.0",
-        "background_2_pixel_height()": "2250.0",
-        "background_3_pixel_width()": "4000.0",
-        "background_3_pixel_height()": "2250.0",
-        "background_4_pixel_width()": "4000.0",
-        "background_4_pixel_height()": "2250.0",
+        "background_0_pixel_width()": "1401",
+        "background_0_pixel_height()": "891",
+        "background_1_pixel_width()": "4000",
+        "background_1_pixel_height()": "2250",
+        "background_2_pixel_width()": "4000",
+        "background_2_pixel_height()": "2250",
+        "background_3_pixel_width()": "4000",
+        "background_3_pixel_height()": "2250",
+        "background_4_pixel_width()": "4000",
+        "background_4_pixel_height()": "2250",
 
         "background_width_raw_4(int index)": "ternary(index, 4, background_2_pixel_width(), 0)",
         "background_width_raw_3(int index)": "ternary(index, 3, background_2_pixel_width(), index > 3 ? background_width_raw_4(index) : 0)",
@@ -42,6 +42,8 @@
         
         "background_width(int index)": "screen_width",
         "background_height(int index)": "background_height_raw_0(index) / (background_width_raw_0(index) / screen_width)",
+
+        "map_index(int index)": "(37 * index + 58) % 101",
 
         "slideshow_count()": "2",
         "slideshow_each_duration()": "5.0",
