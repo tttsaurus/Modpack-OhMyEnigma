@@ -15,7 +15,7 @@
         "anim_0_uv_y": "anim_0_frame_pixel_height * floor((time % anim_0_frame_duration) / anim_0_frame_duration * anim_0_frame_count) / anim_0_pixel_height"
     },
     "functions": {
-        "ternary(int in0, int in1, float out0, float out1)": "out0 * (1 - min(1, abs(in0 - in1))) + out1 * min(1, abs(in0 - in1)) + 0.0",
+        "if_equal(int in0, int in1, float out0, float out1)": "out0 * (1 - min(1, abs(in0 - in1))) + out1 * min(1, abs(in0 - in1)) + 0.0",
 
         "background_0_pixel_width()": "1401",
         "background_0_pixel_height()": "891",
@@ -28,29 +28,28 @@
         "background_4_pixel_width()": "4000",
         "background_4_pixel_height()": "2250",
 
-        "background_width_raw_4(int index)": "ternary(index, 4, background_2_pixel_width(), 0)",
-        "background_width_raw_3(int index)": "ternary(index, 3, background_2_pixel_width(), index > 3 ? background_width_raw_4(index) : 0)",
-        "background_width_raw_2(int index)": "ternary(index, 2, background_2_pixel_width(), index > 2 ? background_width_raw_3(index) : 0)",
-        "background_width_raw_1(int index)": "ternary(index, 1, background_1_pixel_width(), index > 1 ? background_width_raw_2(index) : 0)",
-        "background_width_raw_0(int index)": "ternary(index, 0, background_0_pixel_width(), index > 0 ? background_width_raw_1(index) : 0)",
+        "background_width_raw_4(int index)": "if_equal(index, 4, background_2_pixel_width(), 0)",
+        "background_width_raw_3(int index)": "if_equal(index, 3, background_2_pixel_width(), index > 3 ? background_width_raw_4(index) : 0)",
+        "background_width_raw_2(int index)": "if_equal(index, 2, background_2_pixel_width(), index > 2 ? background_width_raw_3(index) : 0)",
+        "background_width_raw_1(int index)": "if_equal(index, 1, background_1_pixel_width(), index > 1 ? background_width_raw_2(index) : 0)",
+        "background_width_raw_0(int index)": "if_equal(index, 0, background_0_pixel_width(), index > 0 ? background_width_raw_1(index) : 0)",
         
-        "background_height_raw_4(int index)": "ternary(index, 2, background_2_pixel_height(), 0)",
-        "background_height_raw_3(int index)": "ternary(index, 2, background_2_pixel_height(), index > 3 ? background_height_raw_4(index) : 0)",
-        "background_height_raw_2(int index)": "ternary(index, 2, background_2_pixel_height(), index > 2 ? background_height_raw_3(index) : 0)",
-        "background_height_raw_1(int index)": "ternary(index, 1, background_1_pixel_height(), index > 1 ? background_height_raw_2(index) : 0)",
-        "background_height_raw_0(int index)": "ternary(index, 0, background_0_pixel_height(), index > 0 ? background_height_raw_1(index) : 0)",
+        "background_height_raw_4(int index)": "if_equal(index, 4, background_2_pixel_height(), 0)",
+        "background_height_raw_3(int index)": "if_equal(index, 3, background_2_pixel_height(), index > 3 ? background_height_raw_4(index) : 0)",
+        "background_height_raw_2(int index)": "if_equal(index, 2, background_2_pixel_height(), index > 2 ? background_height_raw_3(index) : 0)",
+        "background_height_raw_1(int index)": "if_equal(index, 1, background_1_pixel_height(), index > 1 ? background_height_raw_2(index) : 0)",
+        "background_height_raw_0(int index)": "if_equal(index, 0, background_0_pixel_height(), index > 0 ? background_height_raw_1(index) : 0)",
         
         "background_width(int index)": "screen_width",
         "background_height(int index)": "background_height_raw_0(index) / (background_width_raw_0(index) / screen_width)",
 
-        "map_index(int index)": "(37 * index + 58) % 101",
-
         "slideshow_count()": "2",
-        "slideshow_each_duration()": "5.0",
+        "slideshow_fadeout_duration()": "0.5",
+        "slideshow_each_duration()": "3.0",
         "slideshow_total_duration()": "slideshow_each_duration() * slideshow_count()",
-        "slideshow_ordinal_index(float time)": "floor((time % slideshow_total_duration()) / slideshow_total_duration() * slideshow_count())",
-        "slideshow_prev_index(float time)": "1",
-        "slideshow_next_index(float time)": "1"
+        "slideshow_ordinal_index(float _time)": "floor((_time % slideshow_total_duration()) / slideshow_total_duration() * slideshow_count())",
+        "slideshow_fadeout_time(float _time)": "(_time % slideshow_each_duration()) - (slideshow_each_duration() - slideshow_fadeout_duration()) < 0.0 ? 0.0 : (_time % slideshow_each_duration()) - (slideshow_each_duration() - slideshow_fadeout_duration())",
+        "slideshow_fadeout_perc(float _time)": "slideshow_fadeout_time(_time) / slideshow_fadeout_duration()"
     },
     "renders": [
         {
@@ -63,10 +62,32 @@
             "image": {
                 "parent": "builtin/slideshow",
                 "image": "customloadingscreen:in_use/textures/background/#.png",
-                "frame": "slideshow_ordinal_index(time)",
+                "frame": "slideshow_ordinal_index(time + slideshow_fadeout_duration() + 0.1)",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "colour": "0xFF_FF_FF_FF",
+                "position": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "background_width(slideshow_ordinal_index(time + slideshow_fadeout_duration() + 0.1))",
+                    "height": "background_height(slideshow_ordinal_index(time + slideshow_fadeout_duration() + 0.1))"
+                },
+                "texture": {
+                    "x": "0",
+                    "y": "0",
+                    "width": "1",
+                    "height": "1"
+                }
+            }
+        },
+        {
+            "image": {
+                "parent": "builtin/slideshow",
+                "image": "customloadingscreen:in_use/textures/background/#.png",
+                "frame": "slideshow_ordinal_index(time)",
+                "position_type": "CENTER",
+                "offset_pos": "CENTER",
+                "colour": "floor(255.0 * (1.0 - slideshow_fadeout_perc(time))) * 16777216 + 0xFF_FF_FF",
                 "position": {
                     "x": "0",
                     "y": "0",
