@@ -43,7 +43,7 @@ List of Mods (178):
 - **CraftTweaker Integration**: ctintegration-1.8.0.jar
 - **[CTM](https://minecraft.curseforge.com/projects/ctm)**: CTM-MC1.12.2-1.0.2.31.jar
 - **[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber)**: Cucumber-1.12.2-1.1.3.jar
-- **Custom Loading Screen**: CustomLoadingScreen-1.12.2-1.5.8.jar
+- **Custom Loading Screen**: CustomLoadingScreen-1.12.2-1.5.10-qfix84.1.jar
 - CustomStartingGear-1.12-1.2.0.9-universal.jar
 - **[Cyclops Core](https://minecraft.curseforge.com/projects/cyclops-core)**: CyclopsCore-1.12.2-1.6.7.jar
 - **[Dakimakura Mod](https://minecraft.curseforge.com/projects/dakimakura-mod)**: dakimakuramod-1.12.2-1.5.jar
