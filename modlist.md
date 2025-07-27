@@ -1,4 +1,4 @@
-List of Mods (178):
+List of Mods (177):
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
 - **[Red Core](https://www.curseforge.com/minecraft/mc-mods/red-core)**: !Red-Core-MC-1.8-1.12-0.6.jar
@@ -38,9 +38,7 @@ List of Mods (178):
 - **[Content Creator](https://github.com/ISurrealI/ContentCreator)**: ContentCreator-1.3.93.jar
 - **[ContentTweaker](teamacronymcoders.com)**: ContentTweaker-1.12.2-4.10.0.jar
 - **[CraftTweaker2](http://minetweaker3.powerofbytes.com)**: CraftTweaker2-1.12-4.1.20.703.jar
-- **Example Mod**: crafttweakerutils-0.7.jar
 - **[CreepyPastaCraft Reborn](https://mcreator.net)**: CreepyPastaCraft_Reborn_V2c-1.12.2-hotfix1.jar
-- **CraftTweaker Integration**: ctintegration-1.8.0.jar
 - **[CTM](https://minecraft.curseforge.com/projects/ctm)**: CTM-MC1.12.2-1.0.2.31.jar
 - **[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber)**: Cucumber-1.12.2-1.1.3.jar
 - **Custom Loading Screen**: CustomLoadingScreen-1.12.2-1.5.10-qfix84.1.jar
@@ -67,7 +65,7 @@ List of Mods (178):
 - **[Flopper](https://github.com/CyclopsMC/Flopper)**: Flopper-1.12.2-1.0.3.jar
 - **Fluid Dictionary**: fluidict-1.2.jar
 - **[Fluid Interaction Tweaker](https://github.com/tttsaurus/Fluid-Interaction-Tweaker)**: fluidintetweaker-1.5.2.jar
-- **FluxLoading**: fluxloading-1.3.3.jar
+- **FluxLoading**: fluxloading-1.3.6.jar
 - **Foregoing RubberTrees**: foregoing-rubbertrees-1.0.3.jar
 - **[Forestry](http://forestry.sengir.net/)**: forestry_1.12.2-5.8.2.425.jar
 - **[Forgelin-Continuous](https://github.com/ChAoSUnItY/Forgelin-Continuous)**: Forgelin-Continuous-2.1.21.0.jar
@@ -87,7 +85,7 @@ List of Mods (178):
 - **Had Enough Characters**: hecharacters-1.12.2-1.4.1.jar
 - **[IFPatcher](https://www.curseforge.com/minecraft/mc-mods/ifpatcher)**: IFPatcher-2.4.0.jar
 - **[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)**: industrialforegoing-1.12.2-1.12.13-237.jar
-- **[In-Game Info Reborn](https://github.com/tttsaurus/Ingame-Info-Reborn)**: ingameinfo-1.2.0.jar
+- **[In-Game Info Reborn](https://github.com/tttsaurus/Ingame-Info-Reborn)**: ingameinfo-1.2.2.jar
 - **[Integrated Crafting](https://github.com/CyclopsMC/IntegratedCrafting)**: IntegratedCrafting-1.12.2-1.0.10.jar
 - **[Integrated Dynamics](https://minecraft.curseforge.com/projects/integrated-dynamics)**: IntegratedDynamics-1.12.2-1.1.11.jar
 - **[Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt)**: integratednbt-1.2.2.jar
@@ -139,6 +137,7 @@ List of Mods (178):
 - **[RenderLib](https://github.com/Meldexun/RenderLib)**: RenderLib-1.12.2-1.4.5.jar
 - **Requious Frakto**: Requious Frakto-0.12.jar
 - **Example Mod**: restrictedcrops-1.5.jar
+- **Roid's Tweaker**: roidtweaker-1.0.1.jar
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
