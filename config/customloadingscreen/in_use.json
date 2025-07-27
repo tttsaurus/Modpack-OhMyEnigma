@@ -66,15 +66,15 @@
             "image": {
                 "parent": "builtin/slideshow",
                 "image": "customloadingscreen:in_use/textures/background/#.png",
-                "frame": "slideshow_ordinal_index(time + slideshow_each_duration + slideshow_fadeout_duration + 0.1)",
+                "frame": "slideshow_ordinal_index(time + slideshow_fadeout_duration + 0.1)",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "colour": "0xFF_FF_FF_FF",
                 "position": {
                     "x": "0",
                     "y": "0",
-                    "width": "background_width(slideshow_ordinal_index(time + slideshow_each_duration + slideshow_fadeout_duration + 0.1))",
-                    "height": "background_height(slideshow_ordinal_index(time + slideshow_each_duration + slideshow_fadeout_duration + 0.1))"
+                    "width": "background_width(slideshow_ordinal_index(time + slideshow_fadeout_duration + 0.1))",
+                    "height": "background_height(slideshow_ordinal_index(time + slideshow_fadeout_duration + 0.1))"
                 },
                 "texture": {
                     "x": "0",
@@ -88,15 +88,15 @@
             "image": {
                 "parent": "builtin/slideshow",
                 "image": "customloadingscreen:in_use/textures/background/#.png",
-                "frame": "slideshow_ordinal_index(time + slideshow_each_duration)",
+                "frame": "slideshow_ordinal_index(time)",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "colour": "floor(255.0 * (1.0 - slideshow_fadeout_perc(time))) * 16777216 + 0xFF_FF_FF",
                 "position": {
                     "x": "0",
                     "y": "0",
-                    "width": "background_width(slideshow_ordinal_index(time + slideshow_each_duration))",
-                    "height": "background_height(slideshow_ordinal_index(time + slideshow_each_duration))"
+                    "width": "background_width(slideshow_ordinal_index(time))",
+                    "height": "background_height(slideshow_ordinal_index(time))"
                 },
                 "texture": {
                     "x": "0",
