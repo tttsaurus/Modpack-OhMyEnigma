@@ -34,6 +34,7 @@ config/fantasticlib/reference/oredict.txt
 config/fantasticlib/reference/potion_types.txt
 config/fantasticlib/reference/recipes.txt
 config/fantasticlib/reference/villager_professions.txt
+config/fantasticlib/reference/sounds.txt
 config/splash.properties
 config/xaerominimap_entities.json
 config/jei/worldSettings.cfg

@@ -1,4 +1,4 @@
-List of Mods (177):
+List of Mods (176):
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
 - **[Red Core](https://www.curseforge.com/minecraft/mc-mods/red-core)**: !Red-Core-MC-1.8-1.12-0.6.jar
@@ -65,7 +65,7 @@ List of Mods (177):
 - **[Flopper](https://github.com/CyclopsMC/Flopper)**: Flopper-1.12.2-1.0.3.jar
 - **Fluid Dictionary**: fluidict-1.2.jar
 - **[Fluid Interaction Tweaker](https://github.com/tttsaurus/Fluid-Interaction-Tweaker)**: fluidintetweaker-1.5.2.jar
-- **FluxLoading**: fluxloading-1.3.6.jar
+- **FluxLoading**: fluxloading-1.3.7.jar
 - **Foregoing RubberTrees**: foregoing-rubbertrees-1.0.3.jar
 - **[Forestry](http://forestry.sengir.net/)**: forestry_1.12.2-5.8.2.425.jar
 - **[Forgelin-Continuous](https://github.com/ChAoSUnItY/Forgelin-Continuous)**: Forgelin-Continuous-2.1.21.0.jar
@@ -151,18 +151,17 @@ List of Mods (177):
 - **[Storage Drawers](http://www.jaquadro.com/)**: StorageDrawers-1.12.2-5.5.2.jar
 - **[Tinkers Alloying Addon](https://gitee.com/peter20050526/taigarr)**: TAIGA-Replant-Replant(1.0.0-beta).jar
 - **Tinkers' Evolution**: tconevo-1.12.2-1.0.49.jar
-- **[Tinkers' Construct](https://github.com/SlimeKnights/TinkersConstruct)**: TConstruct-1.12.2-2.13.0.183.jar
 - **[TeaStory](http://www.mcbbs.net/thread-562372-1-1.html)**: TeaStory-3.3.3-B33.418-1.12.2.jar
 - **Tesla Core Lib**: tesla-core-lib-1.12.2-1.0.18.jar
 - **[The Beneath](https://minecraft.curseforge.com/projects/the-beneath)**: The Beneath-1.12.2-1.7.1.jar
 - **The One Smeagle**: theonesmeagle-1.12-1.0.8.jar
 - **[Time in a Bottled](https://github.com/Rongmario/Time-in-a-Bottled)**: timeinabottled-2.0.jar
-- **Tinker's JEI**: tinkersjei-1.2.jar
+- **[Tinkers' Antique](https://github.com/Elite-Modding-Team/TinkersAntique)**: TinkersAntique-1.12.2-2.13.0.202.jar
 - **[Torcherino Community Edition](https://github.com/Artiks54/Torcherino-ce)**: torcherino-7.7.1.jar
 - **Traveler's Backpack**: TravelersBackpack-1.12.2-1.0.35.jar
 - **TreeTweaker**: treetweaker-1.6.1.jar
 - UniDict-1.12.2-3.0.10.jar
-- **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.15.0.jar
+- **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.15.2.jar
 - **[Valkyrie Lib](http://minecraft.curseforge.com/projects/valkyrielib)**: valkyrielib-1.12.2-2.0.20.1.jar
 - **[VintageFix](https://github.com/embeddedt/VintageFix)**: vintagefix-0.5.3.jar
 - **[WanionLib](http://minecraft.curseforge.com/projects/wanionlib)**: WanionLib-1.12.2-2.91.jar

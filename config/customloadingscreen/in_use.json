@@ -51,30 +51,26 @@
         "background_width(int index)": "background_ratio(index) > screen_ratio() ? (background_width_raw_0(index) + 0.0) / ((background_height_raw_0(index) + 0.0) / (screen_height + 0.0)) : screen_width",
         "background_height(int index)": "background_ratio(index) > screen_ratio() ? screen_height : (background_height_raw_0(index) + 0.0) / ((background_width_raw_0(index) + 0.0) / (screen_width + 0.0))",
 
+        "sin_mapping(float x)": "sin(0.5 * 3.1415926 * x) < 0.01 ? 0.0 : (sin(0.5 * 3.1415926 * x) > 0.99 ? 1.0 : sin(0.5 * 3.1415926 * x))",
+
         "slideshow_ordinal_index(float _time)": "floor((_time % slideshow_total_duration) / slideshow_total_duration * slideshow_count)",
         "slideshow_fadeout_time(float _time)": "(_time % slideshow_each_duration) - (slideshow_each_duration - slideshow_fadeout_duration) < 0.0 ? 0.0 : (_time % slideshow_each_duration) - (slideshow_each_duration - slideshow_fadeout_duration)",
-        "slideshow_fadeout_perc(float _time)": "slideshow_fadeout_time(_time) / slideshow_fadeout_duration"
+        "slideshow_fadeout_perc(float _time)": "sin_mapping(slideshow_fadeout_time(_time) / slideshow_fadeout_duration)"
     },
     "renders": [
         {
             "image": {
-                "parent": "builtin/image",
-                "image": "customloadingscreen:in_use/textures/background_base.png"
-            }
-        },
-        {
-            "image": {
                 "parent": "builtin/slideshow",
                 "image": "customloadingscreen:in_use/textures/background/#.png",
-                "frame": "slideshow_ordinal_index(time + slideshow_fadeout_duration + 0.1)",
+                "frame": "slideshow_ordinal_index(time + slideshow_fadeout_duration * 2.1)",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "colour": "0xFF_FF_FF_FF",
                 "position": {
                     "x": "0",
                     "y": "0",
-                    "width": "background_width(slideshow_ordinal_index(time + slideshow_fadeout_duration + 0.1))",
-                    "height": "background_height(slideshow_ordinal_index(time + slideshow_fadeout_duration + 0.1))"
+                    "width": "background_width(slideshow_ordinal_index(time + slideshow_fadeout_duration * 2.1))",
+                    "height": "background_height(slideshow_ordinal_index(time + slideshow_fadeout_duration * 2.1))"
                 },
                 "texture": {
                     "x": "0",
