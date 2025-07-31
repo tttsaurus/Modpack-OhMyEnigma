@@ -1,4 +1,5 @@
 List of Mods (176):
+- **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
 - **[Red Core](https://www.curseforge.com/minecraft/mc-mods/red-core)**: !Red-Core-MC-1.8-1.12-0.6.jar
@@ -141,7 +142,6 @@ List of Mods (176):
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
-- **Saurus3D**: saurus3d-0.1.0.jar
 - **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: scalar-1.0.0.jar
 - **SCP: Lockdown**: SCP Lockdown-1.12.2-2.4.3-release.jar
 - **[Sledgehammer](https://lxgaming.github.io/)**: Sledgehammer-1.12.2-2.0.26.jar
@@ -150,7 +150,7 @@ List of Mods (176):
 - StellarCore-1.5.22.jar
 - **[Storage Drawers](http://www.jaquadro.com/)**: StorageDrawers-1.12.2-5.5.2.jar
 - **[Tinkers Alloying Addon](https://gitee.com/peter20050526/taigarr)**: TAIGA-Replant-Replant(1.0.0-beta).jar
-- **Tinkers' Evolution**: tconevo-1.12.2-1.0.49.jar
+- **Tinkers' Evolution**: tconevo-1.12.2-1.1.1.jar
 - **[TeaStory](http://www.mcbbs.net/thread-562372-1-1.html)**: TeaStory-3.3.3-B33.418-1.12.2.jar
 - **Tesla Core Lib**: tesla-core-lib-1.12.2-1.0.18.jar
 - **[The Beneath](https://minecraft.curseforge.com/projects/the-beneath)**: The Beneath-1.12.2-1.7.1.jar
