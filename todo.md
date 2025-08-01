@@ -1,0 +1,4 @@
+- `config/endermodpacktweaks/tweaks.cfg` L39 beneath options
+- `config/endermodpacktweaks/minecraft.cfg` L84 dragon options
+- gamestage localization `emt.game_stages.<stage_name>`
+- recipe stage

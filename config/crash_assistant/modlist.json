@@ -65,6 +65,9 @@
     "modId": "armoryexpansion",
     "version": "1.4.2"
   },
+  "assetmover-2.5.jar": {
+    "jarName": "assetmover-2.5.jar"
+  },
   "athenaeum-1.12.2-1.19.6.jar": {
     "jarName": "athenaeum-1.12.2-1.19.6.jar",
     "modId": "athenaeum",
@@ -283,6 +286,11 @@
     "modId": "enderio",
     "version": "5.3.72"
   },
+  "endermodpacktweaks-0.5.10.jar": {
+    "jarName": "endermodpacktweaks-0.5.10.jar",
+    "modId": "endermodpacktweaks",
+    "version": "0.5.10"
+  },
   "EnderTweaker-1.12.2-1.2.3.jar": {
     "jarName": "EnderTweaker-1.12.2-1.2.3.jar",
     "modId": "endertweaker",
@@ -302,11 +310,6 @@
     "jarName": "FantasticLib-1.12.2.047.jar",
     "modId": "fantasticlib",
     "version": "1.12.2.047"
-  },
-  "fireproofitems-1.0.jar": {
-    "jarName": "fireproofitems-1.0.jar",
-    "modId": "fireproofitems",
-    "version": "1.0"
   },
   "Fixeroo-2.3.5-hotfix.1.jar": {
     "jarName": "Fixeroo-2.3.5-hotfix.1.jar",
@@ -380,6 +383,11 @@
     "jarName": "FullscreenWindowed-1.12-1.6.0.jar",
     "modId": "fw",
     "version": "1.6.0"
+  },
+  "futurefireproof-1.12.2-1.2.2.jar": {
+    "jarName": "futurefireproof-1.12.2-1.2.2.jar",
+    "modId": "futurefireproof",
+    "version": "1.12.2-1.2.1"
   },
   "Galacticraft-1.12.2-4.0.6.jar": {
     "jarName": "Galacticraft-1.12.2-4.0.6.jar",
@@ -771,10 +779,10 @@
     "modId": "beneath",
     "version": "1.12.2-1.7.1"
   },
-  "theonesmeagle-1.12-1.0.8.jar": {
-    "jarName": "theonesmeagle-1.12-1.0.8.jar",
+  "TheOneSmeagle-1.12-1.1.4.jar": {
+    "jarName": "TheOneSmeagle-1.12-1.1.4.jar",
     "modId": "theoneprobe",
-    "version": "1.12-1.0.8"
+    "version": "1.12-1.1.4"
   },
   "timeinabottled-2.0.jar": {
     "jarName": "timeinabottled-2.0.jar",
@@ -825,11 +833,6 @@
     "jarName": "WanionLib-1.12.2-2.91.jar",
     "modId": "wanionlib",
     "version": "1.12.2-2.91"
-  },
-  "Witherproof-1.12.2-1.0.0.jar": {
-    "jarName": "Witherproof-1.12.2-1.0.0.jar",
-    "modId": "witherproof",
-    "version": "1.1.0"
   },
   "XaeroPlus-Forge-1.12.2-165-WM1.39.0-MM24.4.1.jar": {
     "jarName": "XaeroPlus-Forge-1.12.2-165-WM1.39.0-MM24.4.1.jar",

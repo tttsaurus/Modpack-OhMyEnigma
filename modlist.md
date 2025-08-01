@@ -1,4 +1,4 @@
-List of Mods (176):
+List of Mods (177):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -11,6 +11,7 @@ List of Mods (176):
 - **[AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)**: AppleCore-mc1.12.2-3.4.0.jar
 - **AppleSkin**: AppleSkin-mc1.12-1.0.14.jar
 - **[Armory Expansion](https://www.curseforge.com/minecraft/mc-mods/armory-expansion)**: armoryexpansion-1.4.2.jar
+- assetmover-2.5.jar
 - **Athenaeum**: athenaeum-1.12.2-1.19.6.jar
 - **Avaritia**: Avaritia-1.12.2-3.3.0.37-universal.jar
 - **Avaritia IO**: avaritiaio-1.4.jar
@@ -55,11 +56,11 @@ List of Mods (176):
 - **[Enchanting Tweaks](https://minecraft.curseforge.com/projects/enchanting-tweaks)**: enchanting_tweaks-1.2.1.jar
 - **[EnderCore](http://enderio.com)**: EnderCore-1.12.2-0.5.78.jar
 - **[Ender IO](http://enderio.com)**: EnderIO-1.12.2-5.3.72.jar
+- **[Ender's Modpack Tweaks](https://github.com/Ender-Development/EnderModpackTweaks)**: endermodpacktweaks-0.5.10.jar
 - **EnderTweaker**: EnderTweaker-1.12.2-1.2.3.jar
 - **[Environmental Tech](http://minecraft.curseforge.com/projects/environmental-tech)**: environmentaltech-1.12.2-2.0.20.1.jar
 - extendedcrafting-nomifactory-edition-1.7.0.7.jar
 - **Fantastic Lib**: FantasticLib-1.12.2.047.jar
-- **Fireproof Items Mod**: fireproofitems-1.0.jar
 - **[Fixeroo](https://github.com/CaliforniaDemise/Fixeroo)**: Fixeroo-2.3.5-hotfix.1.jar
 - flare-0.7.0.jar
 - **[Flavorful](TBA)**: flavorful-1.0.1.jar
@@ -75,6 +76,7 @@ List of Mods (176):
 - **[FTB Library](http://minecraft.curseforge.com/projects/ftblib)**: FTBLib-5.4.7.2.jar
 - **[FTB Quests](http://minecraft.curseforge.com/projects/ftb-quests)**: FTBQuests-1202.9.0.15.jar
 - **[Fullscreen Windowed](https://github.com/hancin/Fullscreen-Windowed-Minecraft)**: FullscreenWindowed-1.12-1.6.0.jar
+- futurefireproof-1.12.2-1.2.2.jar
 - **Galacticraft**: Galacticraft-1.12.2-4.0.6.jar
 - **Example Mod**: GalacticraftTweaker-1.12.2-1.0.3.jar
 - **[Game Stages](https://minecraft.curseforge.com/projects/game-stages)**: GameStages-1.12.2-2.0.123.jar
@@ -154,7 +156,7 @@ List of Mods (176):
 - **[TeaStory](http://www.mcbbs.net/thread-562372-1-1.html)**: TeaStory-3.3.3-B33.418-1.12.2.jar
 - **Tesla Core Lib**: tesla-core-lib-1.12.2-1.0.18.jar
 - **[The Beneath](https://minecraft.curseforge.com/projects/the-beneath)**: The Beneath-1.12.2-1.7.1.jar
-- **The One Smeagle**: theonesmeagle-1.12-1.0.8.jar
+- **[The One Smeagle](https://github.com/strubium/TheOneSmeagle)**: TheOneSmeagle-1.12-1.1.4.jar
 - **[Time in a Bottled](https://github.com/Rongmario/Time-in-a-Bottled)**: timeinabottled-2.0.jar
 - **[Tinkers' Antique](https://github.com/Elite-Modding-Team/TinkersAntique)**: TinkersAntique-1.12.2-2.13.0.202.jar
 - **[Torcherino Community Edition](https://github.com/Artiks54/Torcherino-ce)**: torcherino-7.7.1.jar
@@ -165,7 +167,6 @@ List of Mods (176):
 - **[Valkyrie Lib](http://minecraft.curseforge.com/projects/valkyrielib)**: valkyrielib-1.12.2-2.0.20.1.jar
 - **[VintageFix](https://github.com/embeddedt/VintageFix)**: vintagefix-0.5.3.jar
 - **[WanionLib](http://minecraft.curseforge.com/projects/wanionlib)**: WanionLib-1.12.2-2.91.jar
-- **Witherproof**: Witherproof-1.12.2-1.0.0.jar
 - **[XaeroPlus](https://github.com/rfresh2/XaeroPlus)**: XaeroPlus-Forge-1.12.2-165-WM1.39.0-MM24.4.1.jar
 - **Xaero's World Map**: XaerosWorldMap_1.39.0_Forge_1.12.jar
 - **Xaero's Minimap**: Xaeros_Minimap_24.4.1_Forge_1.12.jar

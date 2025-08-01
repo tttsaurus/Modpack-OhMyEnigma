@@ -24,6 +24,7 @@ options.txt
 optionsof.txt
 usercache.json
 usernamecache.json
+hei_bookmarks.ini
 
 config/customloadingscreen_timings.nbt
 config/fantasticlib/reference/blocks.txt
@@ -40,6 +41,7 @@ config/splash.properties
 config/xaerominimap_entities.json
 config/jei/worldSettings.cfg
 config/ingameinfo/ui_element_dump.md
+config/tconstruct_oredictcache.dat
 
 /config/flare/activity/
 /config/flare/profiler/

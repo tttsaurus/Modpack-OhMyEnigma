@@ -1,5 +1,0 @@
-contenttweaker:shoggoth_matter
-abyssalcraft:shoggothbiomass
-contenttweaker:karmesine_crystal_shard
-contenttweaker:ovium_crystal_shard
-contenttweaker:jauxum_crystal_shard
