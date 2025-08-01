@@ -31,44 +31,44 @@
     - `stamp_*_circuit`
     - ```zenscript
       // stampFlat
-      <ore:stampFlat>.add(<item:hbm:stamp_steel_flat>);<ore:stampFlat>.add(<item:hbm:stamp_steel_flat>);
-      <ore:stampFlat>.add(<item:hbm:stamp_titanium_flat>);<ore:stampFlat>.add(<item:hbm:stamp_titanium_flat>);
-      <ore:stampFlat>.add(<item:hbm:stamp_schrabidium_flat>);<ore:stampFlat>.add(<item:hbm:stamp_schrabidium_flat>);
-      <ore:stampFlat>.add(<item:hbm:stamp_desh_flat>);<ore:stampFlat>.add(<item:hbm:stamp_desh_flat>);
+      <ore:stampFlat>.add(<item:hbm:stamp_steel_flat>);
+      <ore:stampFlat>.add(<item:hbm:stamp_titanium_flat>);
+      <ore:stampFlat>.add(<item:hbm:stamp_schrabidium_flat>);
+      <ore:stampFlat>.add(<item:hbm:stamp_desh_flat>);
 
       // stampPlate
-      <ore:stampPlate>.add(<item:hbm:stamp_steel_plate>);<ore:stampPlate>.add(<item:hbm:stamp_steel_plate>);
-      <ore:stampPlate>.add(<item:hbm:stamp_titanium_plate>);<ore:stampPlate>.add(<item:hbm:stamp_titanium_plate>);
-      <ore:stampPlate>.add(<item:hbm:stamp_schrabidium_plate>);<ore:stampPlate>.add(<item:hbm:stamp_schrabidium_plate>);
-      <ore:stampPlate>.add(<item:hbm:stamp_desh_plate>);<ore:stampPlate>.add(<item:hbm:stamp_desh_plate>);
+      <ore:stampPlate>.add(<item:hbm:stamp_steel_plate>);
+      <ore:stampPlate>.add(<item:hbm:stamp_titanium_plate>);
+      <ore:stampPlate>.add(<item:hbm:stamp_schrabidium_plate>);
+      <ore:stampPlate>.add(<item:hbm:stamp_desh_plate>);
 
       // stampWire
-      <ore:stampWire>.add(<item:hbm:stamp_steel_wire>);<ore:stampWire>.add(<item:hbm:stamp_steel_wire>);
-      <ore:stampWire>.add(<item:hbm:stamp_titanium_wire>);<ore:stampWire>.add(<item:hbm:stamp_titanium_wire>);
-      <ore:stampWire>.add(<item:hbm:stamp_schrabidium_wire>);<ore:stampWire>.add(<item:hbm:stamp_schrabidium_wire>);
-      <ore:stampWire>.add(<item:hbm:stamp_desh_wire>);<ore:stampWire>.add(<item:hbm:stamp_desh_wire>);
+      <ore:stampWire>.add(<item:hbm:stamp_steel_wire>);
+      <ore:stampWire>.add(<item:hbm:stamp_titanium_wire>);
+      <ore:stampWire>.add(<item:hbm:stamp_schrabidium_wire>);
+      <ore:stampWire>.add(<item:hbm:stamp_desh_wire>);
 
       // stampCircuit
-      <ore:stampCircuit>.add(<item:hbm:stamp_steel_circuit>);<ore:stampCircuit>.add(<item:hbm:stamp_steel_circuit>);
-      <ore:stampCircuit>.add(<item:hbm:stamp_titanium_circuit>);<ore:stampCircuit>.add(<item:hbm:stamp_titanium_circuit>);
-      <ore:stampCircuit>.add(<item:hbm:stamp_schrabidium_circuit>);<ore:stampCircuit>.add(<item:hbm:stamp_schrabidium_circuit>);
-      <ore:stampCircuit>.add(<item:hbm:stamp_desh_circuit>);<ore:stampCircuit>.add(<item:hbm:stamp_desh_circuit>);
+      <ore:stampCircuit>.add(<item:hbm:stamp_steel_circuit>);
+      <ore:stampCircuit>.add(<item:hbm:stamp_titanium_circuit>);
+      <ore:stampCircuit>.add(<item:hbm:stamp_schrabidium_circuit>);
+      <ore:stampCircuit>.add(<item:hbm:stamp_desh_circuit>);
 
       // stamp357
-      <ore:stamp357>.add(<item:hbm:stamp_desh_357>);<ore:stamp357>.add(<item:hbm:stamp_desh_357>);
-      <ore:stamp357>.add(<item:hbm:stamp_357>);<ore:stamp357>.add(<item:hbm:stamp_357>);
+      <ore:stamp357>.add(<item:hbm:stamp_desh_357>);
+      <ore:stamp357>.add(<item:hbm:stamp_357>);
 
       // stamp44
-      <ore:stamp44>.add(<item:hbm:stamp_desh_44>);<ore:stamp44>.add(<item:hbm:stamp_desh_44>);
-      <ore:stamp44>.add(<item:hbm:stamp_44>);<ore:stamp44>.add(<item:hbm:stamp_44>);
+      <ore:stamp44>.add(<item:hbm:stamp_desh_44>);
+      <ore:stamp44>.add(<item:hbm:stamp_44>);
 
       // stamp9
-      <ore:stamp9>.add(<item:hbm:stamp_desh_9>);<ore:stamp9>.add(<item:hbm:stamp_desh_9>);
-      <ore:stamp9>.add(<item:hbm:stamp_9>);<ore:stamp9>.add(<item:hbm:stamp_9>);
-
+      <ore:stamp9>.add(<item:hbm:stamp_desh_9>);
+      <ore:stamp9>.add(<item:hbm:stamp_9>);
+      
       // stamp50
-      <ore:stamp50>.add(<item:hbm:stamp_desh_50>);<ore:stamp50>.add(<item:hbm:stamp_desh_50>);
-      <ore:stamp50>.add(<item:hbm:stamp_50>);<ore:stamp50>.add(<item:hbm:stamp_50>);
+      <ore:stamp50>.add(<item:hbm:stamp_desh_50>);
+      <ore:stamp50>.add(<item:hbm:stamp_50>);
       ```
   - `hbm:ingot_steel_dusted`, `hbm:ingot_steel_dusted:1` etc til 5
   - the whole `industrial_blast_furnace_recipe.zs`
@@ -99,3 +99,5 @@
   - `hbm:ingot_desh`
   - `hbm:ingot_rubber` <- can be removed
   - `hbm:powder_coal` <- can be removed
+  - moon.moon radiation / radiation system
+  - nether gen for fire powder, geyser, etc
