@@ -2,7 +2,7 @@
 import mods.industrialforegoing.FermentationStation;
 import mods.industrialforegoing.FluidSievingMachine;
 import mods.enderio.SagMill;
-import mods.ntm.Centrifuge;
+// import mods.ntm.Centrifuge;
 
 FermentationStation.remove(<liquid:if.ore_fluid_raw>.withTag({Ore: "oreRedstone"}) * 1);
 FermentationStation.add(<liquid:if.ore_fluid_raw>.withTag({Ore: "oreRedstone"}) * 1, <liquid:if.ore_fluid_fermented>.withTag({Ore: "oreRedstone"}) * 3);
