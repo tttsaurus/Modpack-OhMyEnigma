@@ -18,6 +18,9 @@ harvest_level_8.name=§b§lSchrabidium §r§f§l§o8§r§e
 #Event
 mpe.str1=Part of the Moon ascends to the Overworld at x=0, y=200, z=0
 
+#HUD
+ome_hud.str1=[CTRL + P] To Expand Info
+
 #JEI
 mpjei.str1=Catalyst
 mpjei.str2=Output

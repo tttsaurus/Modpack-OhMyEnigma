@@ -156,7 +156,7 @@ List of Mods (177):
 - **[TeaStory](http://www.mcbbs.net/thread-562372-1-1.html)**: TeaStory-3.3.3-B33.418-1.12.2.jar
 - **Tesla Core Lib**: tesla-core-lib-1.12.2-1.0.18.jar
 - **[The Beneath](https://minecraft.curseforge.com/projects/the-beneath)**: The Beneath-1.12.2-1.7.1.jar
-- **[The One Smeagle](https://github.com/strubium/TheOneSmeagle)**: TheOneSmeagle-1.12-1.1.4.jar
+- **[The One Smeagle](https://github.com/strubium/TheOneSmeagle)**: TheOneSmeagle-1.12-1.1.0.jar
 - **[Time in a Bottled](https://github.com/Rongmario/Time-in-a-Bottled)**: timeinabottled-2.0.jar
 - **[Tinkers' Antique](https://github.com/Elite-Modding-Team/TinkersAntique)**: TinkersAntique-1.12.2-2.13.0.202.jar
 - **[Torcherino Community Edition](https://github.com/Artiks54/Torcherino-ce)**: torcherino-7.7.1.jar

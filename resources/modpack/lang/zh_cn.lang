@@ -18,6 +18,9 @@ harvest_level_8.name=§b§lSchrabidium §r§f§l§o8§r§e
 #Event
 mpe.str1=月球的部分已降临在主世界x=0, y=200, z=0
 
+#HUD
+ome_hud.str1=[CTRL + P] 以展开信息
+
 #JEI
 mpjei.str1=催化剂
 mpjei.str2=输出

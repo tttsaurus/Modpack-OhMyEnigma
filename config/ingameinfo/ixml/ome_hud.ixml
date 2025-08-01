@@ -1,7 +1,7 @@
 <Def debug = false>
 <HorizontalGroup uid = "infoBar" pivot = TOP_RIGHT alignment = TOP_RIGHT padding = {"top": 2}>
     <Separator color = #6abe30>
-    <Text text = "[CTRL + P] To Expand" color =rgb(48, 190, 48)>
+    <SlidingText width = 55 spareWidth = 20 xShiftSpeed = 15 text = "@i18n[ome_hud.str1]" color =rgb(48, 190, 48)>
     <Separator color = #6abe30>
     <Text uid = "fps">
     <Separator color = #6abe30>
