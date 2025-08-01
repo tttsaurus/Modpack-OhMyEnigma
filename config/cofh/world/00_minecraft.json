@@ -2,7 +2,6 @@
 	"priority": 1000000000000,
 	"populate": {
 		"dirt": {
-
 			"distribution": "uniform",
 			"generator": {
 				"block": "dirt",
@@ -460,6 +459,42 @@
 					0
 				]
 			}
-		}
+		},
+
+		"desert_surface_magma": {
+            "distribution": "surface",
+            "generator": {
+                "type": "decoration",
+                "block": [
+                    {
+                        "name": "minecraft:magma",
+                        "weight": 1
+                    }
+                ],
+                "see-sky": false,
+                "surface": [{"name": "minecraft:sand"}],
+                "material": [{"name": "minecraft:air"}],
+                "cluster-size": 1
+            },
+            "cluster-count": 5,
+            "retrogen": false,
+            "biome": {
+                "restriction": "whitelist",
+                "value": [
+                    {
+                        "type": "id",
+                        "entry": [
+                            "minecraft:desert"
+                        ]
+                    }
+                ]
+            },
+            "dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+        }
 	}
 }

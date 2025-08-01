@@ -632,10 +632,10 @@
     "modId": "extra_slabs",
     "version": "1.0.0"
   },
-  "ometweaks-1.5.3.jar": {
-    "jarName": "ometweaks-1.5.3.jar",
+  "ometweaks-1.5.4.jar": {
+    "jarName": "ometweaks-1.5.4.jar",
     "modId": "ometweaks",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   "Ore Visual Detector-2.0.2.jar": {
     "jarName": "Ore Visual Detector-2.0.2.jar",
@@ -651,6 +651,11 @@
     "jarName": "overloadedarmorbar-1.0.4g.jar",
     "modId": "overpoweredarmorbar",
     "version": "1.0.4g"
+  },
+  "PerfectSpawn-MC1.12.2-2.1.jar": {
+    "jarName": "PerfectSpawn-MC1.12.2-2.1.jar",
+    "modId": "perfectspawn",
+    "version": "2.1"
   },
   "personalworlds-1.12.2-1.0.3.jar": {
     "jarName": "personalworlds-1.12.2-1.0.3.jar",
@@ -763,6 +768,11 @@
     "jarName": "TeaStory-3.3.3-B33.418-1.12.2.jar",
     "modId": "teastory",
     "version": "3.3.3-B33.418-1.12.2"
+  },
+  "TelePastries-0.3.4.jar": {
+    "jarName": "TelePastries-0.3.4.jar",
+    "modId": "telepastries",
+    "version": "0.3.4"
   },
   "tesla-core-lib-1.12.2-1.0.18.jar": {
     "jarName": "tesla-core-lib-1.12.2-1.0.18.jar",

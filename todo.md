@@ -7,7 +7,7 @@
 - remove hbm-related content fully
   - `hbm:ammo_556`
   - `hbm:ammo_44`
-  - `hbm:ammo_9mm>`
+  - `hbm:ammo_9mm`
   - `hbm:gun_revolver_lead_ammo`
   - `hbm:ammo_22lr`
   - `hbm:gun_revolver_iron_ammo`

@@ -1,4 +1,4 @@
-List of Mods (177):
+List of Mods (178):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -84,7 +84,6 @@ List of Mods (177):
 - **Guide-API**: Guide-API-1.12-2.1.8-63.jar
 - **[GunpowderLib](https://github.com/JackyyTV/GunpowderLib)**: GunpowderLib-1.12.2-1.1.jar
 - **[Had Enough Items](https://github.com/CleanroomMC/HadEnoughItems)**: HadEnoughItems_1.12.2-4.28.0.jar
-- **[Hbms Nuclear Tech - Hamster Reloaded](https://github.com/Hamster-Systems/Hbm-s-Nuclear-Tech-GIT)**: Hbms Nuclear Tech - Hamster Reloaded - 1.12.2-1.6.4.jar
 - **Had Enough Characters**: hecharacters-1.12.2-1.4.1.jar
 - **[IFPatcher](https://www.curseforge.com/minecraft/mc-mods/ifpatcher)**: IFPatcher-2.4.0.jar
 - **[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)**: industrialforegoing-1.12.2-1.12.13-237.jar
@@ -127,10 +126,11 @@ List of Mods (177):
 - **NonConflictKeys**: NonConflictKeys-Forge-1.12.2-1.0.0.jar
 - **[Nothirium](https://github.com/Meldexun/Nothirium)**: Nothirium-1.12.2-0.4.7-beta.jar
 - **[Extra Slabs](https://mcreator.net)**: ObsidianSlabs.jar
-- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.3.jar
+- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.4.jar
 - **Ore Visual Detector**: Ore Visual Detector-2.0.2.jar
 - **OreExcavation**: OreExcavation-1.4.150.jar
 - **[Overloaded Armor Bar](https://github.com/Tfarcenim/OverpoweredArmorBar)**: overloadedarmorbar-1.0.4g.jar
+- **Perfect Spawn**: PerfectSpawn-MC1.12.2-2.1.jar
 - **Personal Worlds**: personalworlds-1.12.2-1.0.3.jar
 - **Placebo**: Placebo-1.12.2-1.6.1.jar
 - **ProbeZS**: ProbeZS-1.18.7.jar
@@ -154,6 +154,7 @@ List of Mods (177):
 - **[Tinkers Alloying Addon](https://gitee.com/peter20050526/taigarr)**: TAIGA-Replant-Replant(1.0.0-beta).jar
 - **Tinkers' Evolution**: tconevo-1.12.2-1.1.1.jar
 - **[TeaStory](http://www.mcbbs.net/thread-562372-1-1.html)**: TeaStory-3.3.3-B33.418-1.12.2.jar
+- **TelePastries**: TelePastries-0.3.4.jar
 - **Tesla Core Lib**: tesla-core-lib-1.12.2-1.0.18.jar
 - **[The Beneath](https://minecraft.curseforge.com/projects/the-beneath)**: The Beneath-1.12.2-1.7.1.jar
 - **[The One Smeagle](https://github.com/strubium/TheOneSmeagle)**: TheOneSmeagle-1.12-1.1.0.jar
