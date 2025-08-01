@@ -12,7 +12,7 @@
 
 // Meteorite, MeteoricIron fix
 <ore:ingotMeteorite>.add(<item:galacticraftcore:item_basic_moon>);
-<ore:ingotMeteorite>.add(<item:hbm:ingot_meteorite>);
+// <ore:ingotMeteorite>.add(<item:hbm:ingot_meteorite>);
 <ore:blockMeteorite>.add(<item:galacticraftcore:basic_block_core:12>);
 <ore:ingotMeteoricIron>.add(<item:taiga:meteorite_ingot>);
 <ore:blockMeteoricIron>.add(<item:taiga:meteorite_block>);
@@ -22,7 +22,7 @@
 <ore:itemPrescientPowder>.add(<item:enderio:item_material:34>);
 
 // Desh fix
-<ore:ingotDesh>.add(<item:hbm:ingot_desh>);
+// <ore:ingotDesh>.add(<item:hbm:ingot_desh>);
 
 // Niobium fix
 <ore:nuggetNiobium>.add(<item:taiga:niob_nugget>);
@@ -31,10 +31,10 @@
 <ore:blockNiobium>.add(<item:taiga:niob_block>);
 
 // Rubber fix
-<ore:ingotRubber>.remove(<item:hbm:ingot_rubber>);
-<ore:itemRubber>.remove(<item:hbm:ingot_rubber>);
-<ore:Rubber>.remove(<item:hbm:ingot_rubber>);
-<ore:itemRubberBar>.add(<item:hbm:ingot_rubber>);
+// <ore:ingotRubber>.remove(<item:hbm:ingot_rubber>);
+// <ore:itemRubber>.remove(<item:hbm:ingot_rubber>);
+// <ore:Rubber>.remove(<item:hbm:ingot_rubber>);
+// <ore:itemRubberBar>.add(<item:hbm:ingot_rubber>);
 
 // BurntBlackFlesh
 <ore:ingotBurntBlackFleshMat>.add(<item:contenttweaker:burnt_black_flesh_mat_ingot>);
@@ -55,10 +55,10 @@
 
 
 // dye
-<ore:dye>.remove(<item:hbm:powder_coal>);
+// <ore:dye>.remove(<item:hbm:powder_coal>);
 
 // dyeBlack
-<ore:dyeBlack>.remove(<item:hbm:powder_coal>);
+// <ore:dyeBlack>.remove(<item:hbm:powder_coal>);
 
 // dustAlkali
 <ore:dustAlkali>.add(<item:sakura:materials:35>);
@@ -66,10 +66,10 @@
 // fertilizer
 <ore:fertilizer>.add(<item:forestry:fertilizer_compound>);
 <ore:fertilizer>.add(<item:minecraft:dye:15>);
-<ore:fertilizer>.add(<item:hbm:biomass_compressed>);
+// <ore:fertilizer>.add(<item:hbm:biomass_compressed>);
 
 // dustAsh
-<ore:dustAsh>.add(<item:hbm:dust>);
+// <ore:dustAsh>.add(<item:hbm:dust>);
 
 // bread
 <ore:bread>.add(<item:forestry:honeyed_slice>);
@@ -104,15 +104,15 @@
 <ore:plankWood>.add(<item:scp:sturdy_planks>);
 
 // blockBasalt
-<ore:blockBasalt>.add(<item:hbm:basalt>);
-<ore:blockBasalt>.add(<item:hbm:basalt_sulfur>);
-<ore:blockBasalt>.add(<item:hbm:basalt_fluorite>);
-<ore:blockBasalt>.add(<item:hbm:basalt_asbestos>);
-<ore:blockBasalt>.add(<item:hbm:basalt_gem>);
-<ore:blockBasalt>.add(<item:hbm:basalt_smooth>);
-<ore:blockBasalt>.add(<item:hbm:basalt_brick>);
-<ore:blockBasalt>.add(<item:hbm:basalt_polished>);
-<ore:blockBasalt>.add(<item:hbm:basalt_tiles>);
+// <ore:blockBasalt>.add(<item:hbm:basalt>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_sulfur>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_fluorite>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_asbestos>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_gem>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_smooth>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_brick>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_polished>);
+// <ore:blockBasalt>.add(<item:hbm:basalt_tiles>);
 
 // compressed
 <ore:compressedDarkMatterSteelMat>.add(<item:contenttweaker:compressed_dark_matter_steel>);
@@ -166,42 +166,42 @@
 <ore:gearVibrant>.remove(<item:enderio:item_material:13>);
 <ore:gearDark>.remove(<item:enderio:item_material:73>);
 
-// stampFlat
-<ore:stampFlat>.add(<item:hbm:stamp_steel_flat>);
-<ore:stampFlat>.add(<item:hbm:stamp_titanium_flat>);
-<ore:stampFlat>.add(<item:hbm:stamp_schrabidium_flat>);
-<ore:stampFlat>.add(<item:hbm:stamp_desh_flat>);
+// // stampFlat
+// <ore:stampFlat>.add(<item:hbm:stamp_steel_flat>);
+// <ore:stampFlat>.add(<item:hbm:stamp_titanium_flat>);
+// <ore:stampFlat>.add(<item:hbm:stamp_schrabidium_flat>);
+// <ore:stampFlat>.add(<item:hbm:stamp_desh_flat>);
 
-// stampPlate
-<ore:stampPlate>.add(<item:hbm:stamp_steel_plate>);
-<ore:stampPlate>.add(<item:hbm:stamp_titanium_plate>);
-<ore:stampPlate>.add(<item:hbm:stamp_schrabidium_plate>);
-<ore:stampPlate>.add(<item:hbm:stamp_desh_plate>);
+// // stampPlate
+// <ore:stampPlate>.add(<item:hbm:stamp_steel_plate>);
+// <ore:stampPlate>.add(<item:hbm:stamp_titanium_plate>);
+// <ore:stampPlate>.add(<item:hbm:stamp_schrabidium_plate>);
+// <ore:stampPlate>.add(<item:hbm:stamp_desh_plate>);
 
-// stampWire
-<ore:stampWire>.add(<item:hbm:stamp_steel_wire>);
-<ore:stampWire>.add(<item:hbm:stamp_titanium_wire>);
-<ore:stampWire>.add(<item:hbm:stamp_schrabidium_wire>);
-<ore:stampWire>.add(<item:hbm:stamp_desh_wire>);
+// // stampWire
+// <ore:stampWire>.add(<item:hbm:stamp_steel_wire>);
+// <ore:stampWire>.add(<item:hbm:stamp_titanium_wire>);
+// <ore:stampWire>.add(<item:hbm:stamp_schrabidium_wire>);
+// <ore:stampWire>.add(<item:hbm:stamp_desh_wire>);
 
-// stampCircuit
-<ore:stampCircuit>.add(<item:hbm:stamp_steel_circuit>);
-<ore:stampCircuit>.add(<item:hbm:stamp_titanium_circuit>);
-<ore:stampCircuit>.add(<item:hbm:stamp_schrabidium_circuit>);
-<ore:stampCircuit>.add(<item:hbm:stamp_desh_circuit>);
+// // stampCircuit
+// <ore:stampCircuit>.add(<item:hbm:stamp_steel_circuit>);
+// <ore:stampCircuit>.add(<item:hbm:stamp_titanium_circuit>);
+// <ore:stampCircuit>.add(<item:hbm:stamp_schrabidium_circuit>);
+// <ore:stampCircuit>.add(<item:hbm:stamp_desh_circuit>);
 
-// stamp357
-<ore:stamp357>.add(<item:hbm:stamp_desh_357>);
-<ore:stamp357>.add(<item:hbm:stamp_357>);
+// // stamp357
+// <ore:stamp357>.add(<item:hbm:stamp_desh_357>);
+// <ore:stamp357>.add(<item:hbm:stamp_357>);
 
-// stamp44
-<ore:stamp44>.add(<item:hbm:stamp_desh_44>);
-<ore:stamp44>.add(<item:hbm:stamp_44>);
+// // stamp44
+// <ore:stamp44>.add(<item:hbm:stamp_desh_44>);
+// <ore:stamp44>.add(<item:hbm:stamp_44>);
 
-// stamp9
-<ore:stamp9>.add(<item:hbm:stamp_desh_9>);
-<ore:stamp9>.add(<item:hbm:stamp_9>);
+// // stamp9
+// <ore:stamp9>.add(<item:hbm:stamp_desh_9>);
+// <ore:stamp9>.add(<item:hbm:stamp_9>);
 
-// stamp50
-<ore:stamp50>.add(<item:hbm:stamp_desh_50>);
-<ore:stamp50>.add(<item:hbm:stamp_50>);
+// // stamp50
+// <ore:stamp50>.add(<item:hbm:stamp_desh_50>);
+// <ore:stamp50>.add(<item:hbm:stamp_50>);

@@ -25,17 +25,6 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
-hbm:potion.hbm_taint
-hbm:potion.hbm_radiation
-hbm:potion.hbm_bang
-hbm:potion.hbm_mutation
-hbm:potion.hbm_radx
-hbm:potion.hbm_lead
-hbm:potion.hbm_radaway
-hbm:potion.hbm_telekinesis
-hbm:potion.hbm_phosphorus
-hbm:potion.hbm_stability
-hbm:potion.hbm_potionsickness
 sakura:exp_up
 sakura:cannon
 sakura:golden_heart

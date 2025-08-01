@@ -189,24 +189,24 @@ Melting.addRecipe(<liquid:bronze> * 432, <ore:compressedBronze>, 410);
 
 Melting.addRecipe(<liquid:meteorite_fluid> * 432, <ore:compressedMeteorite>, 650);
 
-//plate melting
-Melting.removeRecipe(<liquid:gold>, <item:hbm:plate_gold>);
-Melting.addRecipe(<liquid:gold> * 432, <ore:plateGold>, 450);
+// //plate melting
+// Melting.removeRecipe(<liquid:gold>, <item:hbm:plate_gold>);
+// Melting.addRecipe(<liquid:gold> * 432, <ore:plateGold>, 450);
 
-Melting.removeRecipe(<liquid:steel>, <item:hbm:plate_steel>);
-Melting.addRecipe(<liquid:steel> * 432, <ore:plateSteel>, 520);
+// Melting.removeRecipe(<liquid:steel>, <item:hbm:plate_steel>);
+// Melting.addRecipe(<liquid:steel> * 432, <ore:plateSteel>, 520);
 
-Melting.removeRecipe(<liquid:lead>, <item:hbm:plate_lead>);
-Melting.addRecipe(<liquid:lead> * 432, <ore:plateLead>, 380);
+// Melting.removeRecipe(<liquid:lead>, <item:hbm:plate_lead>);
+// Melting.addRecipe(<liquid:lead> * 432, <ore:plateLead>, 380);
 
-Melting.removeRecipe(<liquid:copper>, <item:hbm:plate_copper>);
-Melting.addRecipe(<liquid:copper> * 432, <ore:plateCopper>, 450);
+// Melting.removeRecipe(<liquid:copper>, <item:hbm:plate_copper>);
+// Melting.addRecipe(<liquid:copper> * 432, <ore:plateCopper>, 450);
 
-Melting.removeRecipe(<liquid:iron>, <item:hbm:plate_iron>);
-Melting.addRecipe(<liquid:iron> * 432, <ore:plateIron>, 560);
+// Melting.removeRecipe(<liquid:iron>, <item:hbm:plate_iron>);
+// Melting.addRecipe(<liquid:iron> * 432, <ore:plateIron>, 560);
 
-Melting.removeRecipe(<liquid:aluminum>, <item:hbm:plate_aluminium>);
-Melting.addRecipe(<liquid:aluminum> * 432, <ore:plateAluminium>, 340);
+// Melting.removeRecipe(<liquid:aluminum>, <item:hbm:plate_aluminium>);
+// Melting.addRecipe(<liquid:aluminum> * 432, <ore:plateAluminium>, 340);
 
 //plates
 Melting.removeRecipe(<liquid:essence_metal>, <item:tconevo:metal:18>);
@@ -216,12 +216,12 @@ Melting.removeRecipe(<liquid:bound_metal>, <item:tconevo:metal:28>);
 Casting.removeTableRecipe(<item:tconevo:metal:18>);
 Casting.removeTableRecipe(<item:tconevo:metal:33>);
 Casting.removeTableRecipe(<item:tconevo:metal:28>);
-Casting.removeTableRecipe(<item:hbm:plate_gold>);
-Casting.removeTableRecipe(<item:hbm:plate_steel>);
-Casting.removeTableRecipe(<item:hbm:plate_lead>);
-Casting.removeTableRecipe(<item:hbm:plate_copper>);
-Casting.removeTableRecipe(<item:hbm:plate_iron>);
-Casting.removeTableRecipe(<item:hbm:plate_aluminium>);
+// Casting.removeTableRecipe(<item:hbm:plate_gold>);
+// Casting.removeTableRecipe(<item:hbm:plate_steel>);
+// Casting.removeTableRecipe(<item:hbm:plate_lead>);
+// Casting.removeTableRecipe(<item:hbm:plate_copper>);
+// Casting.removeTableRecipe(<item:hbm:plate_iron>);
+// Casting.removeTableRecipe(<item:hbm:plate_aluminium>);
 
 //fluid dictionary
 FluidDictionary.add("seed.oil", "sakura.food_oil", 1);

@@ -58,86 +58,86 @@ RecipeBuilder.newBuilder("craft_quartz_enriched_iron", "heter_fabrication_machin
     .addItemOutput(<item:refinedstorage:quartz_enriched_iron>)
     .build();
 
-RecipeBuilder.newBuilder("craft_ingot_steel_dusted", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:bloodmagic:component>,
-        <item:bloodmagic:component:1>,
-        <item:bloodmagic:component:2>,
-        <ore:ingotDarkMatterSteel>,
-        <item:contenttweaker:moon_dust>,
-        <item:refinedstorage:quartz_enriched_iron>,
-        <item:bloodmagic:component:3>,
-        <item:bloodmagic:component:4>,
-        <item:bloodmagic:component:5>
-    ])
-    .addFluidInput(<liquid:nitronite_fluid> * 1000)
-    .addItemOutput(<item:hbm:ingot_steel_dusted> * 6)
-    .build();
+// RecipeBuilder.newBuilder("craft_ingot_steel_dusted", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:bloodmagic:component>,
+//         <item:bloodmagic:component:1>,
+//         <item:bloodmagic:component:2>,
+//         <ore:ingotDarkMatterSteel>,
+//         <item:contenttweaker:moon_dust>,
+//         <item:refinedstorage:quartz_enriched_iron>,
+//         <item:bloodmagic:component:3>,
+//         <item:bloodmagic:component:4>,
+//         <item:bloodmagic:component:5>
+//     ])
+//     .addFluidInput(<liquid:nitronite_fluid> * 1000)
+//     .addItemOutput(<item:hbm:ingot_steel_dusted> * 6)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_heated_dusted_steel_1", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:hbm:ingot_steel_dusted>,
-        <item:sakura:kitunebi>
-    ])
-    .addFluidInput(<liquid:lava> * 1000)
-    .addItemOutput(<item:contenttweaker:heated_dusted_steel_1>)
-    .build();
+// RecipeBuilder.newBuilder("craft_heated_dusted_steel_1", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:hbm:ingot_steel_dusted>,
+//         <item:sakura:kitunebi>
+//     ])
+//     .addFluidInput(<liquid:lava> * 1000)
+//     .addItemOutput(<item:contenttweaker:heated_dusted_steel_1>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_heated_dusted_steel_2", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:hbm:ingot_steel_dusted:1>,
-        <item:sakura:kitunebi>
-    ])
-    .addFluidInput(<liquid:lava> * 1000)
-    .addItemOutput(<item:contenttweaker:heated_dusted_steel_2>)
-    .build();
+// RecipeBuilder.newBuilder("craft_heated_dusted_steel_2", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:hbm:ingot_steel_dusted:1>,
+//         <item:sakura:kitunebi>
+//     ])
+//     .addFluidInput(<liquid:lava> * 1000)
+//     .addItemOutput(<item:contenttweaker:heated_dusted_steel_2>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_heated_dusted_steel_3", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:hbm:ingot_steel_dusted:2>,
-        <item:sakura:kitunebi>
-    ])
-    .addFluidInput(<liquid:lava> * 1000)
-    .addItemOutput(<item:contenttweaker:heated_dusted_steel_3>)
-    .build();
+// RecipeBuilder.newBuilder("craft_heated_dusted_steel_3", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:hbm:ingot_steel_dusted:2>,
+//         <item:sakura:kitunebi>
+//     ])
+//     .addFluidInput(<liquid:lava> * 1000)
+//     .addItemOutput(<item:contenttweaker:heated_dusted_steel_3>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_heated_dusted_steel_4", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:hbm:ingot_steel_dusted:3>,
-        <item:sakura:kitunebi>
-    ])
-    .addFluidInput(<liquid:lava> * 1000)
-    .addItemOutput(<item:contenttweaker:heated_dusted_steel_4>)
-    .build();
+// RecipeBuilder.newBuilder("craft_heated_dusted_steel_4", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:hbm:ingot_steel_dusted:3>,
+//         <item:sakura:kitunebi>
+//     ])
+//     .addFluidInput(<liquid:lava> * 1000)
+//     .addItemOutput(<item:contenttweaker:heated_dusted_steel_4>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_heated_dusted_steel_5", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:hbm:ingot_steel_dusted:4>,
-        <item:sakura:kitunebi>
-    ])
-    .addFluidInput(<liquid:lava> * 1000)
-    .addItemOutput(<item:contenttweaker:heated_dusted_steel_5>)
-    .build();
+// RecipeBuilder.newBuilder("craft_heated_dusted_steel_5", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:hbm:ingot_steel_dusted:4>,
+//         <item:sakura:kitunebi>
+//     ])
+//     .addFluidInput(<liquid:lava> * 1000)
+//     .addItemOutput(<item:contenttweaker:heated_dusted_steel_5>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_heated_dusted_steel_6", "heter_fabrication_machine_2", 60)
-    .addEnergyPerTickInput(1800)
-    .addItemInputs(
-    [
-        <item:hbm:ingot_steel_dusted:5>,
-        <item:sakura:kitunebi>
-    ])
-    .addFluidInput(<liquid:lava> * 1000)
-    .addItemOutput(<item:contenttweaker:heated_dusted_steel_6>)
-    .build();
+// RecipeBuilder.newBuilder("craft_heated_dusted_steel_6", "heter_fabrication_machine_2", 60)
+//     .addEnergyPerTickInput(1800)
+//     .addItemInputs(
+//     [
+//         <item:hbm:ingot_steel_dusted:5>,
+//         <item:sakura:kitunebi>
+//     ])
+//     .addFluidInput(<liquid:lava> * 1000)
+//     .addItemOutput(<item:contenttweaker:heated_dusted_steel_6>)
+//     .build();

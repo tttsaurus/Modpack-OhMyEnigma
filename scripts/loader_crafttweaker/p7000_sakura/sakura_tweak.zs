@@ -37,13 +37,13 @@ events.onBlockHarvestDrops(function(event as BlockHarvestDropsEvent)
     }
 });
 
-recipes.remove(<item:sakura:cup>);
-recipes.addShaped("craft_sakura_cup", <item:sakura:cup>, 
-    [
-        [<item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>, null, <item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>],
-        [<item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>, null, <item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>],
-        [<ore:itemConduitBinder>, <ore:dyeWhite> * 3, <ore:itemConduitBinder>]
-    ]);
+// recipes.remove(<item:sakura:cup>);
+// recipes.addShaped("craft_sakura_cup", <item:sakura:cup>, 
+//     [
+//         [<item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>, null, <item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>],
+//         [<item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>, null, <item:hbm:ingot_firebrick> | <item:enderio:item_material:72> | <item:abyssalcraft:ethbrick> | <item:abyssalcraft:cbrick> | <item:minecraft:netherbrick> | <item:minecraft:brick> | <item:tconstruct:materials> | <item:tconstruct:materials:1> | <item:tconstruct:materials:2>],
+//         [<ore:itemConduitBinder>, <ore:dyeWhite> * 3, <ore:itemConduitBinder>]
+//     ]);
 
 recipes.remove(<item:sakura:barrel>);
 recipes.addShaped("craft_sakura_barrel", <item:sakura:barrel>, 

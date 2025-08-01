@@ -1,4 +1,6 @@
 {
+  "disabled": true,
+  
   "name": "craft_machine_converter_he_rf",
   "target-block": "hbm:machine_converter_he_rf",
   "target-count": 1,

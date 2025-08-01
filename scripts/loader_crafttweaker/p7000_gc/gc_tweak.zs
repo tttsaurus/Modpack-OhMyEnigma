@@ -98,29 +98,29 @@ recipes.addShaped("craft_gc_oxygen_mask", <item:galacticraftcore:oxygen_mask>,
         [<ore:plateLead>, <item:galacticraftcore:oxygen_tank_light_full:900>, <ore:plateLead>]
     ]);
 
-recipes.remove(<item:galacticraftcore:oxygen_tank_light_full:900>);
-recipes.addShaped("craft_gc_oxygen_tank_light_full_900", <item:galacticraftcore:oxygen_tank_light_full:900>,
-    [
-        [<item:hbm:plate_polymer>, <ore:dyeLime>, <item:hbm:plate_polymer>],
-        [<ore:plateAluminum>, <item:galacticraftcore:oil_canister_partial:1001>, <ore:plateAluminum>],
-        [<ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>]
-    ]);
+// recipes.remove(<item:galacticraftcore:oxygen_tank_light_full:900>);
+// recipes.addShaped("craft_gc_oxygen_tank_light_full_900", <item:galacticraftcore:oxygen_tank_light_full:900>,
+//     [
+//         [<item:hbm:plate_polymer>, <ore:dyeLime>, <item:hbm:plate_polymer>],
+//         [<ore:plateAluminum>, <item:galacticraftcore:oil_canister_partial:1001>, <ore:plateAluminum>],
+//         [<ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>]
+//     ]);
 
-recipes.remove(<item:galacticraftcore:oxygen_tank_med_full:1800>);
-recipes.addShaped("craft_gc_oxygen_tank_med_full_1800", <item:galacticraftcore:oxygen_tank_med_full:1800>,
-    [
-        [<item:hbm:plate_polymer>, <ore:dyeOrange>, <item:hbm:plate_polymer>],
-        [<ore:plateAluminum>, <item:galacticraftcore:oil_canister_partial:1001>, <ore:plateAluminum>],
-        [<ore:plateAluminum>, <item:galacticraftcore:oil_canister_partial:1001>, <ore:plateAluminum>]
-    ]);
+// recipes.remove(<item:galacticraftcore:oxygen_tank_med_full:1800>);
+// recipes.addShaped("craft_gc_oxygen_tank_med_full_1800", <item:galacticraftcore:oxygen_tank_med_full:1800>,
+//     [
+//         [<item:hbm:plate_polymer>, <ore:dyeOrange>, <item:hbm:plate_polymer>],
+//         [<ore:plateAluminum>, <item:galacticraftcore:oil_canister_partial:1001>, <ore:plateAluminum>],
+//         [<ore:plateAluminum>, <item:galacticraftcore:oil_canister_partial:1001>, <ore:plateAluminum>]
+//     ]);
 
-recipes.remove(<item:galacticraftcore:oxygen_tank_heavy_full:2700>);
-recipes.addShaped("craft_gc_oxygen_tank_heavy_full_2700", <item:galacticraftcore:oxygen_tank_heavy_full:2700>,
-    [
-        [<item:hbm:plate_polymer>, <ore:dyeRed>, <item:hbm:plate_polymer>],
-        [<item:galacticraftcore:oil_canister_partial:1001>, <item:galacticraftcore:oil_canister_partial:1001>, <item:galacticraftcore:oil_canister_partial:1001>],
-        [<ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>]
-    ]);
+// recipes.remove(<item:galacticraftcore:oxygen_tank_heavy_full:2700>);
+// recipes.addShaped("craft_gc_oxygen_tank_heavy_full_2700", <item:galacticraftcore:oxygen_tank_heavy_full:2700>,
+//     [
+//         [<item:hbm:plate_polymer>, <ore:dyeRed>, <item:hbm:plate_polymer>],
+//         [<item:galacticraftcore:oil_canister_partial:1001>, <item:galacticraftcore:oil_canister_partial:1001>, <item:galacticraftcore:oil_canister_partial:1001>],
+//         [<ore:plateAluminum>, <ore:plateAluminum>, <ore:plateAluminum>]
+//     ]);
 
 recipes.remove(<item:galacticraftcore:oxygen_gear>);
 recipes.addShaped("craft_gc_oxygen_gear", <item:galacticraftcore:oxygen_gear>,
@@ -130,50 +130,50 @@ recipes.addShaped("craft_gc_oxygen_gear", <item:galacticraftcore:oxygen_gear>,
         [<ore:plateSteel>, null, <ore:plateSteel>]
     ]);
 
-recipes.remove(<item:galacticraftcore:canvas>);
-recipes.addShaped("craft_gc_canvas", <item:galacticraftcore:canvas>,
-    [
-        [null, <item:minecraft:paper>, <item:hbm:plate_polymer>],
-        [<item:minecraft:paper>, <item:minecraft:paper>, <item:minecraft:paper>],
-        [<item:hbm:plate_polymer>, <item:minecraft:paper>, null]
-    ]);
+// recipes.remove(<item:galacticraftcore:canvas>);
+// recipes.addShaped("craft_gc_canvas", <item:galacticraftcore:canvas>,
+//     [
+//         [null, <item:minecraft:paper>, <item:hbm:plate_polymer>],
+//         [<item:minecraft:paper>, <item:minecraft:paper>, <item:minecraft:paper>],
+//         [<item:hbm:plate_polymer>, <item:minecraft:paper>, null]
+//     ]);
 
-recipes.remove(<item:galacticraftcore:basic_block_core:4>);
-recipes.addShaped("craft_gc_basic_block_core_4", <item:galacticraftcore:basic_block_core:4>,
-    [
-        [<ore:ingotTin>, <item:hbm:steel_scaffold>],
-        [null, null]
-    ]);
+// recipes.remove(<item:galacticraftcore:basic_block_core:4>);
+// recipes.addShaped("craft_gc_basic_block_core_4", <item:galacticraftcore:basic_block_core:4>,
+//     [
+//         [<ore:ingotTin>, <item:hbm:steel_scaffold>],
+//         [null, null]
+//     ]);
 
-recipes.remove(<item:galacticraftcore:basic_block_core:3>);
-recipes.addShaped("craft_gc_basic_block_core_3", <item:galacticraftcore:basic_block_core:3>,
-    [
-        [<ore:ingotTin>, <item:hbm:steel_scaffold>, <ore:ingotTin>],
-        [null, null, null],
-        [null, null, null]
-    ]);
+// recipes.remove(<item:galacticraftcore:basic_block_core:3>);
+// recipes.addShaped("craft_gc_basic_block_core_3", <item:galacticraftcore:basic_block_core:3>,
+//     [
+//         [<ore:ingotTin>, <item:hbm:steel_scaffold>, <ore:ingotTin>],
+//         [null, null, null],
+//         [null, null, null]
+//     ]);
 
-recipes.remove(<item:galacticraftcore:flag>);
-recipes.addShaped("craft_gc_flag", <item:galacticraftcore:flag>,
-    [
-        [<item:hbm:steel_poles>, <item:galacticraftcore:canvas>, <item:galacticraftcore:canvas>],
-        [<item:hbm:steel_poles>, <item:galacticraftcore:canvas>, <item:galacticraftcore:canvas>],
-        [<item:hbm:steel_poles>, null, null]
-    ]);
+// recipes.remove(<item:galacticraftcore:flag>);
+// recipes.addShaped("craft_gc_flag", <item:galacticraftcore:flag>,
+//     [
+//         [<item:hbm:steel_poles>, <item:galacticraftcore:canvas>, <item:galacticraftcore:canvas>],
+//         [<item:hbm:steel_poles>, <item:galacticraftcore:canvas>, <item:galacticraftcore:canvas>],
+//         [<item:hbm:steel_poles>, null, null]
+//     ]);
 
-recipes.remove(<item:galacticraftcore:oil_canister_partial:1001>);
-TableCrafting.addShaped(2, <item:galacticraftcore:oil_canister_partial:1001>, 
-    [
-        [null, <ore:compressedTin>, <ore:compressedTin>, <ore:compressedTin>, null], 
-        [null, <ore:compressedTin>, <ore:compressedSteel>, <ore:compressedTin>, null], 
-        [null, <ore:compressedTin>, <item:forestry:can>, <ore:compressedTin>, null], 
-        [null, <ore:compressedTin>, <ore:compressedSteel>, <ore:compressedTin>, null], 
-        [null, <ore:compressedTin>, <ore:compressedTin>, <ore:compressedTin>, null]
-    ]);
-recipes.addShaped("craft_gc_oil_canister_partial_1001", <item:galacticraftcore:oil_canister_partial:1001>,
-    [
-        [<item:hbm:can_empty>]
-    ]);
+// recipes.remove(<item:galacticraftcore:oil_canister_partial:1001>);
+// TableCrafting.addShaped(2, <item:galacticraftcore:oil_canister_partial:1001>, 
+//     [
+//         [null, <ore:compressedTin>, <ore:compressedTin>, <ore:compressedTin>, null], 
+//         [null, <ore:compressedTin>, <ore:compressedSteel>, <ore:compressedTin>, null], 
+//         [null, <ore:compressedTin>, <item:forestry:can>, <ore:compressedTin>, null], 
+//         [null, <ore:compressedTin>, <ore:compressedSteel>, <ore:compressedTin>, null], 
+//         [null, <ore:compressedTin>, <ore:compressedTin>, <ore:compressedTin>, null]
+//     ]);
+// recipes.addShaped("craft_gc_oil_canister_partial_1001", <item:galacticraftcore:oil_canister_partial:1001>,
+//     [
+//         [<item:hbm:can_empty>]
+//     ]);
 
 recipes.remove(<item:galacticraftcore:collector>);
 TableCrafting.addShaped(2, <item:galacticraftcore:collector>, 
@@ -195,15 +195,15 @@ TableCrafting.addShaped(2, <item:galacticraftcore:oxygen_compressor>,
         [<ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>, <ore:plateSteel>]
     ]);
 
-recipes.remove(<item:galacticraftplanets:mars_machine_t2:8>);
-TableCrafting.addShaped(2, <item:galacticraftplanets:mars_machine_t2:8>, 
-    [
-        [<ore:ingotDuraSteel>, <ore:ingotDuraSteel>, <ore:ingotDuraSteel>, <ore:ingotDuraSteel>, <ore:ingotDuraSteel>], 
-        [<ore:ingotDuraSteel>, null, null, null, <ore:ingotDuraSteel>], 
-        [<item:galacticraftplanets:item_basic_mars:6>, <item:hbm:arc_electrode>, null, <item:hbm:arc_electrode>, <item:galacticraftplanets:item_basic_mars:6>], 
-        [<ore:ingotDuraSteel>, null, null, null, <ore:ingotDuraSteel>], 
-        [<ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>]
-    ]);
+// recipes.remove(<item:galacticraftplanets:mars_machine_t2:8>);
+// TableCrafting.addShaped(2, <item:galacticraftplanets:mars_machine_t2:8>, 
+//     [
+//         [<ore:ingotDuraSteel>, <ore:ingotDuraSteel>, <ore:ingotDuraSteel>, <ore:ingotDuraSteel>, <ore:ingotDuraSteel>], 
+//         [<ore:ingotDuraSteel>, null, null, null, <ore:ingotDuraSteel>], 
+//         [<item:galacticraftplanets:item_basic_mars:6>, <item:hbm:arc_electrode>, null, <item:hbm:arc_electrode>, <item:galacticraftplanets:item_basic_mars:6>], 
+//         [<ore:ingotDuraSteel>, null, null, null, <ore:ingotDuraSteel>], 
+//         [<ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>, <ore:plateAdvancedAlloy>]
+//     ]);
 
 recipes.remove(<item:galacticraftcore:oxygen_compressor:4>);
 TableCrafting.addShaped(2, <item:galacticraftcore:oxygen_compressor:4>, 

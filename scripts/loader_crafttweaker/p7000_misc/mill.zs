@@ -59,19 +59,19 @@ SagMill.addRecipe([<item:tconevo:metal:31> * 9], [1.0f], <item:tconevo:metal_blo
 SagMill.addRecipe([<item:tconevo:metal:26>], [1.0f], <item:tconevo:metal:25>, "NONE", 2400);
 SagMill.addRecipe([<item:tconevo:metal:26> * 9], [1.0f], <item:tconevo:metal_block:5>, "NONE", 3600);
 
-//Mingrade
-SagMill.addRecipe([<item:hbm:powder_red_copper>], [1.0f], <item:hbm:coil_copper>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_red_copper> * 2], [1.0f], <item:hbm:coil_copper_torus>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_red_copper>], [1.0f], <item:hbm:ingot_red_copper>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_red_copper> * 9], [1.0f], <item:hbm:block_red_copper>, "NONE", 3600);
+// //Mingrade
+// SagMill.addRecipe([<item:hbm:powder_red_copper>], [1.0f], <item:hbm:coil_copper>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_red_copper> * 2], [1.0f], <item:hbm:coil_copper_torus>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_red_copper>], [1.0f], <item:hbm:ingot_red_copper>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_red_copper> * 9], [1.0f], <item:hbm:block_red_copper>, "NONE", 3600);
 
-//AdvancedAlloy
-SagMill.addRecipe([<item:hbm:powder_advanced_alloy>], [1.0f], <item:hbm:coil_advanced_alloy>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_advanced_alloy> * 2], [1.0f], <item:hbm:coil_advanced_torus>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_advanced_alloy>], [1.0f], <item:hbm:ingot_advanced_alloy>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_advanced_alloy> * 9], [1.0f], <item:hbm:block_advanced_alloy>, "NONE", 3600);
+// //AdvancedAlloy
+// SagMill.addRecipe([<item:hbm:powder_advanced_alloy>], [1.0f], <item:hbm:coil_advanced_alloy>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_advanced_alloy> * 2], [1.0f], <item:hbm:coil_advanced_torus>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_advanced_alloy>], [1.0f], <item:hbm:ingot_advanced_alloy>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_advanced_alloy> * 9], [1.0f], <item:hbm:block_advanced_alloy>, "NONE", 3600);
 
-//DuraSteel
-SagMill.addRecipe([<item:hbm:powder_dura_steel>], [1.0f], <item:hbm:ingot_dura_steel>, "NONE", 2400);
-SagMill.addRecipe([<item:hbm:powder_dura_steel> * 9], [1.0f], <item:hbm:block_dura_steel>, "NONE", 3600);
-SagMill.addRecipe([<item:hbm:powder_dura_steel> * 6], [1.0f], <item:hbm:crystal_starmetal>, "NONE", 3000);
+// //DuraSteel
+// SagMill.addRecipe([<item:hbm:powder_dura_steel>], [1.0f], <item:hbm:ingot_dura_steel>, "NONE", 2400);
+// SagMill.addRecipe([<item:hbm:powder_dura_steel> * 9], [1.0f], <item:hbm:block_dura_steel>, "NONE", 3600);
+// SagMill.addRecipe([<item:hbm:powder_dura_steel> * 6], [1.0f], <item:hbm:crystal_starmetal>, "NONE", 3000);

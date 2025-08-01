@@ -35,8 +35,8 @@ BioReactor.add(<item:teastory:tea_seeds>);
 BioReactor.add(<item:teastory:xian_rice_seeds>);
 BioReactor.add(<item:teastory:item_xian_rice_seedling>);
 BioReactor.add(<item:teastory:straw>);
-BioReactor.add(<item:hbm:biomass>);
-BioReactor.add(<item:hbm:biomass_compressed>);
+// BioReactor.add(<item:hbm:biomass>);
+// BioReactor.add(<item:hbm:biomass_compressed>);
 BioReactor.add(<item:contentcreator:crop_soybean>);
 
 recipes.remove(<item:industrialforegoing:ore_washer>);

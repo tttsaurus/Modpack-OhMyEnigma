@@ -166,13 +166,13 @@ TableCrafting.addShaped(2, <item:abyssalcraft:densecarboncluster>,
 
 recipes.remove(<item:abyssalcraft:abyssalnomicon>);
 
-recipes.remove(<item:abyssalcraft:mre>);
-recipes.addShaped("craft_ac_mre", <item:abyssalcraft:mre>, 
-    [
-        [<item:abyssalcraft:ironp>, <ore:listAllchickencooked>, <item:tconstruct:edible:10>],
-        [<ore:cropPotato>, <item:minecraft:golden_carrot>, <item:hbm:biomass>],
-        [<ore:dustSalt>, <ore:dustSalt>, <item:forestry:can:1>.withTag({Fluid: {FluidName: "biomass", Amount: 1000}}).giveBack(<item:forestry:can>)]
-    ]);
+// recipes.remove(<item:abyssalcraft:mre>);
+// recipes.addShaped("craft_ac_mre", <item:abyssalcraft:mre>, 
+//     [
+//         [<item:abyssalcraft:ironp>, <ore:listAllchickencooked>, <item:tconstruct:edible:10>],
+//         [<ore:cropPotato>, <item:minecraft:golden_carrot>, <item:hbm:biomass>],
+//         [<ore:dustSalt>, <ore:dustSalt>, <item:forestry:can:1>.withTag({Fluid: {FluidName: "biomass", Amount: 1000}}).giveBack(<item:forestry:can>)]
+//     ]);
 
 recipes.addShaped("craft_ac_cloth", <item:abyssalcraft:cloth>, 
     [

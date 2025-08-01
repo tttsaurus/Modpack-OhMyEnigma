@@ -13,16 +13,16 @@ RecipeBuilder.newBuilder("craft_bio.ethanol", "brewing_barrel", 100)
     .addFluidOutput(<liquid:bio.ethanol> * 30)
     .build();
 
-RecipeBuilder.newBuilder("craft_bio.ethanol_2", "brewing_barrel", 300)
-    .addEnergyPerTickInput(10)
-    .addItemInputs(
-    [
-        <ore:foodYeast>,
-        <item:hbm:biomass_compressed>
-    ])
-    .addFluidInput(<liquid:water> * 500)
-    .addFluidOutput(<liquid:bio.ethanol> * 60)
-    .build();
+// RecipeBuilder.newBuilder("craft_bio.ethanol_2", "brewing_barrel", 300)
+//     .addEnergyPerTickInput(10)
+//     .addItemInputs(
+//     [
+//         <ore:foodYeast>,
+//         <item:hbm:biomass_compressed>
+//     ])
+//     .addFluidInput(<liquid:water> * 500)
+//     .addFluidOutput(<liquid:bio.ethanol> * 60)
+//     .build();
 
 RecipeBuilder.newBuilder("craft_sakura.red_wine", "brewing_barrel", 100)
     .addEnergyPerTickInput(10)

@@ -4,38 +4,38 @@ MMUtil.addRefreshControllerEvent("infusion_altar");
 
 InfusionAltar.createInfusionJEIPanel();
 
-InfusionAltar.addRecipe(<item:abyssalcraft:gatekeeperessence>, 
-    [
-        <item:hbm:plate_steel>,
-        <item:hbm:plate_steel>,
-        <item:hbm:plate_advanced_alloy>,
-        <item:hbm:plate_advanced_alloy>,
-        <item:minecraft:experience_bottle>,
-        <item:minecraft:experience_bottle>,
-        <item:minecraft:experience_bottle>,
-        <item:contenttweaker:tiny_block_trixite>,
-        <item:contenttweaker:tiny_block_trixite>,
-        <item:contenttweaker:tiny_block_trixite>,
-        <item:bloodmagic:slate>,
-        <item:bloodmagic:slate>
-    ], 
-    [], 
-    1000, "B", <item:extendedcrafting:material:8>);
+// InfusionAltar.addRecipe(<item:abyssalcraft:gatekeeperessence>, 
+//     [
+//         <item:hbm:plate_steel>,
+//         <item:hbm:plate_steel>,
+//         <item:hbm:plate_advanced_alloy>,
+//         <item:hbm:plate_advanced_alloy>,
+//         <item:minecraft:experience_bottle>,
+//         <item:minecraft:experience_bottle>,
+//         <item:minecraft:experience_bottle>,
+//         <item:contenttweaker:tiny_block_trixite>,
+//         <item:contenttweaker:tiny_block_trixite>,
+//         <item:contenttweaker:tiny_block_trixite>,
+//         <item:bloodmagic:slate>,
+//         <item:bloodmagic:slate>
+//     ], 
+//     [], 
+//     1000, "B", <item:extendedcrafting:material:8>);
 
-InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
-    [
-        <item:minecraft:apple>,
-        <item:minecraft:experience_bottle>,
-        <item:hbm:plate_gold>,
-        <item:hbm:plate_gold>,
-        <item:hbm:plate_gold>,
-        <item:hbm:plate_gold>,
-        <item:hbm:plate_gold>
-    ], 
-    [
-        <item:contenttweaker:sc_dragon> * 5
-    ], 
-    1000, "B", <item:minecraft:golden_apple:1>);
+// InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
+//     [
+//         <item:minecraft:apple>,
+//         <item:minecraft:experience_bottle>,
+//         <item:hbm:plate_gold>,
+//         <item:hbm:plate_gold>,
+//         <item:hbm:plate_gold>,
+//         <item:hbm:plate_gold>,
+//         <item:hbm:plate_gold>
+//     ], 
+//     [
+//         <item:contenttweaker:sc_dragon> * 5
+//     ], 
+//     1000, "B", <item:minecraft:golden_apple:1>);
 
 InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
     [
@@ -87,35 +87,35 @@ InfusionAltar.addRecipe(<item:extendedcrafting:material:8>,
     [], 
     200, "SS", <item:bloodmagic:blood_rune>);
 
-InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
-    [
-        <item:enderio:item_material:72>,
-        <item:enderio:item_material:72>,
-        <item:enderio:item_material:72>,
-        <item:enderio:item_material:72>,
-        <item:enderio:item_material:72>,
-        <item:minecraft:furnace>,
-        <item:bloodmagic:blood_rune>,
-        <item:bloodmagic:blood_rune>,
-        <item:bloodmagic:monster_soul>.withTag({souls: 2.0d}),
-        <item:contenttweaker:fatal_error>,
-        <item:hbm:powder_fire>,
-        <item:hbm:powder_fire>
-    ], 
-    [], 
-    500, "C", <item:bloodmagic:soul_forge>);
+// InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
+//     [
+//         <item:enderio:item_material:72>,
+//         <item:enderio:item_material:72>,
+//         <item:enderio:item_material:72>,
+//         <item:enderio:item_material:72>,
+//         <item:enderio:item_material:72>,
+//         <item:minecraft:furnace>,
+//         <item:bloodmagic:blood_rune>,
+//         <item:bloodmagic:blood_rune>,
+//         <item:bloodmagic:monster_soul>.withTag({souls: 2.0d}),
+//         <item:contenttweaker:fatal_error>,
+//         <item:hbm:powder_fire>,
+//         <item:hbm:powder_fire>
+//     ], 
+//     [], 
+//     500, "C", <item:bloodmagic:soul_forge>);
 
-InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
-    [
-        <item:contenttweaker:nightmare_piece>,
-        <item:hbm:taint>,
-        <item:enderio:item_material:74>,
-        <item:scp:plant_cow_seeds>
-    ], 
-    [
-        <item:contenttweaker:sc_ancient>
-    ], 
-    50, "D", <item:bloodmagic:monster_soul>.withTag({souls: 2.0d}));
+// InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
+//     [
+//         <item:contenttweaker:nightmare_piece>,
+//         <item:hbm:taint>,
+//         <item:enderio:item_material:74>,
+//         <item:scp:plant_cow_seeds>
+//     ], 
+//     [
+//         <item:contenttweaker:sc_ancient>
+//     ], 
+//     50, "D", <item:bloodmagic:monster_soul>.withTag({souls: 2.0d}));
 
 InfusionAltar.addRecipe(<item:extendedcrafting:material:8>, 
     [

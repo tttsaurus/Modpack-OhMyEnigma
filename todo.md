@@ -1,4 +1,5 @@
-- `config/endermodpacktweaks/tweaks.cfg` L39 beneath options
-- `config/endermodpacktweaks/minecraft.cfg` L84 dragon options
-- gamestage localization `emt.game_stages.<stage_name>`
-- recipe stage
+- play with `config/endermodpacktweaks/tweaks.cfg` L39 beneath options
+- play with `config/endermodpacktweaks/minecraft.cfg` L84 dragon options ✔
+- utilize recipe stage
+  - gamestage localization `emt.game_stages.<stage_name>`
+- add hbm-related content back via crt/cot

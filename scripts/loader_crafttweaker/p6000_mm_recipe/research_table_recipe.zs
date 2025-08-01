@@ -125,15 +125,15 @@ RecipeBuilder.newBuilder("craft_forge_press_blueprint", "research_table", 2000)
     .addItemOutput(<item:modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:forge_press"}))
     .build();
 
-RecipeBuilder.newBuilder("craft_industrial_blast_furnace_blueprint", "research_table", 2000)
-    .addItemInputs(
-    [
-        <ore:paperBlack>,
-        <ore:dyeOrange> * 2,
-        <item:hbm:ingot_firebrick>
-    ])
-    .addItemOutput(<item:modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:industrial_blast_furnace"}))
-    .build();
+// RecipeBuilder.newBuilder("craft_industrial_blast_furnace_blueprint", "research_table", 2000)
+//     .addItemInputs(
+//     [
+//         <ore:paperBlack>,
+//         <ore:dyeOrange> * 2,
+//         <item:hbm:ingot_firebrick>
+//     ])
+//     .addItemOutput(<item:modularmachinery:itemblueprint>.withTag({dynamicmachine: "modularmachinery:industrial_blast_furnace"}))
+//     .build();
 
 RecipeBuilder.newBuilder("craft_infusion_altar_blueprint", "research_table", 2000)
     .addItemInputs(

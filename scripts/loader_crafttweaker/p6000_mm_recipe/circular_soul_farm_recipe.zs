@@ -125,27 +125,27 @@ addScDragon(<ore:dinosaurArmBone>, 1);
 addScDragon(<ore:dinosaurRibCage>, 1);
 addScDragon(<ore:dinosaurVertebrae>, 1);
 
-addScPenetration(<item:hbm:ammo_556>, 1);
-addScPenetration(<item:hbm:ammo_44>, 1);
-addScPenetration(<item:hbm:ammo_9mm>, 1);
-addScPenetration(<item:hbm:gun_revolver_lead_ammo>, 1);
-addScPenetration(<item:hbm:ammo_22lr>, 1);
-addScPenetration(<item:hbm:gun_revolver_iron_ammo>, 1);
-addScPenetration(<item:hbm:ammo_357_desh>, 1);
-addScPenetration(<item:hbm:gun_revolver_gold_ammo>, 1);
-addScPenetration(<item:hbm:gun_revolver_schrabidium_ammo>, 1);
-addScPenetration(<item:hbm:gun_revolver_nightmare_ammo>, 1);
-addScPenetration(<item:hbm:gun_revolver_cursed_ammo>, 1);
-addScPenetration(<item:hbm:ammo_50bmg>, 1);
-addScPenetration(<item:hbm:gun_revolver_ammo>, 1);
-addScPenetration(<item:hbm:ammo_5mm>, 1);
-addScPenetration(<item:hbm:ammo_50ae>, 1);
-addScPenetration(<item:hbm:gun_mp_ammo>, 1);
+// addScPenetration(<item:hbm:ammo_556>, 1);
+// addScPenetration(<item:hbm:ammo_44>, 1);
+// addScPenetration(<item:hbm:ammo_9mm>, 1);
+// addScPenetration(<item:hbm:gun_revolver_lead_ammo>, 1);
+// addScPenetration(<item:hbm:ammo_22lr>, 1);
+// addScPenetration(<item:hbm:gun_revolver_iron_ammo>, 1);
+// addScPenetration(<item:hbm:ammo_357_desh>, 1);
+// addScPenetration(<item:hbm:gun_revolver_gold_ammo>, 1);
+// addScPenetration(<item:hbm:gun_revolver_schrabidium_ammo>, 1);
+// addScPenetration(<item:hbm:gun_revolver_nightmare_ammo>, 1);
+// addScPenetration(<item:hbm:gun_revolver_cursed_ammo>, 1);
+// addScPenetration(<item:hbm:ammo_50bmg>, 1);
+// addScPenetration(<item:hbm:gun_revolver_ammo>, 1);
+// addScPenetration(<item:hbm:ammo_5mm>, 1);
+// addScPenetration(<item:hbm:ammo_50ae>, 1);
+// addScPenetration(<item:hbm:gun_mp_ammo>, 1);
 
 addScAncient(<item:contenttweaker:ancient_debris_raw>, 3);
 addScAncient(<item:contenttweaker:ancient_debris>, 12);
 
-addScDecay(<item:hbm:taint>, 1);
+// addScDecay(<item:hbm:taint>, 1);
 
 addScTwin(<ore:turfMoon>, 3);
 addScTwin(<item:galacticraftcore:basic_block_moon:3>, 3);

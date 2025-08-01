@@ -189,45 +189,45 @@ RecipeBuilder.newBuilder("craft_parallel_controller", "multifunc_machine_tool", 
     .addItemOutput(<item:modularmachinery:blockparallelcontroller>)
     .build();
 
-RecipeBuilder.newBuilder("craft_stamp_steel_flat", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:compressedSteel> * 4,
-        <item:tconstruct:cast>
-    ])
-    .addItemOutput(<item:hbm:stamp_steel_flat>)
-    .build();
+// RecipeBuilder.newBuilder("craft_stamp_steel_flat", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:compressedSteel> * 4,
+//         <item:tconstruct:cast>
+//     ])
+//     .addItemOutput(<item:hbm:stamp_steel_flat>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_stamp_steel_plate", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:compressedSteel> * 4,
-        <item:tconstruct:cast>.withTag({PartType: "tconstruct:large_plate"})
-    ])
-    .addItemOutput(<item:hbm:stamp_steel_plate>)
-    .build();
+// RecipeBuilder.newBuilder("craft_stamp_steel_plate", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:compressedSteel> * 4,
+//         <item:tconstruct:cast>.withTag({PartType: "tconstruct:large_plate"})
+//     ])
+//     .addItemOutput(<item:hbm:stamp_steel_plate>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_stamp_steel_wire", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:compressedSteel> * 4,
-        <item:tconstruct:cast>.withTag({PartType: "tconstruct:bow_string"})
-    ])
-    .addItemOutput(<item:hbm:stamp_steel_wire>)
-    .build();
+// RecipeBuilder.newBuilder("craft_stamp_steel_wire", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:compressedSteel> * 4,
+//         <item:tconstruct:cast>.withTag({PartType: "tconstruct:bow_string"})
+//     ])
+//     .addItemOutput(<item:hbm:stamp_steel_wire>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_stamp_steel_circuit", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:compressedSteel> * 4,
-        <item:contenttweaker:circuit_board>
-    ])
-    .addItemOutput(<item:hbm:stamp_steel_circuit>)
-    .build();
+// RecipeBuilder.newBuilder("craft_stamp_steel_circuit", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:compressedSteel> * 4,
+//         <item:contenttweaker:circuit_board>
+//     ])
+//     .addItemOutput(<item:hbm:stamp_steel_circuit>)
+//     .build();
 
 RecipeBuilder.newBuilder("craft_nose_cone", "multifunc_machine_tool", 80)
     .addEnergyPerTickInput(5000)
@@ -292,57 +292,57 @@ RecipeBuilder.newBuilder("craft_oxygen_concentrator", "multifunc_machine_tool", 
     .addItemOutput(<item:galacticraftcore:oxygen_concentrator>)
     .build();
 
-RecipeBuilder.newBuilder("craft_steel_beam", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:blockSteel>
-    ])
-    .addItemOutput(<item:hbm:steel_beam> * 9)
-    .build();
+// RecipeBuilder.newBuilder("craft_steel_beam", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:blockSteel>
+//     ])
+//     .addItemOutput(<item:hbm:steel_beam> * 9)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_steel_scaffold", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <item:hbm:steel_beam> * 8,
-        <ore:plateIron> * 2
-    ])
-    .addItemOutput(<item:hbm:steel_scaffold>)
-    .build();
+// RecipeBuilder.newBuilder("craft_steel_scaffold", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <item:hbm:steel_beam> * 8,
+//         <ore:plateIron> * 2
+//     ])
+//     .addItemOutput(<item:hbm:steel_scaffold>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_steel_grate", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <item:hbm:steel_beam> * 4,
-        <item:galacticraftcore:air_vent>
-    ])
-    .addItemOutput(<item:hbm:steel_grate>)
-    .build();
+// RecipeBuilder.newBuilder("craft_steel_grate", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <item:hbm:steel_beam> * 4,
+//         <item:galacticraftcore:air_vent>
+//     ])
+//     .addItemOutput(<item:hbm:steel_grate>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_casing_refractory", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:plateSteel> * 6,
-        <item:hbm:steel_scaffold>,
-        <item:hbm:ingot_firebrick> * 5
-    ])
-    .addItemOutput(<item:contenttweaker:casing_refractory>)
-    .build();
+// RecipeBuilder.newBuilder("craft_casing_refractory", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:plateSteel> * 6,
+//         <item:hbm:steel_scaffold>,
+//         <item:hbm:ingot_firebrick> * 5
+//     ])
+//     .addItemOutput(<item:contenttweaker:casing_refractory>)
+//     .build();
 
-RecipeBuilder.newBuilder("craft_casing_ender_suppression", "multifunc_machine_tool", 80)
-    .addEnergyPerTickInput(5000)
-    .addItemInputs(
-    [
-        <ore:plateSteel> * 6,
-        <item:hbm:steel_scaffold>,
-        <ore:tinyBlockEnderTrixite>,
-        <item:extendedcrafting:material:48>
-    ])
-    .addItemOutput(<item:contenttweaker:casing_ender_suppression>)
-    .build();
+// RecipeBuilder.newBuilder("craft_casing_ender_suppression", "multifunc_machine_tool", 80)
+//     .addEnergyPerTickInput(5000)
+//     .addItemInputs(
+//     [
+//         <ore:plateSteel> * 6,
+//         <item:hbm:steel_scaffold>,
+//         <ore:tinyBlockEnderTrixite>,
+//         <item:extendedcrafting:material:48>
+//     ])
+//     .addItemOutput(<item:contenttweaker:casing_ender_suppression>)
+//     .build();
 
 RecipeBuilder.newBuilder("craft_structure_frame_2", "multifunc_machine_tool", 80)
     .addEnergyPerTickInput(5000)

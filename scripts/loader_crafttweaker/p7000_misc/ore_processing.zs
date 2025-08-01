@@ -20,8 +20,8 @@ FermentationStation.add(<liquid:if.ore_fluid_raw>.withTag({Ore: "oreLiquifiedCor
 
 
 
-SagMill.addRecipe([<item:hbm:dust>, <item:contenttweaker:dust_promethium_contained>, <item:contenttweaker:dust_valyrium_contained>, <item:contenttweaker:dust_titanium_contained>], [1.0f, 0.22f, 0.18f, 0.12f], <item:contenttweaker:moon_dust>, "MULTIPLY_OUTPUT", 12000);
+// SagMill.addRecipe([<item:hbm:dust>, <item:contenttweaker:dust_promethium_contained>, <item:contenttweaker:dust_valyrium_contained>, <item:contenttweaker:dust_titanium_contained>], [1.0f, 0.22f, 0.18f, 0.12f], <item:contenttweaker:moon_dust>, "MULTIPLY_OUTPUT", 12000);
 
-Centrifuge.addRecipe(<item:contenttweaker:dust_promethium_contained>, [<item:hbm:powder_nitan_mix>, <item:taiga:prometheum_dust>, <item:hbm:dust>, <item:hbm:dust>]);
-Centrifuge.addRecipe(<item:contenttweaker:dust_valyrium_contained>, [<item:hbm:powder_nitan_mix>, <item:taiga:valyrium_dust>, <item:hbm:dust>, <item:hbm:dust>]);
-Centrifuge.addRecipe(<item:contenttweaker:dust_titanium_contained>, [<item:hbm:powder_titanium>, <item:hbm:dust>, <item:hbm:dust>, <item:hbm:dust>]);
+// Centrifuge.addRecipe(<item:contenttweaker:dust_promethium_contained>, [<item:hbm:powder_nitan_mix>, <item:taiga:prometheum_dust>, <item:hbm:dust>, <item:hbm:dust>]);
+// Centrifuge.addRecipe(<item:contenttweaker:dust_valyrium_contained>, [<item:hbm:powder_nitan_mix>, <item:taiga:valyrium_dust>, <item:hbm:dust>, <item:hbm:dust>]);
+// Centrifuge.addRecipe(<item:contenttweaker:dust_titanium_contained>, [<item:hbm:powder_titanium>, <item:hbm:dust>, <item:hbm:dust>, <item:hbm:dust>]);

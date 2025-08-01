@@ -325,7 +325,7 @@ zenClass _InfusionAltar
                                                     success_rate = 0.2f;
                                                     if (rand > success_rate)
                                                     {
-                                                        server.commandManager.executeCommandSilent(server, "/summon hbm:entity_tainted_creeper " + pos.getX() + " " + pos.up(2).getY() + " " + pos.getZ());
+                                                        //server.commandManager.executeCommandSilent(server, "/summon hbm:entity_tainted_creeper " + pos.getX() + " " + pos.up(2).getY() + " " + pos.getZ());
                                                     }
                                                 }
 

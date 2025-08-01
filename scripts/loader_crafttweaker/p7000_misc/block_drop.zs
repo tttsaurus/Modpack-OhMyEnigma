@@ -37,18 +37,18 @@ Dropt.list("tin_drop_fix")
             .selector(Dropt.weight(100))
             .items([<item:galacticraftcore:basic_block_core:6>])));
 
-// sulfur
-Dropt.list("sulfur_drop_fix")
-    .add(Dropt.rule()
-        .matchBlocks(["hbm:ore_nether_smoldering"])
-        .addDrop(Dropt.drop()
-            .selector(Dropt.weight(100))
-            .items([<item:abyssalcraft:sulfur> * 3])))
-    .add(Dropt.rule()
-        .matchBlocks(["hbm:ore_nether_sulfur"])
-        .addDrop(Dropt.drop()
-            .selector(Dropt.weight(100))
-            .items([<item:abyssalcraft:sulfur>])));
+// // sulfur
+// Dropt.list("sulfur_drop_fix")
+//     .add(Dropt.rule()
+//         .matchBlocks(["hbm:ore_nether_smoldering"])
+//         .addDrop(Dropt.drop()
+//             .selector(Dropt.weight(100))
+//             .items([<item:abyssalcraft:sulfur> * 3])))
+//     .add(Dropt.rule()
+//         .matchBlocks(["hbm:ore_nether_sulfur"])
+//         .addDrop(Dropt.drop()
+//             .selector(Dropt.weight(100))
+//             .items([<item:abyssalcraft:sulfur>])));
 
 // shoggoth_clay
 Dropt.list("shoggoth_clay_drop")
