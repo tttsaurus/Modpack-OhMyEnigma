@@ -16,7 +16,8 @@ harvest_level_7.name=§f§lVibranium §r§f§l§o7§r§e
 harvest_level_8.name=§b§lSchrabidium §r§f§l§o8§r§e
 
 #Event
-mpe.str1=Part of the Moon ascends to the Overworld at x=0, y=200, z=0
+mpe.str1=Part of the Moon ascends to the Overworld at the original point
+mpe.str2=You can't break Overworld Cake from now on!
 
 #HUD
 ome_hud.str1=[CTRL + P] To Expand Info

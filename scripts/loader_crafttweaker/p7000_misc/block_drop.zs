@@ -7,7 +7,24 @@ events.onBlockBreak(function(event as BlockBreakEvent)
     if (event.world.isRemote()) return;
 
     if (event.block.definition.id == "scp:living_room_lamp")
+    {
         event.world.spawnEntity(<item:scp:living_room_lamp>.createEntityItem(event.world, event.position));
+        return;
+    }
+
+    if (event.block.definition.id == "telepastries:overworld_cake")
+    {
+        if (event.world.dimension == -1)
+        {
+            event.player.sendStatusMessage(format.darkPurple(game.localize("mpe.str2")), false);
+            event.cancel();
+        }
+        else
+        {
+            event.world.spawnEntity(<item:telepastries:overworld_cake>.createEntityItem(event.world, event.position));
+        }
+        return;
+    }
 });
 
 // silicon
@@ -122,11 +139,3 @@ Dropt.list("nether_cake_drop_fix")
         .addDrop(Dropt.drop()
             .selector(Dropt.weight(100))
             .items([<item:telepastries:nether_cake>])));
-
-// overworld cake
-Dropt.list("overworld_cake_drop_fix")
-    .add(Dropt.rule()
-        .matchBlocks(["telepastries:overworld_cake"])
-        .addDrop(Dropt.drop()
-            .selector(Dropt.weight(100))
-            .items([<item:telepastries:overworld_cake>])));

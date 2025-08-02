@@ -16,7 +16,8 @@ harvest_level_7.name=§f§l振金 §r§f§l§o7§r§e
 harvest_level_8.name=§b§lSchrabidium §r§f§l§o8§r§e
 
 #Event
-mpe.str1=月球的部分已降临在主世界x=0, y=200, z=0
+mpe.str1=月球的部分已降临在主世界最开始的起点
+mpe.str2=从现在起你无法破坏主世界蛋糕！
 
 #HUD
 ome_hud.str1=[CTRL + P] 以展开信息

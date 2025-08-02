@@ -2,6 +2,7 @@
 - play with `config/endermodpacktweaks/minecraft.cfg` L84 dragon options ✔
 - utilize recipe stage
   - gamestage localization `emt.game_stages.<stage_name>`
+- fix telepatries cakes must have a base block to exist
 
 ## HBM
 - remove hbm-related content fully
