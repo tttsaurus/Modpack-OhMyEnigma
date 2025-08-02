@@ -397,6 +397,7 @@ var banned_items = [
     <item:tconevo:metal_block:4>,
     <item:tconevo:metal_block:7>,
     <item:tconevo:metal_block:8>,
+    <item:telepastries:end_cake>
     ] as IItemStack[];
 
 var banned_item_tooltip as string = game.localize("banned_item_tooltip");

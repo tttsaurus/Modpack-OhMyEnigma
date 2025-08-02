@@ -1,4 +1,4 @@
-List of Mods (178):
+List of Mods (180):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -81,6 +81,7 @@ List of Mods (178):
 - **Example Mod**: GalacticraftTweaker-1.12.2-1.0.3.jar
 - **[Game Stages](https://minecraft.curseforge.com/projects/game-stages)**: GameStages-1.12.2-2.0.123.jar
 - **[GeckoLib](http://berniesoftware.com/)**: geckolib-forge-1.12.2-3.0.31.jar
+- **[Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)**: gnetum-1.2.6.jar
 - **Guide-API**: Guide-API-1.12-2.1.8-63.jar
 - **[GunpowderLib](https://github.com/JackyyTV/GunpowderLib)**: GunpowderLib-1.12.2-1.1.jar
 - **[Had Enough Items](https://github.com/CleanroomMC/HadEnoughItems)**: HadEnoughItems_1.12.2-4.28.0.jar
@@ -136,6 +137,7 @@ List of Mods (178):
 - **ProbeZS**: ProbeZS-1.18.7.jar
 - **RandomTweaker**: RandomTweaker-1.4.8.jar
 - **[ReBind](https://minecraft.curseforge.com/projects/rebind)**: rebind-1.12.2-2.7.5-0.jar
+- **RecipeStages**: RecipeStages-1.1.3.8.jar
 - **[Redstone Flux](http://www.teamcofh.com)**: RedstoneFlux-1.12-2.1.1.1-universal.jar
 - **[RenderLib](https://github.com/Meldexun/RenderLib)**: RenderLib-1.12.2-1.4.5.jar
 - **Requious Frakto**: Requious Frakto-0.12.jar

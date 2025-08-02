@@ -409,6 +409,11 @@
     "modId": "geckolib3",
     "version": "${version}"
   },
+  "gnetum-1.2.6.jar": {
+    "jarName": "gnetum-1.2.6.jar",
+    "modId": "gnetum",
+    "version": "1.2.6"
+  },
   "Guide-API-1.12-2.1.8-63.jar": {
     "jarName": "Guide-API-1.12-2.1.8-63.jar",
     "modId": "guideapi",
@@ -681,6 +686,11 @@
     "jarName": "rebind-1.12.2-2.7.5-0.jar",
     "modId": "rebind",
     "version": "2.7.5"
+  },
+  "RecipeStages-1.1.3.8.jar": {
+    "jarName": "RecipeStages-1.1.3.8.jar",
+    "modId": "recipestages",
+    "version": "1.1.3.8"
   },
   "RedstoneFlux-1.12-2.1.1.1-universal.jar": {
     "jarName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",

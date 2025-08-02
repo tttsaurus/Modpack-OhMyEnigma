@@ -1,5 +1,8 @@
 #priority 7000
 
+<item:telepastries:nether_cake>.asBlock().definition.resistance = 1300;
+<item:telepastries:overworld_cake>.asBlock().definition.resistance = 1300;
+
 <item:extra_slabs:obsidian_slab>.asBlock().definition.resistance = 1300;
 <item:extra_slabs:obsidian_stairs>.asBlock().definition.resistance = 1300;
 <item:newwalls:obsidian_wall>.asBlock().definition.resistance = 1300;

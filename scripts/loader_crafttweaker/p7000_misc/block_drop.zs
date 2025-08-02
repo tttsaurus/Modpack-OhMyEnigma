@@ -114,3 +114,19 @@ Dropt.list("torcherino_drop_fix")
         .addDrop(Dropt.drop()
             .selector(Dropt.weight(100))
             .items([<item:torcherino:compressed_torch_lvl5>])));
+
+// nether cake
+Dropt.list("nether_cake_drop_fix")
+    .add(Dropt.rule()
+        .matchBlocks(["telepastries:nether_cake"])
+        .addDrop(Dropt.drop()
+            .selector(Dropt.weight(100))
+            .items([<item:telepastries:nether_cake>])));
+
+// overworld cake
+Dropt.list("overworld_cake_drop_fix")
+    .add(Dropt.rule()
+        .matchBlocks(["telepastries:overworld_cake"])
+        .addDrop(Dropt.drop()
+            .selector(Dropt.weight(100))
+            .items([<item:telepastries:overworld_cake>])));

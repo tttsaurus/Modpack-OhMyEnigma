@@ -165,7 +165,6 @@
         {
             "image": {
                 "parent": "builtin/text",
-                "image": "customloadingscreen:in_use/ascii/ascii.png",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "text": "is_reloading ? status : (status  + ': ' + sub_status)",
@@ -181,7 +180,6 @@
         {
             "image": {
                 "parent": "builtin/text",
-                "image": "customloadingscreen:in_use/ascii/ascii.png",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "text": "is_reloading ? sub_status : ''",
@@ -197,7 +195,6 @@
         {
             "image": {
                 "parent": "builtin/text",
-                "image": "customloadingscreen:in_use/ascii/ascii.png",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "text": "percentage_text",
@@ -213,7 +210,6 @@
         {
             "image": {
                 "parent": "builtin/text",
-                "image": "customloadingscreen:in_use/ascii/ascii.png",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "text": "'Memory Usage: ' + memory_used() + 'MB / ' + memory_max() + 'MB'",
@@ -229,7 +225,6 @@
         {
             "image": {
                 "parent": "builtin/text",
-                "image": "customloadingscreen:in_use/ascii/ascii.png",
                 "position_type": "CENTER",
                 "offset_pos": "CENTER",
                 "text": "'Loading Time: ' + loading_time_text",
