@@ -1,0 +1,17 @@
+{
+	x: -17.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"35cb24bb"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "f29a2769",
+		type: "item",
+		items: [{
+			item: "minecraft:paper"
+		}]
+	}]
+}

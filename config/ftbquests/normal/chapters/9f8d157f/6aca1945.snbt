@@ -4,6 +4,7 @@
 	y: -1.0d,
 	shape: "square",
 	dependencies: [
+		"c5431443",
 		"94812e8b"
 	],
 	tasks: [{
