@@ -23,6 +23,7 @@ fluid.advanced_fuel=Advanced Fuel
 fluid.golden_apple_juice=Golden Apple Juice
 fluid.soybean_liquid=Soybean Liquid
 fluid.soybean_juice=Soybean Juice
+fluid.hot_mud=Hot Mud
 
 #Material
 material.burnt_black_flesh_mat.name=Seared Flesh
@@ -83,6 +84,10 @@ item.contenttweaker.jauxum_crystal_shard.name=§2Jauxum Crystal Shard
 item.contenttweaker.karmesine_crystal_shard.name=§cKarmesine Crystal Shard
 item.contenttweaker.ovium_crystal_shard.name=§3Ovium Crystal Shard
 item.contenttweaker.coral_flavor.name=§2Coral Seasoning
+item.contenttweaker.raw_sand_ingot.name=Raw Sand Ingot
+item.contenttweaker.sand_ingot.name=Sand Ingot
+item.contenttweaker.magma_piece.name=Magma Scrap
+item.contenttweaker.hardened_sand_ingot.name=Hardened Sand Ingot
 
 #Food
 item.contenttweaker.gummy_investigator.name=§2Gummy Investigator

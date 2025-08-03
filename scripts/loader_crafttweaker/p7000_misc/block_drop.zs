@@ -1,6 +1,7 @@
 #priority 7000
 import mods.dropt.Dropt;
 import crafttweaker.event.BlockBreakEvent;
+import crafttweaker.world.IBlockPos;
 
 events.onBlockBreak(function(event as BlockBreakEvent)
 {
@@ -23,6 +24,26 @@ events.onBlockBreak(function(event as BlockBreakEvent)
         {
             event.world.spawnEntity(<item:telepastries:overworld_cake>.createEntityItem(event.world, event.position));
         }
+        return;
+    }
+
+    if (event.block.definition.id == "minecraft:magma" && event.world.getBiome(event.position).id == "minecraft:desert")
+    {
+        event.world.spawnEntity(<item:contenttweaker:magma_piece>.createEntityItem(event.world, IBlockPos.create(event.position.x - 1, event.position.y, event.position.z)));
+        event.world.spawnEntity(<item:contenttweaker:magma_piece>.createEntityItem(event.world, IBlockPos.create(event.position.x + 1, event.position.y, event.position.z)));
+        event.world.spawnEntity(<item:contenttweaker:magma_piece>.createEntityItem(event.world, IBlockPos.create(event.position.x, event.position.y, event.position.z - 1)));
+        event.world.spawnEntity(<item:contenttweaker:magma_piece>.createEntityItem(event.world, IBlockPos.create(event.position.x, event.position.y, event.position.z + 1)));
+        
+        event.world.catenation()
+        .sleep(20)
+        .run(function(w, context)
+        {
+            if (w.getBlock(event.position).definition.id == "minecraft:air")
+            {
+                w.setBlockState(<blockstate:minecraft:lava>, event.position);   
+            }
+        })
+        .start();
         return;
     }
 });
@@ -139,3 +160,19 @@ Dropt.list("nether_cake_drop_fix")
         .addDrop(Dropt.drop()
             .selector(Dropt.weight(100))
             .items([<item:telepastries:nether_cake>])));
+
+// deadbush
+Dropt.list("deadbush_drop")
+    .add(Dropt.rule()
+        .matchBlocks(["minecraft:deadbush"])
+        .addDrop(Dropt.drop()
+            .selector(Dropt.weight(100))
+            .items([<item:minecraft:stick> * 2])));
+
+// green slimy mud
+Dropt.list("green_slimy_mud_drop")
+    .add(Dropt.rule()
+        .matchBlocks(["tconstruct:soil:1"])
+        .addDrop(Dropt.drop()
+            .selector(Dropt.weight(100))
+            .items([<item:minecraft:vine>])));

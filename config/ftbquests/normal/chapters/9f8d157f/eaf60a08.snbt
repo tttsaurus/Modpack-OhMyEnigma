@@ -1,0 +1,15 @@
+{
+	x: -18.5d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"35cb24bb"
+	],
+	tasks: [{
+		uid: "2bd51967",
+		type: "item",
+		items: [{
+			item: "minecraft:planks"
+		}]
+	}]
+}

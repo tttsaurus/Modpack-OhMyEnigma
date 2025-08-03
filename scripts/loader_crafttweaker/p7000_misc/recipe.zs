@@ -117,11 +117,27 @@ recipes.addShaped("craft_clay_ball_extra", <item:minecraft:clay_ball> * 16,
         [<item:minecraft:clay_ball>, <ore:slimeball>, <item:minecraft:clay_ball>]
     ]);
 
+recipes.addShaped("craft_clay_ball_extra_ultra", <item:minecraft:clay_ball> * 64, 
+    [
+        [<item:contenttweaker:raw_sand_ingot> * 16, <item:minecraft:sapling>, <item:contenttweaker:raw_sand_ingot> * 16],
+        [<item:minecraft:sapling>, <item:tconstruct:soil:1>, <item:minecraft:sapling>],
+        [<item:contenttweaker:raw_sand_ingot> * 16, <item:minecraft:sapling>, <item:contenttweaker:raw_sand_ingot> * 16]
+    ]);
+
+
+
 recipes.addShapedMirrored("craft_torch_extra", <item:minecraft:torch> * 4, 
     [
         [null, <item:ifgretro:raw_rubber>],
         [null, <ore:stickWood>]
     ]);
+recipes.addShapedMirrored("craft_torch_extra_2", <item:minecraft:torch>, 
+    [
+        [null, <item:contenttweaker:magma_piece>],
+        [null, <ore:stickWood>]
+    ]);
+
+
 
 recipes.addShapedMirrored("craft_stone_torch_extra", <item:tconstruct:stone_torch> * 4, 
     [
@@ -154,6 +170,13 @@ recipes.addShaped("craft_stone_torch_extra_6", <item:tconstruct:stone_torch> * 3
         [null, <ore:itemBeeswax>, null],
         [null, <ore:rodStone>, null]
     ]);
+recipes.addShapedMirrored("craft_stone_torch_extra_7", <item:tconstruct:stone_torch>, 
+    [
+        [null, <item:contenttweaker:magma_piece>],
+        [null, <ore:rodStone>]
+    ]); 
+
+
 
 recipes.remove(<item:personalworlds:personal_portal>);
 
@@ -169,4 +192,68 @@ recipes.addShaped("craft_dakimakura", itemUtils.getItem("dakimakuramod:tile.daki
         [<item:galacticraftcore:canvas>, <item:minecraft:wool>, <item:galacticraftcore:canvas>],
         [<item:galacticraftcore:canvas>, <item:minecraft:wool>, <item:galacticraftcore:canvas>],
         [<item:galacticraftcore:canvas>, <item:minecraft:wool>, <item:galacticraftcore:canvas>]
+    ]);
+
+recipes.remove(<item:tconstruct:brownstone:1>);
+recipes.addShaped("craft_tconstruct_brownstone_1_0", <item:tconstruct:brownstone:1> * 4, 
+    [
+        [<ore:sandstone>, <item:contenttweaker:hardened_sand_ingot>],
+        [<item:contenttweaker:hardened_sand_ingot>, <ore:sandstone>]
+    ]);
+recipes.addShaped("craft_tconstruct_brownstone_1_1", <item:tconstruct:brownstone:1> * 4, 
+    [
+        [<item:contenttweaker:hardened_sand_ingot>, <ore:sandstone>],
+        [<ore:sandstone>, <item:contenttweaker:hardened_sand_ingot>]
+    ]);
+
+recipes.remove(<item:minecraft:stone_sword>);
+recipes.addShaped("craft_stone_sword", <item:minecraft:stone_sword>, 
+    [
+        [null, null, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>],
+        [null, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, null],
+        [<item:minecraft:stick>, <item:tconstruct:stone_stick>, null]
+    ]);
+
+recipes.remove(<item:minecraft:stone_shovel>);
+recipes.addShaped("craft_stone_shovel", <item:minecraft:stone_shovel>, 
+    [
+        [null, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, null],
+        [null, <item:tconstruct:stone_stick>, null],
+        [null, <item:minecraft:stick>, null]
+    ]);
+
+recipes.remove(<item:minecraft:stone_pickaxe>);
+recipes.addShaped("craft_stone_pickaxe", <item:minecraft:stone_pickaxe>, 
+    [
+        [<item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>],
+        [null, <item:tconstruct:stone_stick>, null],
+        [null, <item:minecraft:stick>, null]
+    ]);
+
+recipes.remove(<item:minecraft:stone_axe>);
+recipes.addShaped("craft_stone_axe", <item:minecraft:stone_axe>, 
+    [
+        [<item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, null],
+        [<item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, <item:tconstruct:stone_stick>, null],
+        [null, <item:minecraft:stick>, null]
+    ]);
+
+recipes.remove(<item:minecraft:stone_hoe>);
+recipes.addShaped("craft_stone_hoe", <item:minecraft:stone_hoe>, 
+    [
+        [<item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, null],
+        [null, <item:tconstruct:stone_stick>, null],
+        [null, <item:minecraft:stick>, null]
+    ]);
+
+recipes.addShaped("craft_tconstruct_soil_1", <item:tconstruct:soil:1>, 
+    [
+        [<item:minecraft:cactus>, <item:creepypastacraft:darksand>],
+        [<ore:dirt>, <item:tconstruct:brownstone:1>]
+    ]);
+
+recipes.addShaped("craft_oak_sapling", <item:minecraft:sapling>, 
+    [
+        [<item:minecraft:vine>, <item:minecraft:vine>],
+        [<item:minecraft:stick>, <item:minecraft:stick>]
     ]);

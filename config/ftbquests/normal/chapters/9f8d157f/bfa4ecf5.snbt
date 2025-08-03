@@ -1,0 +1,15 @@
+{
+	x: -12.5d,
+	y: -8.0d,
+	shape: "square",
+	dependencies: [
+		"3ffbfc9b"
+	],
+	tasks: [{
+		uid: "4b37ee6c",
+		type: "item",
+		items: [{
+			item: "tconstruct:brownstone 1 1"
+		}]
+	}]
+}

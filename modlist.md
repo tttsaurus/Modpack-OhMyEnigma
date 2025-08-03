@@ -43,6 +43,7 @@ List of Mods (180):
 - **[CreepyPastaCraft Reborn](https://mcreator.net)**: CreepyPastaCraft_Reborn_V2c-1.12.2-hotfix1.jar
 - **[CTM](https://minecraft.curseforge.com/projects/ctm)**: CTM-MC1.12.2-1.0.2.31.jar
 - **[Cucumber Library](https://minecraft.curseforge.com/projects/cucumber)**: Cucumber-1.12.2-1.1.3.jar
+- **[Custom Item Interactions](https://github.com/ACGaming/CustomItemInteractions)**: CustomItemInteractions-1.12.2-1.0.0.jar
 - **Custom Loading Screen**: CustomLoadingScreen-1.12.2-1.5.10-qfix84.1.jar
 - CustomStartingGear-1.12-1.2.0.9-universal.jar
 - **[Cyclops Core](https://minecraft.curseforge.com/projects/cyclops-core)**: CyclopsCore-1.12.2-1.6.7.jar
@@ -141,7 +142,6 @@ List of Mods (180):
 - **[Redstone Flux](http://www.teamcofh.com)**: RedstoneFlux-1.12-2.1.1.1-universal.jar
 - **[RenderLib](https://github.com/Meldexun/RenderLib)**: RenderLib-1.12.2-1.4.5.jar
 - **Requious Frakto**: Requious Frakto-0.12.jar
-- **Example Mod**: restrictedcrops-1.5.jar
 - **Roid's Tweaker**: roidtweaker-1.0.1.jar
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar

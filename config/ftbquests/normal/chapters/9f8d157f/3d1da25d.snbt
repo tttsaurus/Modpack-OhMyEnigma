@@ -5,6 +5,10 @@
 	text: [
 		"{mpq.str176}"
 	],
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"c343ccd1"
+	],
 	tasks: [{
 		uid: "1a0fbd51",
 		type: "item",

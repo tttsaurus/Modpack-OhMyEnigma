@@ -23,6 +23,7 @@ fluid.advanced_fuel=进阶燃料
 fluid.golden_apple_juice=金苹果汁
 fluid.soybean_liquid=大豆流体
 fluid.soybean_juice=豆浆
+fluid.hot_mud=炽热泥浆
 
 #Material
 material.burnt_black_flesh_mat.name=焦黑血肉
@@ -83,6 +84,10 @@ item.contenttweaker.jauxum_crystal_shard.name=§2杰西姆水晶碎片
 item.contenttweaker.karmesine_crystal_shard.name=§c卡梅塞恩水晶碎片
 item.contenttweaker.ovium_crystal_shard.name=§3欧维姆水晶碎片
 item.contenttweaker.coral_flavor.name=§2珊瑚调味剂
+item.contenttweaker.raw_sand_ingot.name=粗制沙锭
+item.contenttweaker.sand_ingot.name=沙锭
+item.contenttweaker.magma_piece.name=熔岩碎片
+item.contenttweaker.hardened_sand_ingot.name=强化沙锭
 
 #Food
 item.contenttweaker.gummy_investigator.name=§2调查员软糖

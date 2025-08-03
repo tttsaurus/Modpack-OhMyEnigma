@@ -1,0 +1,16 @@
+{
+	x: -15.5d,
+	y: -8.0d,
+	shape: "square",
+	dependencies: [
+		"a4f0b7cd",
+		"ca5012ef"
+	],
+	tasks: [{
+		uid: "1928e612",
+		type: "item",
+		items: [{
+			item: "contenttweaker:raw_sand_ingot"
+		}]
+	}]
+}

@@ -27,6 +27,7 @@ var banned_items = [
     <item:galacticraftplanets:titanium_pickaxe>,
     <item:galacticraftplanets:volcanic_pickaxe>,
     <item:avaritia:infinity_pickaxe>.withTag({ench: [{lvl: 10 as short, id: 35 as short}]}),
+    <item:minecraft:wooden_pickaxe>,
     //axe
     <item:minecraft:iron_axe>,
     <item:minecraft:diamond_axe>,
@@ -44,6 +45,7 @@ var banned_items = [
     <item:galacticraftplanets:desh_axe>,
     <item:galacticraftplanets:titanium_axe>,
     <item:avaritia:infinity_axe>,
+    <item:minecraft:wooden_axe>,
     //sword
     <item:minecraft:iron_sword>,
     <item:minecraft:diamond_sword>,
@@ -61,6 +63,7 @@ var banned_items = [
     <item:galacticraftplanets:titanium_sword>,
     <item:avaritia:skullfire_sword>,
     <item:avaritia:infinity_sword>,
+    <item:minecraft:wooden_sword>,
     //hoe
     <item:minecraft:iron_hoe>,
     <item:minecraft:diamond_hoe>,
@@ -76,6 +79,7 @@ var banned_items = [
     <item:galacticraftplanets:desh_hoe>,
     <item:galacticraftplanets:titanium_hoe>,
     <item:avaritia:infinity_hoe>,
+    <item:minecraft:wooden_hoe>,
     //shovel
     <item:minecraft:iron_shovel>,
     <item:minecraft:diamond_shovel>,
@@ -92,6 +96,7 @@ var banned_items = [
     <item:galacticraftplanets:desh_spade>,
     <item:galacticraftplanets:titanium_shovel>,
     <item:avaritia:infinity_shovel>,
+    <item:minecraft:wooden_shovel>,
     //dust
     <item:enderio:item_material:24>,
     <item:enderio:item_material:25>,
@@ -397,7 +402,15 @@ var banned_items = [
     <item:tconevo:metal_block:4>,
     <item:tconevo:metal_block:7>,
     <item:tconevo:metal_block:8>,
-    <item:telepastries:end_cake>
+    <item:telepastries:end_cake>,
+    <item:abyssalcraft:cobbleu>,
+    <item:abyssalcraft:ironu>,
+    <item:abyssalcraft:goldu>,
+    <item:abyssalcraft:diamondu>,
+    <item:abyssalcraft:abyssalniteu>,
+    <item:abyssalcraft:coraliumu>,
+    <item:abyssalcraft:dreadiumu>,
+    <item:abyssalcraft:ethaxiumu>
     ] as IItemStack[];
 
 var banned_item_tooltip as string = game.localize("banned_item_tooltip");
@@ -462,7 +475,8 @@ var banned_categories = [
     "ftbquests.quests",
     "Painter",
     "teastory.cookingpan",
-    "minecraft.anvil"
+    "minecraft.anvil",
+    "abyssalcraft.upgrade"
     ] as string[];
 
 for category in banned_categories

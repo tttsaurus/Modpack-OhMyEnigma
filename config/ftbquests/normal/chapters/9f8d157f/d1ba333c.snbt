@@ -6,6 +6,9 @@
 		"{mpq.str28}",
 		"{mpq.str200}"
 	],
+	dependencies: [
+		"c959ccfe"
+	],
 	tasks: [{
 		uid: "4a20b537",
 		type: "item",

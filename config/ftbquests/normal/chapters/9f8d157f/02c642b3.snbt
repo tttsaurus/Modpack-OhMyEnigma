@@ -1,18 +1,17 @@
 {
-	x: -9.5d,
-	y: 3.0d,
+	x: -16.5d,
+	y: -6.0d,
 	shape: "rsquare",
-	hide_dependency_lines: 1b,
 	dependencies: [
-		"35cb24bb"
+		"1ab5d9bc"
 	],
 	hide: 1b,
 	optional: 1b,
 	tasks: [{
-		uid: "c94365cc",
+		uid: "81c32729",
 		type: "item",
 		items: [{
-			item: "fluidtank:blocktank1"
+			item: "minecraft:torch"
 		}]
 	}]
 }

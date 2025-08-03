@@ -1,0 +1,18 @@
+{
+	x: -14.5d,
+	y: -4.0d,
+	shape: "square",
+	text: [
+		"{mpq.str220}"
+	],
+	dependencies: [
+		"02d59403"
+	],
+	tasks: [{
+		uid: "eb0bb25f",
+		type: "item",
+		items: [{
+			item: "minecraft:vine"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: -14.5d,
+	y: -8.0d,
+	shape: "square",
+	text: [
+		"{mpq.str219}"
+	],
+	dependencies: [
+		"b17d727c"
+	],
+	tasks: [{
+		uid: "ac555800",
+		type: "item",
+		items: [{
+			item: "contenttweaker:sand_ingot"
+		}]
+	}]
+}

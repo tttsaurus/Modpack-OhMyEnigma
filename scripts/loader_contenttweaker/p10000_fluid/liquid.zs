@@ -202,3 +202,13 @@ f20.stillLocation = "base:fluids/liquid";
 f20.flowingLocation = "base:fluids/liquid_flow";
 f20.material = <blockmaterial:water>;
 f20.register();
+
+var f21 as Fluid = VanillaFactory.createFluid("hot_mud", 0x986938);
+f21.temperature = 1500;
+f21.viscosity = 2500;
+f21.density = 2000;
+f21.luminosity = 8;
+f21.stillLocation = "base:fluids/molten";
+f21.flowingLocation = "base:fluids/molten_flowing";
+f21.material = <blockmaterial:lava>;
+f21.register();

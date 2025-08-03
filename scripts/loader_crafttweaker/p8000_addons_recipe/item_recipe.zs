@@ -6,6 +6,11 @@ import mods.enderio.SagMill;
 import mods.bloodmagic.BloodAltar;
 import mods.extendedcrafting.CombinationCrafting;
 
+recipes.addShaped("craft_raw_sand_ingot", <item:contenttweaker:raw_sand_ingot> * 6, 
+    [
+        [<item:minecraft:sand>, <item:minecraft:cactus>]
+    ]);
+
 recipes.addShaped("craft_fresh_flesh", <item:contenttweaker:fresh_flesh> * 5, 
     [
         [null, <item:minecraft:dye:15>, null],

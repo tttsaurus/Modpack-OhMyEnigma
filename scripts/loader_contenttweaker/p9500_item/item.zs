@@ -150,3 +150,19 @@ i35.register();
 var i36 as Item = VanillaFactory.createItem("coral_flavor");
 i36.rarity = "rare";
 i36.register();
+
+var i37 as Item = VanillaFactory.createItem("raw_sand_ingot");
+i37.rarity = "common";
+i37.register();
+
+var i38 as Item = VanillaFactory.createItem("sand_ingot");
+i38.rarity = "common";
+i38.register();
+
+var i39 as Item = VanillaFactory.createItem("magma_piece");
+i39.rarity = "common";
+i39.register();
+
+var i40 as Item = VanillaFactory.createItem("hardened_sand_ingot");
+i40.rarity = "common";
+i40.register();

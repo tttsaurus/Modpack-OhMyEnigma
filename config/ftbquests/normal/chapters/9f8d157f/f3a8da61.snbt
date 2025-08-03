@@ -1,0 +1,12 @@
+{
+	x: -18.5d,
+	y: -5.0d,
+	shape: "square",
+	tasks: [{
+		uid: "17d49388",
+		type: "item",
+		items: [{
+			item: "minecraft:stick"
+		}]
+	}]
+}

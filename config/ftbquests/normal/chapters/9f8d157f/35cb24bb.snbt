@@ -1,0 +1,16 @@
+{
+	x: -18.5d,
+	y: -4.0d,
+	shape: "square",
+	dependencies: [
+		"f3a8da61",
+		"d028327f"
+	],
+	tasks: [{
+		uid: "7b691c83",
+		type: "item",
+		items: [{
+			item: "minecraft:sapling"
+		}]
+	}]
+}

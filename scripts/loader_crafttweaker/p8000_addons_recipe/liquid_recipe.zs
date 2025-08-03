@@ -5,6 +5,7 @@ import mods.tconstruct.Fuel;
 import mods.forestry.Squeezer;
 import mods.sakura.Barrel;
 import mods.sakura.liquid_to_itemStack;
+import mods.inworldcrafting.FluidToFluid;
 
 // rotten_flesh mp: 300K
 Melting.addRecipe(<liquid:rotten_flesh> * 144, <item:contenttweaker:fresh_flesh>, 300);
@@ -83,3 +84,6 @@ Squeezer.addRecipe(<liquid:golden_apple_juice> * 100, [<item:minecraft:golden_ap
 
 // soybean_liquid
 Squeezer.addRecipe(<liquid:soybean_liquid> * 100, [<item:contentcreator:crop_soybean> * 3], 120, null);
+
+// hot_mud
+FluidToFluid.transform(<liquid:hot_mud>, <liquid:lava>, [<item:contenttweaker:raw_sand_ingot> * 24, <item:contenttweaker:magma_piece> * 8]);

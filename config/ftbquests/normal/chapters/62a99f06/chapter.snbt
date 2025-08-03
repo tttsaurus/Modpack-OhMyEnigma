@@ -21,8 +21,8 @@
 		dev: 0b
 	},
 	{
-		x: -3.0d,
-		y: -9.5d,
+		x: -1.5d,
+		y: -3.0d,
 		width: 10.87d,
 		height: 2.0d,
 		rotation: 0.0d,

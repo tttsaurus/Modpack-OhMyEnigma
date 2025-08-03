@@ -1,0 +1,23 @@
+{
+	title: "{mpq.str218}",
+	icon: {
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "hot_mud",
+			Amount: 1000
+		}
+	},
+	x: -14.5d,
+	y: -7.0d,
+	shape: "diamond",
+	dependencies: [
+		"1ab5d9bc",
+		"b17d727c"
+	],
+	size: 1.3d,
+	tasks: [{
+		uid: "f0dd3aec",
+		type: "checkmark",
+		title: "{mpq.confirm}"
+	}]
+}

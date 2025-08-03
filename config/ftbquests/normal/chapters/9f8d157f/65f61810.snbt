@@ -1,0 +1,15 @@
+{
+	x: -13.5d,
+	y: -6.0d,
+	shape: "square",
+	dependencies: [
+		"8365be5b"
+	],
+	tasks: [{
+		uid: "1be7d40e",
+		type: "item",
+		items: [{
+			item: "creepypastacraft:darksand"
+		}]
+	}]
+}

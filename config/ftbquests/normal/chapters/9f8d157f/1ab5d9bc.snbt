@@ -1,0 +1,15 @@
+{
+	x: -15.5d,
+	y: -6.0d,
+	shape: "square",
+	text: [
+		"{mpq.str217}"
+	],
+	tasks: [{
+		uid: "528003e5",
+		type: "item",
+		items: [{
+			item: "contenttweaker:magma_piece"
+		}]
+	}]
+}
