@@ -157,7 +157,7 @@ recipes.addShaped("craft_sakura_tatara", <item:sakura:tatara>,
         var item as IItemStack = info.inventory.getStack(1, 0);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(1, 0, null);
+            info.inventory.setStack(1, 0, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(1, 0, mutableItem.copy().withDamage(item.damage + 9));
     });
@@ -175,7 +175,7 @@ recipes.addShaped("craft_sakura_knife_fish", <item:sakura:knife_fish>,
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 9));
     });
@@ -193,7 +193,7 @@ recipes.addShaped("craft_sakura_sakura_knife_fish", <item:sakura:sakura_knife_fi
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 9));
     });
@@ -211,7 +211,7 @@ recipes.addShaped("craft_sakura_knife_noodle", <item:sakura:knife_noodle>,
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 9));
     });
@@ -229,7 +229,7 @@ recipes.addShaped("craft_sakura_sakura_knife_noodle", <item:sakura:sakura_knife_
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 9));
     });

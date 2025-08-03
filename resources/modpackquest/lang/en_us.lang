@@ -1,9 +1,9 @@
 
 mpq.confirm=Confirm
-mpq.chapter1_finish_toast=Congratulations on completing Chapter 1
-mpq.chapter2_finish_toast=Congratulations on completing Chapter 2
+mpq.chapter1_finish_toast=Congratulations on completing Chapter I
+mpq.chapter2_finish_toast=Congratulations on completing Chapter II
 
-mpq.str1=§lChapter 1§r: §b§lCoral Era§r
+mpq.str1=§lChapter I§r: §b§lCoral Era§r
 mpq.str2=That's Grout!
 mpq.str3=Seared Era
 mpq.str4=The §b§lSmelter§r can be 2x2 or nxm, but the §b§lSmelter Controller§r is necessary
@@ -49,7 +49,7 @@ mpq.str43=Investigators right-click to hand-tear monsters
 mpq.str44="Investigators are also foodies."
 mpq.str45=End of this chapter
 mpq.str46=Note, §b§lUmeboshi§r comes from the §b§lPlum Tree§r; §b§lTerrax§r is the alloy of the three mineral brothers in the §b§lOverworld§r
-mpq.str47=§lChapter 2§r: §b§lOmothol Era§r
+mpq.str47=§lChapter II§r: §b§lOmothol Era§r
 mpq.str48=The Omothol Era at 3900K
 mpq.str49=Eat the §b§lGummy§r candy to begin
 mpq.str50=Stay home and locate with pearls
@@ -108,7 +108,7 @@ mpq.str102=Come study §b§lBee§rs!
 mpq.str103=Place it above the §b§lCrafting Table§r for automated synthesis
 mpq.str104=Regular crops can also be planted directly on §b§lFertile Soil§r, which accelerates growth
 mpq.str105=It's time to start accelerating
-mpq.str106=§lChapter 3§r: §b§lSpace Era§r
+mpq.str106=§lChapter III§r: §b§lSpace Era§r
 mpq.str107=Accelerating Space Era
 mpq.str108=§b§lConduit§rs paired with §b§lItem Filter§rs are more useful
 mpq.str109=Firstly, it can rotate machines
@@ -224,3 +224,4 @@ mpq.str218=Check §b§lHot Mud§r recipe
 mpq.str219=Right click §b§lLava§r with §b§lRaw Sand Ingot§r
 mpq.str220=Break the mud and you'll know
 mpq.str221=§lAutomation Misc
+mpq.str222=A good early stage fuel

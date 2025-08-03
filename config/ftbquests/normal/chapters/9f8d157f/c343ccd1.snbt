@@ -9,7 +9,7 @@
 		"{mpq.str5}"
 	],
 	dependencies: [
-		"6aca1945"
+		"e1ebb2da"
 	],
 	tasks: [{
 		uid: "5f1bad37",

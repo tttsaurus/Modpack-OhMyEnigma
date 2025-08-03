@@ -283,7 +283,7 @@ recipes.addShaped("craft_gravel", <item:minecraft:gravel> * 8,
         var item as IItemStack = info.inventory.getStack(1, 1);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(1, 1, null);
+            info.inventory.setStack(1, 1, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(1, 1, mutableItem.copy().withDamage(item.damage + 9));
     });
@@ -309,7 +309,7 @@ recipes.addShaped("craft_furnace_extra", <item:minecraft:furnace>,
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 29 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 29));
     });
@@ -332,7 +332,7 @@ recipes.addShaped("craft_paper_extra", <item:minecraft:paper> * 8,
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 4 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 4));
     });
@@ -349,7 +349,7 @@ recipes.addShaped("craft_coal_sand", <item:bloodmagic:component:21>,
         var item as IItemStack = info.inventory.getStack(2, 2);
         var mutableItem as IMutableItemStack = item.mutable();
         if (item.damage + 9 >= item.maxDamage)
-            info.inventory.setStack(2, 2, null);
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 9));
     });
@@ -357,4 +357,34 @@ recipes.addShaped("craft_coal_sand_extra", <item:bloodmagic:component:21> * 4,
     [
         [<ore:coal>, <ore:coal>],
         [<item:minecraft:paper>, <item:minecraft:paper>]
+    ]);
+
+recipes.remove(<item:minecraft:chest>);
+recipes.remove(<item:minecraft:chest> * 4);
+recipes.addShaped("craft_chest_extra", <item:minecraft:chest>,
+    [
+        [<ore:logWood>, <ore:logWood>, <ore:logWood>],
+        [<item:contenttweaker:hardened_sand_ingot> * 9, <item:creepypastacraft:darksand>, <item:contenttweaker:hardened_sand_ingot> * 9],
+        [<ore:logWood>, <ore:logWood>, <item:sakura:stone_hammer>.anyDamage() | <item:sakura:iron_hammer>.anyDamage() | <item:sakura:sakura_hammer>.anyDamage()]
+    ],
+    null,
+    function (out, info, player)
+    {
+        var item as IItemStack = info.inventory.getStack(2, 2);
+        var mutableItem as IMutableItemStack = item.mutable();
+        if (item.damage + 29 >= item.maxDamage)
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.maxDamage));
+        else
+            info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 29));
+    });
+recipes.addShaped("craft_chest_extra_ultra", <item:minecraft:chest>, 
+    [
+        [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
+        [<ore:plankWood>, <item:minecraft:iron_ingot>, <ore:plankWood>],
+        [<ore:logWood>, <ore:logWood>, <ore:logWood>]
+    ]);
+
+recipes.addShaped("test_recipe", <item:minecraft:apple>, 
+    [
+        [<item:minecraft:iron_ingot> * 5, <item:minecraft:dirt>]
     ]);

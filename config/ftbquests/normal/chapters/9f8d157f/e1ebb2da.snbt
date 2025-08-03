@@ -1,0 +1,17 @@
+{
+	x: -9.5d,
+	y: -1.0d,
+	shape: "square",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"6aca1945",
+		"eef4c9cf"
+	],
+	tasks: [{
+		uid: "3f1f9d53",
+		type: "item",
+		items: [{
+			item: "tconstruct:materials"
+		}]
+	}]
+}

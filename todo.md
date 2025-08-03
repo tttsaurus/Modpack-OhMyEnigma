@@ -3,6 +3,7 @@
 - utilize recipe stage
   - gamestage localization `emt.game_stages.<stage_name>`
 - fix telepastries cakes must have a base block to exist ✔
+- fix crafting table recipes not able to accept stacked items
 
 ## HBM
 - remove hbm-related content fully

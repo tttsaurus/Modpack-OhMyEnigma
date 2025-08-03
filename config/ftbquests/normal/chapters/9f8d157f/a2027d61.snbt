@@ -4,8 +4,10 @@
 	shape: "rsquare",
 	hide_dependency_lines: 1b,
 	dependencies: [
+		"b4045041",
 		"eaf60a08"
 	],
+	hide: 1b,
 	optional: 1b,
 	tasks: [{
 		uid: "8c74ecd8",

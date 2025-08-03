@@ -2,12 +2,12 @@
     "constants": {
         "background_0_pixel_width": 1401,
         "background_0_pixel_height": 891,
-        "background_1_pixel_width": 4000,
-        "background_1_pixel_height": 2250,
-        "background_2_pixel_width": 4000,
-        "background_2_pixel_height": 2250,
-        "background_3_pixel_width": 4000,
-        "background_3_pixel_height": 2250,
+        "background_1_pixel_width": 2451,
+        "background_1_pixel_height": 1554,
+        "background_2_pixel_width": 2451,
+        "background_2_pixel_height": 1556,
+        "background_3_pixel_width": 2451,
+        "background_3_pixel_height": 1553,
         "background_4_pixel_width": 4000,
         "background_4_pixel_height": 2250,
 
@@ -20,7 +20,7 @@
         "anim_0_frame_count": 11,
         "anim_0_frame_pixel_height": "(anim_0_pixel_height + 0.0) / anim_0_frame_count",
 
-        "slideshow_count": 2,
+        "slideshow_count": 4,
         "slideshow_fadeout_duration": 0.5,
         "slideshow_each_duration": 3.0,
         "slideshow_total_duration": "slideshow_each_duration * slideshow_count"

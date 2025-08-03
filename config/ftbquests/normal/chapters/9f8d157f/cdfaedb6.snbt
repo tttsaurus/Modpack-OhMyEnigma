@@ -2,6 +2,9 @@
 	x: -17.5d,
 	y: -2.0d,
 	shape: "rsquare",
+	text: [
+		"{mpq.str222}"
+	],
 	dependencies: [
 		"dd454611"
 	],

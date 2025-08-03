@@ -434,6 +434,9 @@ for item in banned_items
     }
 }
 
+// unban
+JEI.addItem(<item:bloodmagic:component:21>);
+
 events.onPlayerPickupItem(function(event as PlayerPickupItemEvent)
 {
     if (event.player.world.remote) return;
