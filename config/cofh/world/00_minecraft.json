@@ -471,12 +471,51 @@
                         "weight": 1
                     }
                 ],
-                "see-sky": false,
+                "see-sky": true,
                 "surface": [{"name": "minecraft:sand"}],
                 "material": [{"name": "minecraft:air"}],
                 "cluster-size": 1
             },
-            "cluster-count": 5,
+            "cluster-count": 4,
+            "retrogen": false,
+            "biome": {
+                "restriction": "whitelist",
+                "value": [
+                    {
+                        "type": "id",
+                        "entry": [
+                            "minecraft:desert"
+                        ]
+                    }
+                ]
+            },
+            "dimension": {
+				"restriction": "whitelist",
+				"value": [
+					0
+				]
+			}
+        },
+
+		"desert_beehive": {
+            "distribution": "surface",
+            "generator": {
+                "type": "decoration",
+                "block": [
+                    {
+                        "name": "forestry:beehives",
+						"properties": {
+							"hive": "desert"
+						},
+                        "weight": 1
+                    }
+                ],
+                "see-sky": true,
+                "surface": [{"name": "minecraft:sand"}],
+                "material": [{"name": "minecraft:air"}],
+                "cluster-size": 1
+            },
+            "cluster-count": 1,
             "retrogen": false,
             "biome": {
                 "restriction": "whitelist",
