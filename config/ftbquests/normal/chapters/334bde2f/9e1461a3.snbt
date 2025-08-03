@@ -1,0 +1,18 @@
+{
+	x: -0.5d,
+	y: -2.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "df357f68",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:laser_base"
+		}]
+	}]
+}

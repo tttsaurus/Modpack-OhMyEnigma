@@ -1,0 +1,15 @@
+{
+	x: -13.0d,
+	y: 0.0d,
+	shape: "square",
+	dependencies: [
+		"eaf60a08"
+	],
+	tasks: [{
+		uid: "5859c518",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}]
+	}]
+}

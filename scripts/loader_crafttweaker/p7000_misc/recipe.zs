@@ -6,6 +6,8 @@ import mods.enderio.AlloySmelter;
 import mods.enderio.SagMill;
 import mods.extendedcrafting.EnderCrafting;
 import mods.forestry.Carpenter;
+import crafttweaker.item.IItemStack;
+import crafttweaker.item.IMutableItemStack;
 
 recipes.remove(<item:torcherino:torch_lvl1>);
 EnderCrafting.addShaped(<item:torcherino:torch_lvl1>, 
@@ -268,4 +270,28 @@ recipes.addShaped("craft_iron_sand", <item:sakura:iron_sand> * 4,
     [
         [<item:minecraft:iron_ore>, <item:abyssalcraft:stone>],
         [<item:abyssalcraft:stone>, <item:creepypastacraft:darksand>]
+    ]);
+
+recipes.addShaped("craft_gravel", <item:minecraft:gravel> * 8,
+    [
+        [<item:minecraft:cobblestone>, <item:minecraft:cobblestone>],
+        [<item:tconstruct:brownstone:1>, <item:sakura:stone_hammer>.anyDamage() | <item:sakura:iron_hammer>.anyDamage() | <item:sakura:sakura_hammer>.anyDamage()]
+    ],
+    null,
+    function (out, info, player)
+    {
+        var item as IItemStack = info.inventory.getStack(1, 1);
+        var mutableItem as IMutableItemStack = item.mutable();
+        if (item.damage + 9 >= item.maxDamage)
+            info.inventory.setStack(1, 1, null);
+        else
+            info.inventory.setStack(1, 1, mutableItem.copy().withDamage(item.damage + 9));
+    });
+
+recipes.remove(<item:tconstruct:stone_stick>);
+recipes.addShaped("craft_stone_rod", <item:tconstruct:stone_stick> * 4, 
+    [
+        [<item:minecraft:clay_ball>, <item:minecraft:stick>, <item:minecraft:clay_ball>],
+        [<item:minecraft:clay_ball>, <item:minecraft:cobblestone> | <item:tconstruct:brownstone:1>, <item:minecraft:clay_ball>],
+        [<item:minecraft:clay_ball>, <item:minecraft:stick>, <item:minecraft:clay_ball>]
     ]);

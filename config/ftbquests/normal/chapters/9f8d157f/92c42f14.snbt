@@ -1,16 +1,16 @@
 {
-	disable_toast: 1b,
-	x: 3.0d,
+	x: -11.5d,
 	y: -2.0d,
 	shape: "square",
 	dependencies: [
-		"598bf169"
+		"c5431443",
+		"94812e8b"
 	],
 	tasks: [{
-		uid: "1bc11302",
+		uid: "66d8fd40",
 		type: "item",
 		items: [{
-			item: "forestry:carpenter"
+			item: "tconstruct:stone_stick"
 		}]
 	}]
 }

@@ -1,0 +1,17 @@
+{
+	x: -11.5d,
+	y: -9.0d,
+	shape: "rsquare",
+	dependencies: [
+		"3fd71b97"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "39f40bbd",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}]
+	}]
+}

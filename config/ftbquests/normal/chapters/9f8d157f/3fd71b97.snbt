@@ -1,16 +1,15 @@
 {
-	x: -11.5d,
+	x: -10.5d,
 	y: -8.0d,
 	shape: "square",
 	dependencies: [
-		"92c42f14",
-		"bfa4ecf5"
+		"c959ccfe"
 	],
 	tasks: [{
-		uid: "8be1b99f",
+		uid: "c8a56b28",
 		type: "item",
 		items: [{
-			item: "minecraft:stone_pickaxe"
+			item: "sakura:stone_hammer"
 		}],
 		ignore_damage: 1b,
 		ignore_nbt: 1b

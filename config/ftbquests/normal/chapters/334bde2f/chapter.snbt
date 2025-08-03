@@ -1,0 +1,7 @@
+{
+	title: "{mpq.str221}",
+	icon: "minecraft:comparator",
+	always_invisible: 0b,
+	group: 0,
+	default_quest_shape: ""
+}

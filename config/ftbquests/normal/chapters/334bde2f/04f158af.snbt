@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: -2.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "8cd4c5f6",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:crop_recolector"
+		}]
+	}]
+}

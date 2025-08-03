@@ -109,7 +109,7 @@ recipes.remove(<item:sakura:stone_hammer>);
 recipes.addShaped("craft_sakura_stone_hammer", <item:sakura:stone_hammer>, 
     [
         [<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:minecraft:cobblestone>],
-        [null, <ore:stickWood>, null],
+        [null, <item:tconstruct:stone_stick>, null],
         [<ore:stickWood>, null, null]
     ]);
 

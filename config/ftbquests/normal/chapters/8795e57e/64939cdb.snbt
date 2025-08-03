@@ -1,8 +1,11 @@
 {
 	disable_toast: 1b,
 	x: -1.0d,
-	y: -1.0d,
+	y: -2.0d,
 	shape: "square",
+	dependencies: [
+		"b1712d57"
+	],
 	tasks: [{
 		uid: "44cd8378",
 		type: "item",

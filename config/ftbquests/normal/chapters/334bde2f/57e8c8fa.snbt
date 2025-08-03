@@ -1,0 +1,18 @@
+{
+	x: -1.5d,
+	y: 1.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "dc531913",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:resourceful_furnace"
+		}]
+	}]
+}

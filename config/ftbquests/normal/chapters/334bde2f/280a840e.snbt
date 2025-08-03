@@ -1,0 +1,18 @@
+{
+	x: -4.5d,
+	y: -0.5d,
+	shape: "rsquare",
+	hide_dependency_lines: 1b,
+	dependencies: [
+		"7eaa174d"
+	],
+	hide: 1b,
+	optional: 1b,
+	tasks: [{
+		uid: "ddd4db5b",
+		type: "item",
+		items: [{
+			item: "industrialforegoing:enchantment_refiner"
+		}]
+	}]
+}
