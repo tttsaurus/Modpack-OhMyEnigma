@@ -42,9 +42,9 @@
 				BiomeID: 50,
 				FoundX: 1744,
 				SearchRadius: 10001,
-				FoundZ: -1315,
+				Samples: 109,
 				State: 2,
-				Samples: 109
+				FoundZ: -1315
 			}
 		}
 	}]

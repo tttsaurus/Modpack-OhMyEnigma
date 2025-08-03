@@ -1,0 +1,16 @@
+{
+	x: -15.5d,
+	y: -7.0d,
+	shape: "rsquare",
+	dependencies: [
+		"2953173a"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "e443efc0",
+		type: "item",
+		items: [{
+			item: "minecraft:sandstone 1 2"
+		}]
+	}]
+}

@@ -257,3 +257,15 @@ recipes.addShaped("craft_oak_sapling", <item:minecraft:sapling>,
         [<item:minecraft:vine>, <item:minecraft:vine>],
         [<item:minecraft:stick>, <item:minecraft:stick>]
     ]);
+
+recipes.addShaped("craft_sandstone_2_extra", <item:minecraft:sandstone:2> * 4,
+    [
+        [<item:contenttweaker:sand_ingot>, <item:contenttweaker:sand_ingot>],
+        [<item:contenttweaker:sand_ingot>, <item:contenttweaker:sand_ingot>]
+    ]);
+
+recipes.addShaped("craft_iron_sand", <item:sakura:iron_sand> * 4,
+    [
+        [<item:minecraft:iron_ore>, <item:abyssalcraft:stone>],
+        [<item:abyssalcraft:stone>, <item:creepypastacraft:darksand>]
+    ]);

@@ -7,24 +7,24 @@ FITweaker.addRecipe(<liquid:soybean_liquid>, true, <blockstate:contenttweaker:ha
 FITweaker.addRecipe(<blockstate:taiga:karmesine_ore>, <liquid:glass>, 
     FITweaker.outputBuilder()
         .addEvent(FITweaker.eventBuilder().createSpawnEntityItemEvent(<item:contenttweaker:karmesine_crystal_shard>, 1)
-            .setParticle("explode"))
-            .setSound("minecraft:block.fire.extinguish")
+            .setParticle("explode")
+            .setSound("minecraft:block.fire.extinguish"))
         .addEvent(FITweaker.eventBuilder().createSetBlockEvent(<item:minecraft:stone>.asBlock().definition.getStateFromMeta(5))
             .addCondition(Condition.byChance, [0.2f])));
 
 FITweaker.addRecipe(<blockstate:taiga:ovium_ore>, <liquid:glass>, 
     FITweaker.outputBuilder()
         .addEvent(FITweaker.eventBuilder().createSpawnEntityItemEvent(<item:contenttweaker:ovium_crystal_shard>, 1)
-            .setParticle("explode"))
-            .setSound("minecraft:block.fire.extinguish")
+            .setParticle("explode")
+            .setSound("minecraft:block.fire.extinguish"))
         .addEvent(FITweaker.eventBuilder().createSetBlockEvent(<item:minecraft:stone>.asBlock().definition.getStateFromMeta(3))
             .addCondition(Condition.byChance, [0.2f])));
 
 FITweaker.addRecipe(<blockstate:taiga:jauxum_ore>, <liquid:glass>, 
     FITweaker.outputBuilder()
         .addEvent(FITweaker.eventBuilder().createSpawnEntityItemEvent(<item:contenttweaker:jauxum_crystal_shard>, 1)
-            .setParticle("explode"))
-            .setSound("minecraft:block.fire.extinguish")
+            .setParticle("explode")
+            .setSound("minecraft:block.fire.extinguish"))
         .addEvent(FITweaker.eventBuilder().createSetBlockEvent(<item:minecraft:stone>.asBlock().definition.getStateFromMeta(1))
             .addCondition(Condition.byChance, [0.2f])));
 

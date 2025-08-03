@@ -40,14 +40,14 @@ Melting.addRecipe(<liquid:manyullyn> * 1296, <item:tconstruct:metal:2>, 1750);
 recipes.remove(<item:tconstruct:soil>);
 recipes.addShaped("craft_tconstruct_soil", <item:tconstruct:soil> * 5, 
     [
-        [null, <item:minecraft:sand>, null],
+        [null, <item:contenttweaker:raw_sand_ingot>, null],
         [<item:minecraft:gravel>, <item:minecraft:clay_ball>, <item:minecraft:gravel>],
-        [null, <item:minecraft:sand>, null]
+        [null, <item:contenttweaker:raw_sand_ingot>, null]
     ]);
 recipes.addShaped("craft_tconstruct_soil_alternative", <item:tconstruct:soil> * 5, 
     [
         [null, <item:minecraft:gravel>, null],
-        [<item:minecraft:sand>, <item:minecraft:clay_ball>, <item:minecraft:sand>],
+        [<item:contenttweaker:raw_sand_ingot>, <item:minecraft:clay_ball>, <item:contenttweaker:raw_sand_ingot>],
         [null, <item:minecraft:gravel>, null]
     ]);
 

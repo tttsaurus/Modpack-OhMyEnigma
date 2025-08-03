@@ -1,0 +1,16 @@
+{
+	x: -14.5d,
+	y: -5.0d,
+	shape: "rsquare",
+	dependencies: [
+		"65f61810"
+	],
+	hide: 1b,
+	tasks: [{
+		uid: "2c5f37c3",
+		type: "item",
+		items: [{
+			item: "sakura:iron_sand"
+		}]
+	}]
+}
