@@ -1,6 +1,21 @@
 #priority 7000
 import loottweaker.LootTweaker;
+import mods.ltt.LootTable;
 import crafttweaker.event.EntityLivingDeathDropsEvent;
+
+LootTable.removeModTable("endercore");
+LootTable.removeModTable("enderio");
+LootTable.removeModTable("enderiobase");
+LootTable.removeModTable("enderioconduits");
+LootTable.removeModTable("enderiopowertools");
+LootTable.removeModTable("enderioconduitsappliedenergistics");
+LootTable.removeModTable("enderioconduitsopencomputers");
+LootTable.removeModTable("enderioconduitsrefinedstorage");
+LootTable.removeModTable("enderiointegrationforestry");
+LootTable.removeModTable("enderiointegrationtic");
+LootTable.removeModTable("enderiointegrationticlate");
+LootTable.removeModTable("enderioinvpanel");
+LootTable.removeModTable("enderiomachines");
 
 events.onEntityLivingDeathDrops(function(event as EntityLivingDeathDropsEvent)
 {
@@ -19,8 +34,11 @@ events.onEntityLivingDeathDrops(function(event as EntityLivingDeathDropsEvent)
 val p1 = LootTweaker.getTable("minecraft:entities/zombie").addPool("extra", 1, 1, 0, 0);
 p1.addItemEntry(<item:scp:organ>, 100);
 
-val p2 = LootTweaker.getTable("scp:entity/plant_cow").addPool("extra", 1, 2, 0, 0);
-p2.addItemEntry(<item:environmentaltech:litherite> * 3, 60);
-p2.addItemEntry(<item:environmentaltech:litherite> * 2, 20);
-p2.addItemEntry(<item:environmentaltech:litherite_crystal>, 12);
-p2.addItemEntry(<item:scp:plant_cow_seeds>, 8);
+val p2 = LootTweaker.getTable("minecraft:entities/husk").addPool("extra", 1, 1, 0, 0);
+p2.addItemEntry(<item:scp:organ>, 100);
+
+val p3 = LootTweaker.getTable("scp:entity/plant_cow").addPool("extra", 1, 2, 0, 0);
+p3.addItemEntry(<item:environmentaltech:litherite> * 3, 60);
+p3.addItemEntry(<item:environmentaltech:litherite> * 2, 20);
+p3.addItemEntry(<item:environmentaltech:litherite_crystal>, 12);
+p3.addItemEntry(<item:scp:plant_cow_seeds>, 8);

@@ -6,6 +6,7 @@
 - fix crafting table recipes not able to accept stacked items
 
 ## HBM
+- fix `moon.moon` ruin
 - remove hbm-related content fully
   - `hbm:ammo_556`
   - `hbm:ammo_44`

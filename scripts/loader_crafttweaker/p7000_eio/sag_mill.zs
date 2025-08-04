@@ -24,38 +24,38 @@ for item in taiga_items
     }
 }
 
-//Abyssalnite
+// Abyssalnite
 SagMill.addRecipe([<item:acintegration:dust>], [1.0f], <item:abyssalcraft:abyingot>, "NONE", 2400);
 SagMill.addRecipe([<item:acintegration:dust> * 9], [1.0f], <item:abyssalcraft:ingotblock>, "NONE", 3600);
 SagMill.addRecipe([<item:acintegration:dust> * 2, <item:minecraft:cobblestone>], [1.0f, 0.15f], <item:abyssalcraft:abyore>, "MULTIPLY_OUTPUT", 2880);
 
-//LiquifiedCoralium
+// LiquifiedCoralium
 SagMill.addRecipe([<item:acintegration:dust:1>], [1.0f], <item:abyssalcraft:cingot>, "NONE", 2400);
 SagMill.addRecipe([<item:acintegration:dust:1> * 9], [1.0f], <item:abyssalcraft:ingotblock:1>, "NONE", 3600);
 SagMill.addRecipe([<item:acintegration:dust:1> * 2, <item:abyssalcraft:cobblestone:4>], [1.0f, 0.15f], <item:abyssalcraft:abylcorore>, "MULTIPLY_OUTPUT", 2880);
 
-//SakuraDiamond
+// SakuraDiamond
 SagMill.addRecipe([<item:contenttweaker:dust_sakura_diamond>], [1.0f], <item:sakura:sakura_diamond>, "NONE", 2400);
 SagMill.addRecipe([<item:contenttweaker:dust_sakura_diamond> * 9], [1.0f], <item:sakura:sakura_diamond_block>, "NONE", 3600);
 SagMill.addRecipe([<item:sakura:sakura_diamond> * 2, <item:sakura:sakura_diamond>, <enderio:item_material:23>, <item:minecraft:cobblestone>], [1.0f, 0.25f, 0.05f, 0.15f], <sakura:sakura_diamond_ore>, "MULTIPLY_OUTPUT", 2880);
 
-//Diamond
+// Diamond
 SagMill.addRecipe([<item:contenttweaker:dust_diamond> * 9], [1.0f], <item:minecraft:diamond_block>, "NONE", 3600);
 
-//Telekill
+// Telekill
 SagMill.addRecipe([<item:contenttweaker:dust_telekill>], [1.0f], <item:scp:unusual_ingot>, "NONE", 2400);
 SagMill.addRecipe([<item:contenttweaker:dust_telekill> * 9], [1.0f], <item:scp:telekill_block>, "NONE", 3600);
 SagMill.addRecipe([<item:contenttweaker:dust_telekill> * 2, <item:minecraft:cobblestone>], [1.0f, 0.15f], <item:scp:telekill_ore>, "MULTIPLY_OUTPUT", 2880);
 
-//EssenceMetal
+// EssenceMetal
 SagMill.addRecipe([<item:tconevo:metal:16>], [1.0f], <item:tconevo:metal:15>, "NONE", 2400);
 SagMill.addRecipe([<item:tconevo:metal:16> * 9], [1.0f], <item:tconevo:metal_block:3>, "NONE", 3600);
 
-//SentientMetal
+// SentientMetal
 SagMill.addRecipe([<item:tconevo:metal:31>], [1.0f], <item:tconevo:metal:30>, "NONE", 2400);
 SagMill.addRecipe([<item:tconevo:metal:31> * 9], [1.0f], <item:tconevo:metal_block:6>, "NONE", 3600);
 
-//BoundMetal
+// BoundMetal
 SagMill.addRecipe([<item:tconevo:metal:26>], [1.0f], <item:tconevo:metal:25>, "NONE", 2400);
 SagMill.addRecipe([<item:tconevo:metal:26> * 9], [1.0f], <item:tconevo:metal_block:5>, "NONE", 3600);
 

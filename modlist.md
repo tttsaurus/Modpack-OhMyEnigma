@@ -28,7 +28,6 @@ List of Mods (180):
 - **[LoliASM](https://github.com/LoliKingdom/LoliASM)**: censoredasm5.28.jar
 - **[Chameleon](http://www.jaquadro.com/)**: Chameleon-1.12-4.1.3.jar
 - **[ChickenChunks](http://www.minecraftforum.net/topic/909223)**: ChickenChunks-1.12.2-2.4.2.74-universal.jar
-- **[ClearChatOnJoin](https://github.com/jadc/ClearChatOnJoin)**: clearchatonjoin-1.12.2-1.0.0.jar
 - **Click Machine**: ClickMachine-1.12.2-1.2.0.jar
 - **[CodeChicken Lib](http://chickenbones.net/Pages/links.html)**: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
 - **[CoFH Core](http://www.teamcofh.com)**: CoFHCore-1.12.2-4.6.6.1-universal.jar
@@ -108,6 +107,7 @@ List of Mods (180):
 - **[FluidTank](https://minecraft.curseforge.com/projects/largefluidtank)**: LargeFluidTank-12.5.3.jar
 - **libnine**: libnine-1.12.2-1.2.1.jar
 - **[LLibrary](https://github.com/iLexiconn/LLibrary)**: llibrary-1.7.20-1.12.2.jar
+- LootTableTweaker-1.12.2-1.1.17.jar
 - **LootTweaker**: LootTweaker-0.4.1+MC1.12.2.jar
 - **[Mantle](https://github.com/SlimeKnights/Mantle)**: Mantle-1.12-1.3.3.55.jar
 - **McJtyLib**: mcjtylib-1.12-3.5.4.jar
