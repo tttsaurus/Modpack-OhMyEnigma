@@ -119,11 +119,11 @@ recipes.addShaped("craft_clay_ball_extra", <item:minecraft:clay_ball> * 16,
         [<item:minecraft:clay_ball>, <ore:slimeball>, <item:minecraft:clay_ball>]
     ]);
 
-recipes.addShaped("craft_clay_ball_extra_ultra", <item:minecraft:clay_ball> * 64, 
+recipes.addShaped("craft_clay_ball_extra_ultra", <item:minecraft:clay_ball> * 32, 
     [
-        [<item:contenttweaker:raw_sand_ingot> * 16, <item:minecraft:sapling>, <item:contenttweaker:raw_sand_ingot> * 16],
+        [<item:contenttweaker:raw_sand_ingot>, <item:minecraft:sapling>, <item:contenttweaker:raw_sand_ingot>],
         [<item:minecraft:sapling>, <item:tconstruct:soil:1>, <item:minecraft:sapling>],
-        [<item:contenttweaker:raw_sand_ingot> * 16, <item:minecraft:sapling>, <item:contenttweaker:raw_sand_ingot> * 16]
+        [<item:contenttweaker:raw_sand_ingot>, <item:minecraft:sapling>, <item:contenttweaker:raw_sand_ingot>]
     ]);
 
 
@@ -299,9 +299,9 @@ recipes.addShaped("craft_stone_rod", <item:tconstruct:stone_stick> * 4,
 recipes.remove(<item:minecraft:furnace>);
 recipes.addShaped("craft_furnace_extra", <item:minecraft:furnace>,
     [
-        [<item:creepypastacraft:darksand>, <item:creepypastacraft:darksand>, <item:creepypastacraft:darksand>],
-        [<item:contenttweaker:hardened_sand_ingot> * 9, <item:minecraft:cobblestone> * 9, <item:contenttweaker:hardened_sand_ingot> * 9],
-        [<item:creepypastacraft:darksand>, <item:creepypastacraft:darksand>, <item:sakura:stone_hammer>.anyDamage() | <item:sakura:iron_hammer>.anyDamage() | <item:sakura:sakura_hammer>.anyDamage()]
+        [<item:contenttweaker:dark_sand_tile>, <item:contenttweaker:dark_sand_tile>, <item:contenttweaker:dark_sand_tile>],
+        [<item:contenttweaker:dark_sand_tile>, null, <item:contenttweaker:dark_sand_tile>],
+        [<item:minecraft:cobblestone>, <item:minecraft:cobblestone>, <item:sakura:stone_hammer>.anyDamage() | <item:sakura:iron_hammer>.anyDamage() | <item:sakura:sakura_hammer>.anyDamage()]
     ],
     null,
     function (out, info, player)
@@ -360,11 +360,10 @@ recipes.addShaped("craft_coal_sand_extra", <item:bloodmagic:component:21> * 4,
     ]);
 
 recipes.remove(<item:minecraft:chest>);
-recipes.remove(<item:minecraft:chest> * 4);
 recipes.addShaped("craft_chest_extra", <item:minecraft:chest>,
     [
         [<ore:logWood>, <ore:logWood>, <ore:logWood>],
-        [<item:contenttweaker:hardened_sand_ingot> * 9, <item:creepypastacraft:darksand>, <item:contenttweaker:hardened_sand_ingot> * 9],
+        [<item:contenttweaker:dark_sand_tile>, null, <item:contenttweaker:dark_sand_tile>],
         [<ore:logWood>, <ore:logWood>, <item:sakura:stone_hammer>.anyDamage() | <item:sakura:iron_hammer>.anyDamage() | <item:sakura:sakura_hammer>.anyDamage()]
     ],
     null,
@@ -382,9 +381,4 @@ recipes.addShaped("craft_chest_extra_ultra", <item:minecraft:chest>,
         [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>],
         [<ore:plankWood>, <item:minecraft:iron_ingot>, <ore:plankWood>],
         [<ore:logWood>, <ore:logWood>, <ore:logWood>]
-    ]);
-
-recipes.addShaped("test_recipe", <item:minecraft:apple>, 
-    [
-        [<item:minecraft:iron_ingot> * 5, <item:minecraft:dirt>]
     ]);

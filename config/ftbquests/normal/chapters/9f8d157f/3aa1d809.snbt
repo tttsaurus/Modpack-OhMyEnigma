@@ -1,16 +1,15 @@
 {
-	x: -7.5d,
+	x: -10.5d,
 	y: -9.0d,
 	shape: "square",
 	dependencies: [
-		"3fd71b97",
-		"3aa1d809"
+		"950bf527"
 	],
 	tasks: [{
-		uid: "848acce8",
+		uid: "bd29eeed",
 		type: "item",
 		items: [{
-			item: "minecraft:chest"
+			item: "contenttweaker:dark_sand_tile"
 		}]
 	}]
 }

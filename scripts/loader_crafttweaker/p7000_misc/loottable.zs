@@ -3,6 +3,20 @@ import loottweaker.LootTweaker;
 import mods.ltt.LootTable;
 import crafttweaker.event.EntityLivingDeathDropsEvent;
 
+LootTable.removeModItem("endercore");
+LootTable.removeModItem("enderio");
+LootTable.removeModItem("enderiobase");
+LootTable.removeModItem("enderioconduits");
+LootTable.removeModItem("enderiopowertools");
+LootTable.removeModItem("enderioconduitsappliedenergistics");
+LootTable.removeModItem("enderioconduitsopencomputers");
+LootTable.removeModItem("enderioconduitsrefinedstorage");
+LootTable.removeModItem("enderiointegrationforestry");
+LootTable.removeModItem("enderiointegrationtic");
+LootTable.removeModItem("enderiointegrationticlate");
+LootTable.removeModItem("enderioinvpanel");
+LootTable.removeModItem("enderiomachines");
+
 LootTable.removeModTable("endercore");
 LootTable.removeModTable("enderio");
 LootTable.removeModTable("enderiobase");
