@@ -55,3 +55,27 @@ FITweaker.addRecipe(<liquid:hot_mud>, <liquid:lava>, FITweaker.outputBuilder()
             .setParticle("explode")
             .setSound("minecraft:block.fire.extinguish")
             .addCondition(Condition.byChance, [0.05f])));
+
+FITweaker.addRecipe(<liquid:lava>, <blockstate:minecraft:bedrock>, FITweaker.outputBuilder()
+    .addEvent(
+        FITweaker.eventBuilder().createSpawnEntityItemEvent(<item:enderio:item_material:20>, 1)
+            .setParticle("explode")
+            .setSound("minecraft:block.fire.extinguish"))
+    .addEvent(
+        FITweaker.eventBuilder().createSetBlockEvent(<blockstate:minecraft:air>)));
+
+FITweaker.addRecipe(<liquid:lava>, <blockstate:taiga:eezo_ore>, FITweaker.outputBuilder()
+    .addEvent(
+        FITweaker.eventBuilder().createSpawnEntityItemEvent(<item:enderio:item_material:20>, 1)
+            .setParticle("explode")
+            .setSound("minecraft:block.fire.extinguish"))
+    .addEvent(
+        FITweaker.eventBuilder().createSetBlockEvent(<blockstate:minecraft:air>)));
+
+FITweaker.addRecipe(<liquid:lava>, <blockstate:contenttweaker:hardened_sand_tile>, FITweaker.outputBuilder()
+    .addEvent(
+        FITweaker.eventBuilder().createSpawnEntityItemEvent(<item:enderio:item_material:20>, 1)
+            .setParticle("explode")
+            .setSound("minecraft:block.fire.extinguish"))
+    .addEvent(
+        FITweaker.eventBuilder().createSetBlockEvent(<blockstate:minecraft:air>)));

@@ -104,6 +104,7 @@ tile.contenttweaker.momen_tofu_block.name=Momen Tofu Block
 tile.contenttweaker.hard_tofu_block.name=Hard Tofu Block
 tile.contenttweaker.halide_salt.name=Halide Salt
 tile.contenttweaker.dark_sand_tile.name=Dark Sand Tile
+tile.contenttweaker.hardened_sand_tile.name=§dHardened Sand Tile
 
 #Casing
 tile.contenttweaker.casing_dragon.name=§dDragon Casing

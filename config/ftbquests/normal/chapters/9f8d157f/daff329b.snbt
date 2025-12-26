@@ -5,9 +5,6 @@
 	text: [
 		"{mpq.str214}"
 	],
-	dependencies: [
-		"a9712b3c"
-	],
 	tasks: [{
 		uid: "1fe69fa7",
 		type: "item",

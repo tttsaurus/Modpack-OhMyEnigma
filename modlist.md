@@ -1,4 +1,4 @@
-List of Mods (181):
+List of Mods (186):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -56,7 +56,7 @@ List of Mods (181):
 - **[Enchanting Tweaks](https://minecraft.curseforge.com/projects/enchanting-tweaks)**: enchanting_tweaks-1.2.1.jar
 - **[EnderCore](http://enderio.com)**: EnderCore-1.12.2-0.5.78.jar
 - **[Ender IO](http://enderio.com)**: EnderIO-1.12.2-5.3.72.jar
-- **[Ender's Modpack Tweaks](https://github.com/Ender-Development/EnderModpackTweaks)**: endermodpacktweaks-0.5.10.jar
+- **[Ender's Modpack Tweaks](https://github.com/Ender-Development/EnderModpackTweaks)**: endermodpacktweaks-0.5.11.jar
 - **EnderTweaker**: EnderTweaker-1.12.2-1.2.3.jar
 - **[Environmental Tech](http://minecraft.curseforge.com/projects/environmental-tech)**: environmentaltech-1.12.2-2.0.20.1.jar
 - extendedcrafting-nomifactory-edition-1.7.0.7.jar
@@ -71,6 +71,7 @@ List of Mods (181):
 - **Foregoing RubberTrees**: foregoing-rubbertrees-1.0.3.jar
 - **[Forestry](http://forestry.sengir.net/)**: forestry_1.12.2-5.8.2.425.jar
 - **[Forgelin-Continuous](https://github.com/ChAoSUnItY/Forgelin-Continuous)**: Forgelin-Continuous-2.1.21.0.jar
+- **[Forge Multipart CBE](https://github.com/Chicken-Bones/ForgeMultipart)**: ForgeMultipart-1.12.2-2.6.2.83-universal.jar
 - **[Fossils and Archeology Revival](https://minecraft.curseforge.com/projects/fossils)**: fossilsarcheology-8.0.6.jar
 - **[FPS Reducer](https://minecraft.curseforge.com/projects/fps-reducer)**: FpsReducer-mc1.12.2-1.20.jar
 - **[FTB Library](http://minecraft.curseforge.com/projects/ftblib)**: FTBLib-5.4.7.2.jar
@@ -121,6 +122,7 @@ List of Mods (181):
 - **ModularUI**: modularui-2.4.3.jar
 - **[Refined Storage](https://refinedstorage.raoulvdberge.com)**: morerefinedstorage-2.3.2.jar
 - **[Mouse Tweaks Unofficial](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial)**: mousetweaks-1.12.2-3.1.5.jar
+- **[MrTJPCore](...)**: MrTJPCore-1.12.2-2.1.4.43-universal.jar
 - **MTLib**: MTLib-3.0.7.jar
 - **[Nature's Compass](https://minecraft.curseforge.com/projects/natures-compass)**: NaturesCompass-1.12.2-1.8.5.jar
 - **NeverEnoughAnimations**: neverenoughanimations-1.0.5.jar
@@ -137,6 +139,10 @@ List of Mods (181):
 - **Personal Worlds**: personalworlds-1.12.2-1.0.3.jar
 - **Placebo**: Placebo-1.12.2-1.6.1.jar
 - **ProbeZS**: ProbeZS-1.18.7.jar
+- **[ProjectRed Core](http://projectredwiki.com)**: ProjectRed-1.12.2-4.9.4.120-Base.jar
+- **ProjectRed Compatibility**: ProjectRed-1.12.2-4.9.4.120-compat.jar
+- **ProjectRed Fabrication**: ProjectRed-1.12.2-4.9.4.120-fabrication.jar
+- **ProjectRed Transmission**: ProjectRed-1.12.2-4.9.4.120-integration.jar
 - **RandomTweaker**: RandomTweaker-1.4.8.jar
 - **[ReBind](https://minecraft.curseforge.com/projects/rebind)**: rebind-1.12.2-2.7.5-0.jar
 - **RecipeStages**: RecipeStages-1.1.3.8.jar
@@ -179,4 +185,3 @@ List of Mods (181):
 - **ZenTraits**: zentraits-1.1.jar
 - **ZenUtils**: zenutils-1.21.11.jar
 - **[ZenToast](https://github.com/MARYT-Studio/ZenToast)**: zen_toast-1.1-hotfix.jar
-- _MixinBootstrap-1.1.0.jar

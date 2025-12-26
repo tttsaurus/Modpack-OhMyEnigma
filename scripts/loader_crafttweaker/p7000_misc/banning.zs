@@ -479,7 +479,9 @@ var banned_categories = [
     "Painter",
     "teastory.cookingpan",
     "minecraft.anvil",
-    "abyssalcraft.upgrade"
+    "abyssalcraft.upgrade",
+    "jeresources.dungeon",
+    "jeresources.villager"
     ] as string[];
 
 for category in banned_categories

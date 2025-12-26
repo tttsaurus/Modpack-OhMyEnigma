@@ -1,0 +1,19 @@
+{
+	x: -11.5d,
+	y: -9.0d,
+	shape: "rsquare",
+	text: [
+		"{mpq.str223}"
+	],
+	dependencies: [
+		"3aa1d809"
+	],
+	optional: 1b,
+	tasks: [{
+		uid: "438427ab",
+		type: "item",
+		items: [{
+			item: "contenttweaker:hardened_sand_tile"
+		}]
+	}]
+}

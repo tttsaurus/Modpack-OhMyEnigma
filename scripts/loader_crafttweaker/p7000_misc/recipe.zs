@@ -382,3 +382,20 @@ recipes.addShaped("craft_chest_extra_ultra", <item:minecraft:chest>,
         [<ore:plankWood>, <item:minecraft:iron_ingot>, <ore:plankWood>],
         [<ore:logWood>, <ore:logWood>, <ore:logWood>]
     ]);
+
+recipes.removeByRecipeName("sakura:iron_ingot");
+recipes.addShaped("craft_iron_ingot_extra", <item:minecraft:iron_ingot> * 2,
+    [
+        [<item:sakura:materials:54>, <item:sakura:materials:54>],
+        [null, <item:sakura:stone_hammer>.anyDamage() | <item:sakura:iron_hammer>.anyDamage() | <item:sakura:sakura_hammer>.anyDamage()]
+    ],
+    null,
+    function (out, info, player)
+    {
+        var item as IItemStack = info.inventory.getStack(1, 1);
+        var mutableItem as IMutableItemStack = item.mutable();
+        if (item.damage + 5 >= item.maxDamage)
+            info.inventory.setStack(1, 1, mutableItem.copy().withDamage(item.maxDamage));
+        else
+            info.inventory.setStack(1, 1, mutableItem.copy().withDamage(item.damage + 5));
+    });

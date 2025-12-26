@@ -26,3 +26,15 @@ recipes.addShaped("craft_dark_sand_tile", <item:contenttweaker:dark_sand_tile>,
         else
             info.inventory.setStack(2, 2, mutableItem.copy().withDamage(item.damage + 14));
     });
+
+recipes.addShaped("craft_hardened_sand_tile", <item:contenttweaker:hardened_sand_tile>,
+    [
+        [<item:contenttweaker:hardened_sand_ingot>, <item:contenttweaker:ovium_crystal_shard>, <item:contenttweaker:hardened_sand_ingot>],
+        [<item:contenttweaker:jauxum_crystal_shard>, <item:enderio:block_infinity>, <item:contenttweaker:karmesine_crystal_shard>],
+        [<item:contenttweaker:hardened_sand_ingot>, <item:contenttweaker:dark_sand_tile>, <item:contenttweaker:hardened_sand_ingot>]
+    ]);
+
+recipes.addShaped("craft_hardened_sand_tile_extra", <item:contenttweaker:hardened_sand_tile> * 4,
+    [
+        [<item:contenttweaker:hardened_sand_tile>],
+    ]);

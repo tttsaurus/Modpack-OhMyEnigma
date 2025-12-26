@@ -74,3 +74,12 @@ b8.toolLevel = 1;
 b8.blockSoundType = <soundtype:metal>;
 b8.witherProof = false;
 b8.register();
+
+var b9 as Block = VanillaFactory.createBlock("hardened_sand_tile", <blockmaterial:rock>);
+b9.blockHardness = 12.0f;
+b9.blockResistance = 1300.0f;
+b9.toolClass = "pickaxe";
+b9.toolLevel = 1;
+b9.blockSoundType = <soundtype:metal>;
+b9.witherProof = true;
+b9.register();
