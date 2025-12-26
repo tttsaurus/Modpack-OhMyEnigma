@@ -286,10 +286,10 @@
     "modId": "enderio",
     "version": "5.3.72"
   },
-  "endermodpacktweaks-0.5.10.jar": {
-    "jarName": "endermodpacktweaks-0.5.10.jar",
+  "endermodpacktweaks-0.5.11.jar": {
+    "jarName": "endermodpacktweaks-0.5.11.jar",
     "modId": "endermodpacktweaks",
-    "version": "0.5.10"
+    "version": "0.5.11"
   },
   "EnderTweaker-1.12.2-1.2.3.jar": {
     "jarName": "EnderTweaker-1.12.2-1.2.3.jar",
@@ -359,6 +359,11 @@
     "modId": "forgelin_continuous",
     "version": "2.1.20.0"
   },
+  "ForgeMultipart-1.12.2-2.6.2.83-universal.jar": {
+    "jarName": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+    "modId": "forgemultipartcbe",
+    "version": "2.6.2.83"
+  },
   "fossilsarcheology-8.0.6.jar": {
     "jarName": "fossilsarcheology-8.0.6.jar",
     "modId": "fossil",
@@ -424,10 +429,10 @@
     "modId": "gunpowderlib",
     "version": "1.12.2-1.1"
   },
-  "HadEnoughItems_1.12.2-4.28.0.jar": {
-    "jarName": "HadEnoughItems_1.12.2-4.28.0.jar",
+  "HadEnoughItems_1.12.2-4.29.13.jar": {
+    "jarName": "HadEnoughItems_1.12.2-4.29.13.jar",
     "modId": "jei",
-    "version": "4.27.3"
+    "version": "4.29.13"
   },
   "hecharacters-1.12.2-1.4.1.jar": {
     "jarName": "hecharacters-1.12.2-1.4.1.jar",
@@ -494,10 +499,10 @@
     "modId": "jecharacters",
     "version": "1.12.0-3.7.2"
   },
-  "JEI-Utilities-1.12.2-0.2.12.jar": {
-    "jarName": "JEI-Utilities-1.12.2-0.2.12.jar",
+  "JEI-Utilities-1.12.2-0.2.13.jar": {
+    "jarName": "JEI-Utilities-1.12.2-0.2.13.jar",
     "modId": "jeiutilities",
-    "version": "0.2.11"
+    "version": "0.2.13"
   },
   "jei_area_fixer-1.6.0.jar": {
     "jarName": "jei_area_fixer-1.6.0.jar",
@@ -575,6 +580,11 @@
     "modId": "mm_lib",
     "version": "2.3.0"
   },
+  "MmmMmmMmmMmm-1.12-1.14.jar": {
+    "jarName": "MmmMmmMmmMmm-1.12-1.14.jar",
+    "modId": "testdummy",
+    "version": "1.12-1.14"
+  },
   "modtweaker-4.0.20.11.jar": {
     "jarName": "modtweaker-4.0.20.11.jar",
     "modId": "modtweaker",
@@ -599,6 +609,11 @@
     "jarName": "mousetweaks-1.12.2-3.1.5.jar",
     "modId": "mousetweaks",
     "version": "3.1.5"
+  },
+  "MrTJPCore-1.12.2-2.1.4.43-universal.jar": {
+    "jarName": "MrTJPCore-1.12.2-2.1.4.43-universal.jar",
+    "modId": "mrtjpcore",
+    "version": "2.1.4.43"
   },
   "MTLib-3.0.7.jar": {
     "jarName": "MTLib-3.0.7.jar",
@@ -640,10 +655,10 @@
     "modId": "extra_slabs",
     "version": "1.0.0"
   },
-  "ometweaks-1.5.4.jar": {
-    "jarName": "ometweaks-1.5.4.jar",
+  "ometweaks-1.5.5.jar": {
+    "jarName": "ometweaks-1.5.5.jar",
     "modId": "ometweaks",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   "Ore Visual Detector-2.0.2.jar": {
     "jarName": "Ore Visual Detector-2.0.2.jar",
@@ -679,6 +694,26 @@
     "jarName": "ProbeZS-1.18.7.jar",
     "modId": "probezs",
     "version": "1.18.7"
+  },
+  "ProjectRed-1.12.2-4.9.4.120-Base.jar": {
+    "jarName": "ProjectRed-1.12.2-4.9.4.120-Base.jar",
+    "modId": "projectred-core",
+    "version": "4.9.4.120"
+  },
+  "ProjectRed-1.12.2-4.9.4.120-compat.jar": {
+    "jarName": "ProjectRed-1.12.2-4.9.4.120-compat.jar",
+    "modId": "projectred-compatibility",
+    "version": "4.9.4.120"
+  },
+  "ProjectRed-1.12.2-4.9.4.120-fabrication.jar": {
+    "jarName": "ProjectRed-1.12.2-4.9.4.120-fabrication.jar",
+    "modId": "projectred-fabrication",
+    "version": "4.9.4.120"
+  },
+  "ProjectRed-1.12.2-4.9.4.120-integration.jar": {
+    "jarName": "ProjectRed-1.12.2-4.9.4.120-integration.jar",
+    "modId": "projectred-transmission",
+    "version": "4.9.4.120"
   },
   "RandomTweaker-1.4.8.jar": {
     "jarName": "RandomTweaker-1.4.8.jar",

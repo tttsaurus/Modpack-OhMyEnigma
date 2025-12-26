@@ -1,4 +1,4 @@
-List of Mods (180):
+List of Mods (181):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -84,7 +84,7 @@ List of Mods (180):
 - **[Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)**: gnetum-1.2.6.jar
 - **Guide-API**: Guide-API-1.12-2.1.8-63.jar
 - **[GunpowderLib](https://github.com/JackyyTV/GunpowderLib)**: GunpowderLib-1.12.2-1.1.jar
-- **[Had Enough Items](https://github.com/CleanroomMC/HadEnoughItems)**: HadEnoughItems_1.12.2-4.28.0.jar
+- **[Had Enough Items](https://github.com/CleanroomMC/HadEnoughItems)**: HadEnoughItems_1.12.2-4.29.13.jar
 - **Had Enough Characters**: hecharacters-1.12.2-1.4.1.jar
 - **[IFPatcher](https://www.curseforge.com/minecraft/mc-mods/ifpatcher)**: IFPatcher-2.4.0.jar
 - **[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)**: industrialforegoing-1.12.2-1.12.13-237.jar
@@ -98,7 +98,7 @@ List of Mods (180):
 - **InWorldCrafting**: inworldcrafting-1.12.2-1.2.0-universal.jar
 - **[Item Filters](http://minecraft.curseforge.com/projects/item-filters)**: ItemFilters-1.0.4.2.jar
 - **Just Enough Characters**: jecharacters-1.12.0-3.7.2.jar
-- **JEI Utilities**: JEI-Utilities-1.12.2-0.2.12.jar
+- **JEI Utilities**: JEI-Utilities-1.12.2-0.2.13.jar
 - **[JEI Bees](http://bdew.net/)**: jeibees-0.9.0.5-mc1.12.2.jar
 - jei_area_fixer-1.6.0.jar
 - **[Just Enough Calculation](https://github.com/Towdium/JustEnoughCalculation)**: JustEnoughCalculation-1.12.2-3.2.7.jar
@@ -115,6 +115,7 @@ List of Mods (180):
 - MCTSmelteryIO-1.12.2-1.2.63.jar
 - minieffects-2.3.2.jar
 - **Mysterious Mountain Lib**: MMLib-2.3.0.jar
+- **MmmMmmMmmMmm**: MmmMmmMmmMmm-1.12-1.14.jar
 - **[Mod Tweaker](https://minecraft.curseforge.com/projects/ModTweaker)**: modtweaker-4.0.20.11.jar
 - **[Modular Machinery: Community Edition](https://www.curseforge.com/minecraft/mc-mods/modularmachinery-community-edition)**: ModularMachinery-CE-2.0.3.jar
 - **ModularUI**: modularui-2.4.3.jar
@@ -128,7 +129,7 @@ List of Mods (180):
 - **NonConflictKeys**: NonConflictKeys-Forge-1.12.2-1.0.0.jar
 - **[Nothirium](https://github.com/Meldexun/Nothirium)**: Nothirium-1.12.2-0.4.7-beta.jar
 - **[Extra Slabs](https://mcreator.net)**: ObsidianSlabs.jar
-- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.4.jar
+- **[OME-Tweaks](https://github.com/tttsaurus/OME-Tweaks)**: ometweaks-1.5.5.jar
 - **Ore Visual Detector**: Ore Visual Detector-2.0.2.jar
 - **OreExcavation**: OreExcavation-1.4.150.jar
 - **[Overloaded Armor Bar](https://github.com/Tfarcenim/OverpoweredArmorBar)**: overloadedarmorbar-1.0.4g.jar

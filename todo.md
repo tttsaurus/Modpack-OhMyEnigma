@@ -4,6 +4,8 @@
   - gamestage localization `emt.game_stages.<stage_name>`
 - fix telepastries cakes must have a base block to exist ✔
 - fix crafting table recipes not able to accept stacked items
+- integrate project red
+- refactor utilities & automation misc tab
 
 ## HBM
 - fix `moon.moon` ruin

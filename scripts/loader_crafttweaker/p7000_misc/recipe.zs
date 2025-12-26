@@ -151,11 +151,11 @@ recipes.addShapedMirrored("craft_stone_torch_extra_2", <item:tconstruct:stone_to
         [null, <item:abyssalcraft:charcoal>],
         [null, <ore:rodStone>]
     ]);
-recipes.addShapedMirrored("craft_stone_torch_extra_3", <item:tconstruct:stone_torch> * 3, 
-    [
-        [null, <ore:gemLignite>],
-        [null, <ore:rodStone>]
-    ]);
+// recipes.addShapedMirrored("craft_stone_torch_extra_3", <item:tconstruct:stone_torch> * 3, 
+//     [
+//         [null, <ore:gemLignite>],
+//         [null, <ore:rodStone>]
+//     ]);
 // recipes.addShapedMirrored("craft_stone_torch_extra_4", <item:tconstruct:stone_torch> * 6, 
 //     [
 //         [null, <item:hbm:briquette_lignite>],

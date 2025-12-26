@@ -3,5 +3,16 @@
 	icon: "minecraft:comparator",
 	always_invisible: 0b,
 	group: 0,
-	default_quest_shape: ""
+	default_quest_shape: "",
+	images: [{
+		x: -2.5d,
+		y: -5.0d,
+		width: 10.6d,
+		height: 2.0d,
+		rotation: 0.0d,
+		image: "modpackquest:textures/chapter1.png",
+		hover: [],
+		click: "",
+		dev: 0b
+	}]
 }
