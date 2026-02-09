@@ -1,13 +1,18 @@
 {
-  "cleanroom-0.3.7-alpha-universal.jar (modloader)": {
-    "jarName": "cleanroom-0.3.7-alpha-universal.jar (modloader)",
+  "cleanroom-0.4.2-alpha.jar (modloader)": {
+    "jarName": "cleanroom-0.4.2-alpha.jar (modloader)",
     "modId": "forge",
-    "version": "cleanroom-0.3.7-alpha-universal.jar"
+    "version": "cleanroom-0.4.2-alpha.jar"
   },
   "!!!CrashAssistant-forge-1.12.2-1.9.15.jar": {
     "jarName": "!!!CrashAssistant-forge-1.12.2-1.9.15.jar",
     "modId": "crash_assistant",
     "version": "1.9.15"
+  },
+  "!cleanroom-relauncher-0.3.2.jar": {
+    "jarName": "!cleanroom-relauncher-0.3.2.jar",
+    "modId": "cleanroom-relauncher",
+    "version": "0.1.3"
   },
   "!configanytime-3.0.jar": {
     "jarName": "!configanytime-3.0.jar",
@@ -24,10 +29,10 @@
     "modId": "redcore",
     "version": "0.6"
   },
-  "+Fugue-0.19.5.jar": {
-    "jarName": "+Fugue-0.19.5.jar",
+  "+Fugue-0.23.0.jar": {
+    "jarName": "+Fugue-0.23.0.jar",
     "modId": "fugue",
-    "version": "0.19.5"
+    "version": "0.23.0"
   },
   "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
     "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
@@ -129,11 +134,6 @@
     "jarName": "Bubbles-2.4.9.jar",
     "modId": "baubles",
     "version": "2.4.9"
-  },
-  "censoredasm5.28.jar": {
-    "jarName": "censoredasm5.28.jar",
-    "modId": "loliasm",
-    "version": "5.28"
   },
   "Chameleon-1.12-4.1.3.jar": {
     "jarName": "Chameleon-1.12-4.1.3.jar",
@@ -551,6 +551,11 @@
     "modId": "llibrary",
     "version": "1.7.20-1.12.2"
   },
+  "loliasm-5.30.jar": {
+    "jarName": "loliasm-5.30.jar",
+    "modId": "loliasm",
+    "version": "5.30"
+  },
   "LootTableTweaker-1.12.2-1.1.17.jar": {
     "jarName": "LootTableTweaker-1.12.2-1.1.17.jar"
   },
@@ -784,8 +789,8 @@
     "modId": "sakura",
     "version": "1.0.7-1.12.2"
   },
-  "scalar-1.0.0.jar": {
-    "jarName": "scalar-1.0.0.jar",
+  "Scalar Legacy-1.0.1.jar": {
+    "jarName": "Scalar Legacy-1.0.1.jar",
     "modId": "scalar",
     "version": "1.0.0"
   },

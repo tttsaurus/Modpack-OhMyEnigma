@@ -20,7 +20,6 @@ key.fullscreen
 key.spectatorOutlines
 key.saveToolbarActivator
 key.loadToolbarActivator
-key.advancements
 key.hotbar.1
 key.hotbar.2
 key.hotbar.3
@@ -74,7 +73,6 @@ bbw.key.mode
 bbw.key.fluidmode
 key.toggleLiquids
 key.toggleVisible
-key.cofh.multimode
 key.refinedstorage.focusSearchBar
 key.refinedstorage.clearGridCraftingMatrix
 key.refinedstorage.openWirelessGrid
@@ -97,7 +95,6 @@ jecalculation.key.gui_math
 key.quit
 key.hideHUD
 key.debugScreen
-key.switchShader
 key.narrator
 key.retro_sophisticated_backpacks_open_backpack_desc
 key.sakura.sheath_in
@@ -132,31 +129,6 @@ gui.xaero_toggle_manual_cave_mode
 gui.xaero_alternative_list_players
 gui.xaero_toggle_tracked_players_on_map
 gui.xaero_toggle_tracked_players_in_world
-Save/Load NewChunks to Disk
-Switch to Overworld
-Baritone Goal Waypoint
-Switch to End
-Always Render Player Icon
-Nether Cave Fix
-Always Render Player Name
-Show Render Distance WorldMap
-Waystones Waypoint Sync
-null OW Dim Dir
-Persist Dim Switch
-Transparent Background
-Show Render Distance
-Show Waypoint Distances
-Skip Background Render
-Fast Mapping
-Portal Highlights
-WDL Highlight
-Fix Main Entity Dot
-Waystones Dimension Sync
-Transparent Obsidian Roof
-Switch to Nether
-Waypoint Beacons
-NewChunks Highlighting
-PortalSkip Detection
 bogosort.key.move_all_same
 bogosort.key.move_all
 bogosort.key.move_single

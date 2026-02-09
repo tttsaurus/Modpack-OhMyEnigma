@@ -1,9 +1,10 @@
-List of Mods (190):
+List of Mods (191):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
+- **Cleanroom Relauncher**: !cleanroom-relauncher-0.3.2.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
 - **[Red Core](https://www.curseforge.com/minecraft/mc-mods/red-core)**: !Red-Core-MC-1.8-1.12-0.6.jar
-- **[Fugue](https://github.com/CleanroomMC/Fugue)**: +Fugue-0.19.5.jar
+- **[Fugue](https://github.com/CleanroomMC/Fugue)**: +Fugue-0.23.0.jar
 - **[AbyssalCraft Integration](http://minecraft.curseforge.com/mc-mods/234851)**: AbyssalCraft Integration-1.12.2-1.11.3.jar
 - **[AbyssalCraft](https://shinoow.github.io/AbyssalCraft/)**: AbyssalCraft-1.12.2-1.10.6.jar
 - **[Alfheim](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)**: Alfheim-1.5.jar
@@ -24,7 +25,6 @@ List of Mods (190):
 - **Inventory Bogo Sorter**: bogosorter-1.6.1.jar
 - **[Bookshelf](http://minecraft.curseforge.com/projects/bookshelf)**: Bookshelf-1.12.2-2.3.590.jar
 - **[Bubbles](https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork)**: Bubbles-2.4.9.jar
-- **[LoliASM](https://github.com/LoliKingdom/LoliASM)**: censoredasm5.28.jar
 - **[Chameleon](http://www.jaquadro.com/)**: Chameleon-1.12-4.1.3.jar
 - **[ChickenChunks](http://www.minecraftforum.net/topic/909223)**: ChickenChunks-1.12.2-2.4.2.74-universal.jar
 - **Click Machine**: ClickMachine-1.12.2-1.2.0.jar
@@ -109,6 +109,7 @@ List of Mods (190):
 - **[LemonSkin](https://github.com/myxazaur/LemonSkin)**: lemonskin-3.1.0.jar
 - **libnine**: libnine-1.12.2-1.2.1.jar
 - **[LLibrary](https://github.com/iLexiconn/LLibrary)**: llibrary-1.7.20-1.12.2.jar
+- **[LoliASM](https://github.com/LoliKingdom/LoliASM)**: loliasm-5.30.jar
 - LootTableTweaker-1.12.2-1.1.17.jar
 - **LootTweaker**: LootTweaker-0.4.1+MC1.12.2.jar
 - **[Mantle](https://github.com/SlimeKnights/Mantle)**: Mantle-1.12-1.3.3.55.jar
@@ -157,7 +158,7 @@ List of Mods (190):
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
-- **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: scalar-1.0.0.jar
+- **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: Scalar Legacy-1.0.1.jar
 - **SCP: Lockdown**: SCP Lockdown-1.12.2-2.4.3-release.jar
 - **[Sledgehammer](https://lxgaming.github.io/)**: Sledgehammer-1.12.2-2.0.26.jar
 - **[Smooth Font](https://minecraft.curseforge.com/projects/smooth-font)**: SmoothFont-mc1.12.2-2.1.4.jar

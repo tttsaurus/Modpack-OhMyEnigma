@@ -7,7 +7,6 @@ key_key.right:32:NONE
 key_key.jump:57:NONE
 key_key.sneak:42:NONE
 key_key.sprint:29:NONE
-key_key.drop:16:NONE
 key_key.inventory:18:NONE
 key_key.chat:20:NONE
 key_key.playerlist:15:NONE
@@ -18,7 +17,6 @@ key_key.togglePerspective:63:NONE
 key_key.smoothCamera:0:NONE
 key_key.fullscreen:87:NONE
 key_key.spectatorOutlines:0:NONE
-key_key.drop:16:NONE
 key_key.saveToolbarActivator:0:NONE
 key_key.loadToolbarActivator:0:NONE
 key_key.hotbar.1:2:NONE
@@ -130,37 +128,6 @@ key_gui.xaero_toggle_manual_cave_mode:0:NONE
 key_gui.xaero_alternative_list_players:0:NONE
 key_gui.xaero_toggle_tracked_players_on_map:0:NONE
 key_gui.xaero_toggle_tracked_players_in_world:0:NONE
-key_Save/Load NewChunks to Disk:0:NONE
-key_Switch to Overworld:0:NONE
-key_Baritone Goal Waypoint:0:NONE
-key_Switch to End:0:NONE
-key_Always Render Player Icon:0:NONE
-key_Nether Cave Fix:0:NONE
-key_Always Render Player Name:0:NONE
-key_Show Render Distance WorldMap:0:NONE
-key_Waystones Waypoint Sync:0:NONE
-key_null OW Dim Dir:0:NONE
-key_Persist Dim Switch:0:NONE
-key_Transparent Background:0:NONE
-key_Show Render Distance:0:NONE
-key_Show Waypoint Distances:0:NONE
-key_Skip Background Render:0:NONE
-key_Fast Mapping:0:NONE
-key_Portal Highlights:0:NONE
-key_WDL Highlight:0:NONE
-key_Fix Main Entity Dot:0:NONE
-key_Waystones Dimension Sync:0:NONE
-key_Transparent Obsidian Roof:0:NONE
-key_Switch to Nether:0:NONE
-key_Waypoint Beacons:0:NONE
-key_NewChunks Highlighting:0:NONE
-key_PortalSkip Detection:0:NONE
-key_bogosort.key.move_all_same:0:NONE
-key_bogosort.key.move_all:0:NONE
-key_bogosort.key.move_single:0:NONE
-key_bogosort.key.move_single_empty:0:NONE
-key_bogosort.key.throw_all_same:0:NONE
-key_bogosort.key.throw_all:0:NONE
 key_bogosort.key.sort_config:0:NONE
 key_bogosort.key.sort:0:NONE
 key_bogosort.key.lock_slot:0:NONE
@@ -185,6 +152,5 @@ key_enderio.keybind.fovplus:0:NONE
 key_enderio.keybind.fovminus:0:NONE
 key_enderio.keybind.fovplusfast:0:NONE
 key_enderio.keybind.fovminusfast:0:NONE
-key_key.swapHands:33:NONE
 key_key.swapHands:33:NONE
 key_key.drop:16:NONE

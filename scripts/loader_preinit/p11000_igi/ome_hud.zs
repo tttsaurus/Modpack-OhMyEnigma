@@ -35,7 +35,7 @@ ViewModel.setStartAction(function(this0)
         var total = CU.toInt(totalMemoryInBytes / 1024 / 1024);
         
         memoryBarPerc.set(CU.toFloat(used) / CU.toFloat(total));
-        memoryText.set(CU.alignStringToRight(CU.toString(used), 5) ~ " / " ~ CU.toString(total) ~ " MB");
+        memoryText.set(CU.alignStringToRight(CU.toString(used), 4) ~ " / " ~ CU.toString(total) ~ " MB");
     });
 });
 

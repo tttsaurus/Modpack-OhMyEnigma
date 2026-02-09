@@ -9,7 +9,7 @@
     <Separator color = #6abe30>
     <HorizontalGroup enabled = false>
         <Text text = "Memory: ">
-        <ProgressBar uid = "memoryBar" width = 40 height = 3 alignment = CENTER pivot = CENTER padding = {"right": 5}>
+        <ProgressBar uid = "memoryBar" width = 40 height = 3 alignment = CENTER pivot = CENTER padding = {"right": 2}>
         <Text uid = "memory">
     </Group>
     <Separator color = #6abe30 enabled = false>

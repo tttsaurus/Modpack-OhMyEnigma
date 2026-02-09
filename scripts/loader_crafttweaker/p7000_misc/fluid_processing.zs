@@ -66,7 +66,7 @@ recipes.remove(<ore:blockBoundMetal>);
 recipes.remove(<ore:blockSteel>);
 recipes.remove(<ore:blockNiobium>);
 
-//casts
+// casts
 Casting.removeTableRecipe(<item:tconstruct:cast_custom:3>);
 
 Casting.addTableRecipe(<item:tconstruct:cast_custom:1>, <item:extendedcrafting:material:128>, <liquid:gold>, 288, true, 60);
@@ -121,7 +121,10 @@ Melting.removeRecipe(<liquid:tin>, <item:forestry:resource_storage:2>);
 Melting.addRecipe(<liquid:tin> * 1296, <item:forestry:resource_storage:2>, 350);
 */
 
-//melting supplements
+// melting fix
+Melting.removeRecipe(<liquid:essence_metal>, <item:sakura:foodset:131>);
+
+// melting supplements
 Melting.addRecipe(<liquid:iron> * 144, <item:sakura:iron_sand>, 590);
 
 Melting.addRecipe(<liquid:moltenabyssalnite> * 72, <item:abyssalcraft:stone:3>, 550);
@@ -136,7 +139,7 @@ Melting.addRecipe(<liquid:osram_fluid> * 288, <item:contenttweaker:sakura_osram_
 
 Melting.addRecipe(<liquid:sakura.maple_syrup> * 144, <item:sakura:materials:49>, 430);
 
-//casting supplements
+// casting supplements
 Casting.addBasinRecipe(<item:minecraft:diamond_block>, null, <liquid:diamond>, 1296);
 Casting.addBasinRecipe(<item:sakura:sakura_diamond_block>, null, <liquid:sakura_diamond>, 1296);
 Casting.addBasinRecipe(<item:scp:telekill_block>, null, <liquid:scp_unusual_ingot>, 1296);
@@ -146,7 +149,7 @@ Casting.addTableRecipe(<item:sakura:sakura_diamond>, <item:tconstruct:cast_custo
 
 Casting.addTableRecipe(<item:extendedcrafting:material:128>, <item:tconstruct:cast_custom:1>, <liquid:diamond>, 16);
 
-//dust melting
+// dust melting
 Melting.removeRecipe(<liquid:copper>, <item:contenttweaker:dust_copper>);
 Melting.addRecipe(<liquid:copper> * 144, <ore:dustCopper>, 450);
 
@@ -168,7 +171,7 @@ Melting.addRecipe(<liquid:ardite> * 144, <ore:dustArdite>, 1390);
 Melting.removeRecipe(<liquid:lead>, <item:contenttweaker:dust_lead>);
 Melting.addRecipe(<liquid:lead> * 144, <ore:dustLead>, 350);
 
-//compressed melting
+// compressed melting
 Melting.addRecipe(<liquid:gold> * 432, <ore:compressedGold>, 450);
 
 Melting.addRecipe(<liquid:steel> * 432, <ore:compressedSteel>, 520);
@@ -208,7 +211,7 @@ Melting.addRecipe(<liquid:meteorite_fluid> * 432, <ore:compressedMeteorite>, 650
 // Melting.removeRecipe(<liquid:aluminum>, <item:hbm:plate_aluminium>);
 // Melting.addRecipe(<liquid:aluminum> * 432, <ore:plateAluminium>, 340);
 
-//plates
+// plates
 Melting.removeRecipe(<liquid:essence_metal>, <item:tconevo:metal:18>);
 Melting.removeRecipe(<liquid:sentient_metal>, <item:tconevo:metal:33>);
 Melting.removeRecipe(<liquid:bound_metal>, <item:tconevo:metal:28>);
@@ -223,7 +226,7 @@ Casting.removeTableRecipe(<item:tconevo:metal:28>);
 // Casting.removeTableRecipe(<item:hbm:plate_iron>);
 // Casting.removeTableRecipe(<item:hbm:plate_aluminium>);
 
-//fluid dictionary
+// fluid dictionary
 FluidDictionary.add("seed.oil", "sakura.food_oil", 1);
 FluidDictionary.add("sakura.food_oil", "seed.oil", 1);
 
