@@ -70,6 +70,10 @@ tconevo:immortality
 tconevo:mortal_wounds
 tconevo:damage_reduction
 tconevo:damage_boost
+xaeroworldmap:no_world_map
+xaeroworldmap:no_world_map_harmful
+xaeroworldmap:no_cave_maps
+xaeroworldmap:no_cave_maps_harmful
 xaerominimap:no_minimap
 xaerominimap:no_minimap_harmful
 xaerominimap:no_entity_radar
@@ -78,10 +82,6 @@ xaerominimap:no_waypoints
 xaerominimap:no_waypoints_harmful
 xaerominimap:no_cave_maps
 xaerominimap:no_cave_maps_harmful
-xaeroworldmap:no_world_map
-xaeroworldmap:no_world_map_harmful
-xaeroworldmap:no_cave_maps
-xaeroworldmap:no_cave_maps_harmful
 scp:black_shuck_curse
 scp:sleep_deprivation
 scp:aggression

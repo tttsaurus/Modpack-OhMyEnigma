@@ -7,11 +7,12 @@
 		"0cb90336"
 	],
 	tasks: [{
-		uid: "b6362341",
+		uid: "4533953e",
 		type: "item",
 		items: [{
-			item: "baubles:ring"
+			item: "baublelicious:itembelt"
 		}],
+		ignore_damage: 1b,
 		ignore_nbt: 1b
 	}]
 }

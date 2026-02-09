@@ -29,6 +29,11 @@
     "modId": "fugue",
     "version": "0.19.5"
   },
+  "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar": {
+    "jarName": "[MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar",
+    "modId": "key_binding_patch",
+    "version": "1.3.3.3"
+  },
   "AbyssalCraft Integration-1.12.2-1.11.3.jar": {
     "jarName": "AbyssalCraft Integration-1.12.2-1.11.3.jar",
     "modId": "acintegration",
@@ -51,11 +56,6 @@
   },
   "AppleCore-mc1.12.2-3.4.0.jar": {
     "jarName": "AppleCore-mc1.12.2-3.4.0.jar"
-  },
-  "AppleSkin-mc1.12-1.0.14.jar": {
-    "jarName": "AppleSkin-mc1.12-1.0.14.jar",
-    "modId": "appleskin",
-    "version": "1.0.14"
   },
   "armoryexpansion-1.4.2.jar": {
     "jarName": "armoryexpansion-1.4.2.jar",
@@ -95,11 +95,6 @@
     "modId": "baublelicious",
     "version": "1.4.0-4"
   },
-  "Baubles-1.12-1.5.2.jar": {
-    "jarName": "Baubles-1.12-1.5.2.jar",
-    "modId": "baubles",
-    "version": "1.12-1.5.2"
-  },
   "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar": {
     "jarName": "BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar",
     "modId": "betterbuilderswands",
@@ -120,15 +115,20 @@
     "modId": "blur",
     "version": "1.0.4-14"
   },
-  "bogosorter-1.4.9.jar": {
-    "jarName": "bogosorter-1.4.9.jar",
+  "bogosorter-1.6.1.jar": {
+    "jarName": "bogosorter-1.6.1.jar",
     "modId": "bogosorter",
-    "version": "1.4.9"
+    "version": "1.6.1"
   },
   "Bookshelf-1.12.2-2.3.590.jar": {
     "jarName": "Bookshelf-1.12.2-2.3.590.jar",
     "modId": "bookshelf",
     "version": "2.3.590"
+  },
+  "Bubbles-2.4.9.jar": {
+    "jarName": "Bubbles-2.4.9.jar",
+    "modId": "baubles",
+    "version": "2.4.9"
   },
   "censoredasm5.28.jar": {
     "jarName": "censoredasm5.28.jar",
@@ -237,6 +237,11 @@
     "jarName": "dakimakuramod-1.12.2-1.5.jar",
     "modId": "dakimakuramod",
     "version": "1.12.2-1.5"
+  },
+  "DefaultOptions_1.12.2-9.2.8.jar": {
+    "jarName": "DefaultOptions_1.12.2-9.2.8.jar",
+    "modId": "defaultoptions",
+    "version": "9.2.8"
   },
   "denseneutroncollectors-1.1.jar": {
     "jarName": "denseneutroncollectors-1.1.jar",
@@ -391,10 +396,10 @@
     "modId": "futurefireproof",
     "version": "1.12.2-1.2.1"
   },
-  "Galacticraft-1.12.2-4.0.6.jar": {
-    "jarName": "Galacticraft-1.12.2-4.0.6.jar",
+  "Galacticraft-1.12.2-4.0.7.jar": {
+    "jarName": "Galacticraft-1.12.2-4.0.7.jar",
     "modId": "galacticraftcore",
-    "version": "4.0.6"
+    "version": "4.0.7"
   },
   "GalacticraftTweaker-1.12.2-1.0.3.jar": {
     "jarName": "GalacticraftTweaker-1.12.2-1.0.3.jar",
@@ -582,20 +587,30 @@
     "modId": "testdummy",
     "version": "1.12-1.14"
   },
+  "MobGrindingUtils-0.3.13.jar": {
+    "jarName": "MobGrindingUtils-0.3.13.jar",
+    "modId": "mob_grinding_utils",
+    "version": "0.3.13"
+  },
   "modtweaker-4.0.20.11.jar": {
     "jarName": "modtweaker-4.0.20.11.jar",
     "modId": "modtweaker",
     "version": "4.0.20.11"
+  },
+  "modular-routers-1.12.2-3.3.0-33.jar": {
+    "jarName": "modular-routers-1.12.2-3.3.0-33.jar",
+    "modId": "modularrouters",
+    "version": "1.12.2-3.3.0-33"
   },
   "ModularMachinery-CE-2.0.3.jar": {
     "jarName": "ModularMachinery-CE-2.0.3.jar",
     "modId": "modularmachinery",
     "version": "${version}"
   },
-  "modularui-2.4.3.jar": {
-    "jarName": "modularui-2.4.3.jar",
+  "modularui-3.1.2.jar": {
+    "jarName": "modularui-3.1.2.jar",
     "modId": "modularui",
-    "version": "2.4.3"
+    "version": "3.1.2"
   },
   "morerefinedstorage-2.3.2.jar": {
     "jarName": "morerefinedstorage-2.3.2.jar",
@@ -622,10 +637,10 @@
     "modId": "naturescompass",
     "version": "1.12.2-1.8.5"
   },
-  "neverenoughanimations-1.0.5.jar": {
-    "jarName": "neverenoughanimations-1.0.5.jar",
+  "neverenoughanimations-1.0.7.jar": {
+    "jarName": "neverenoughanimations-1.0.7.jar",
     "modId": "neverenoughanimations",
-    "version": "1.0.5"
+    "version": "1.0.7"
   },
   "NewWalls-1.12.2-1.0.0.jar": {
     "jarName": "NewWalls-1.12.2-1.0.0.jar",
@@ -742,6 +757,11 @@
     "modId": "Requious",
     "version": "0.12"
   },
+  "Retro-Sophisticated-Backpacks-1.1.1.jar": {
+    "jarName": "Retro-Sophisticated-Backpacks-1.1.1.jar",
+    "modId": "retro_sophisticated_backpacks",
+    "version": "1.1.1"
+  },
   "roidtweaker-1.0.1.jar": {
     "jarName": "roidtweaker-1.0.1.jar",
     "modId": "roidtweaker",
@@ -763,6 +783,11 @@
     "jarName": "scalar-1.0.0.jar",
     "modId": "scalar",
     "version": "1.0.0"
+  },
+  "scalingguis-1.12.2-1.0.3.1.jar": {
+    "jarName": "scalingguis-1.12.2-1.0.3.1.jar",
+    "modId": "scalingguis",
+    "version": "1.12.2-1.0.3.1"
   },
   "SCP Lockdown-1.12.2-2.4.3-release.jar": {
     "jarName": "SCP Lockdown-1.12.2-2.4.3-release.jar",
@@ -834,20 +859,15 @@
     "modId": "timeinabottled",
     "version": "2.0"
   },
-  "TinkersAntique-1.12.2-2.13.0.202.jar": {
-    "jarName": "TinkersAntique-1.12.2-2.13.0.202.jar",
+  "TinkersAntique-1.12.2-2.13.0.205.jar": {
+    "jarName": "TinkersAntique-1.12.2-2.13.0.205.jar",
     "modId": "tconstruct",
-    "version": "1.12.2-2.13.0.202"
+    "version": "1.12.2-2.13.0.205"
   },
   "torcherino-7.7.1.jar": {
     "jarName": "torcherino-7.7.1.jar",
     "modId": "torcherino",
     "version": "7.7.1"
-  },
-  "TravelersBackpack-1.12.2-1.0.35.jar": {
-    "jarName": "TravelersBackpack-1.12.2-1.0.35.jar",
-    "modId": "travelersbackpack",
-    "version": "1.0.35"
   },
   "treetweaker-1.6.1.jar": {
     "jarName": "treetweaker-1.6.1.jar",
@@ -879,20 +899,25 @@
     "modId": "wanionlib",
     "version": "1.12.2-2.91"
   },
-  "XaeroPlus-Forge-1.12.2-165-WM1.39.0-MM24.4.1.jar": {
-    "jarName": "XaeroPlus-Forge-1.12.2-165-WM1.39.0-MM24.4.1.jar",
+  "xaerolib-forge-1.12.2-1.1.0.jar": {
+    "jarName": "xaerolib-forge-1.12.2-1.1.0.jar",
+    "modId": "xaerolib",
+    "version": "1.1.0"
+  },
+  "xaerominimap-forge-1.12.2-25.3.9.jar": {
+    "jarName": "xaerominimap-forge-1.12.2-25.3.9.jar",
+    "modId": "xaerominimap",
+    "version": "25.3.9"
+  },
+  "XaeroPlus-Forge-1.12.2-185-WM1.40.10-MM25.3.9.jar": {
+    "jarName": "XaeroPlus-Forge-1.12.2-185-WM1.40.10-MM25.3.9.jar",
     "modId": "xaeroplus",
     "version": "1.12.2"
   },
-  "Xaeros_Minimap_24.4.1_Forge_1.12.jar": {
-    "jarName": "Xaeros_Minimap_24.4.1_Forge_1.12.jar",
-    "modId": "xaerominimap",
-    "version": "24.4.1"
-  },
-  "XaerosWorldMap_1.39.0_Forge_1.12.jar": {
-    "jarName": "XaerosWorldMap_1.39.0_Forge_1.12.jar",
+  "xaeroworldmap-forge-1.12.2-1.40.10.jar": {
+    "jarName": "xaeroworldmap-forge-1.12.2-1.40.10.jar",
     "modId": "xaeroworldmap",
-    "version": "1.39.0"
+    "version": "1.40.10"
   },
   "zen_toast-1.1-hotfix.jar": {
     "jarName": "zen_toast-1.1-hotfix.jar",

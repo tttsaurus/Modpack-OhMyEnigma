@@ -22,6 +22,7 @@ dropt.log
 icon.png
 options.txt
 optionsof.txt
+optionsshaders.txt
 usercache.json
 usernamecache.json
 hei_bookmarks.ini
@@ -38,6 +39,7 @@ config/fantasticlib/reference/potion_types.txt
 config/fantasticlib/reference/recipes.txt
 config/fantasticlib/reference/villager_professions.txt
 config/fantasticlib/reference/sounds.txt
+config/fantasticlib/reference/potions.txt
 config/splash.properties
 config/xaerominimap_entities.json
 config/jei/worldSettings.cfg

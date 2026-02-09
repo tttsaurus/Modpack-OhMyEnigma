@@ -96,18 +96,18 @@ recipes.addShaped("craft_base_ring", <item:baublelicious:itemring>,
         [null, <ore:ingotGold>, null]
     ]);
 
-recipes.remove(<item:baubles:ring>);
-recipes.addShaped("craft_ring", <item:baubles:ring>, 
+recipes.remove(<item:baublelicious:itembelt>);
+recipes.addShaped("craft_belt", <item:baublelicious:itembelt>, 
     [
-        [null, <sakura:bottle_alcoholic:8>.withTag({}).giveBack(<item:sakura:materials:47>), null],
+        [<ore:leather>, <sakura:bottle_alcoholic:8>.withTag({}).giveBack(<item:sakura:materials:47>), <ore:leather>],
         [<item:contenttweaker:mandela_plastic_steel>, <item:baublelicious:itemring>, <item:contenttweaker:mandela_plastic_steel>],
-        [null, 
+        [<ore:leather>, 
         <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 32 as short}]}).giveBack(<item:minecraft:book>) |
         <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 2 as short, id: 32 as short}]}).giveBack(<item:minecraft:book>) |
         <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 3 as short, id: 32 as short}]}).giveBack(<item:minecraft:book>) |
         <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 4 as short, id: 32 as short}]}).giveBack(<item:minecraft:book>) |
         <item:minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 5 as short, id: 32 as short}]}).giveBack(<item:minecraft:book>)
-        , null]
+        , <ore:leather>]
     ]);
 
 recipes.remove(<item:baublelicious:itemringofflight>);

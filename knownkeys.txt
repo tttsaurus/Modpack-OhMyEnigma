@@ -1,0 +1,190 @@
+key.attack
+key.use
+key.forward
+key.left
+key.back
+key.right
+key.jump
+key.sneak
+key.sprint
+key.drop
+key.inventory
+key.chat
+key.playerlist
+key.pickItem
+key.command
+key.screenshot
+key.togglePerspective
+key.smoothCamera
+key.fullscreen
+key.spectatorOutlines
+key.saveToolbarActivator
+key.loadToolbarActivator
+key.advancements
+key.hotbar.1
+key.hotbar.2
+key.hotbar.3
+key.hotbar.4
+key.hotbar.5
+key.hotbar.6
+key.hotbar.7
+key.hotbar.8
+key.hotbar.9
+flare.key.start_sampling
+flare.key.stop_sampling
+flare.key.start_client_sampling
+flare.key.stop_client_sampling
+flare.key.open_tick_tracking_menu
+key.staff_mode.desc
+key.use_cage.desc
+key.configurator_mode.desc
+key.configurator_filter.desc
+key.configurator_path.desc
+key.baublesbindinventory
+key.ftbquests_quests
+key.conarm.toggle_helm.desc
+key.conarm.toggle_chest.desc
+key.conarm.toggle_leg.desc
+bloodmagic.keybind.open_holding
+bloodmagic.keybind.cycle_holding_pos
+bloodmagic.keybind.cycle_holding_neg
+key.endermodpacktweaksbind_toggle
+Galaxy Map
+Open Spaceship Inventory
+Toggle Sensor Goggles Mode
+key.oreexcavation_excavate
+key.oreexcavation_shape
+translationKey.scp.nightvision_toggle
+Rotate stored structure
+key.zenscroll_options_modifier
+key.smoothfont_guiopen
+key.jei.toggleOverlay
+key.jei.focusSearch
+key.jei.toggleCheatMode
+key.jei.toggleEditMode
+key.jei.showRecipe
+key.jei.showUses
+key.jei.recipeBack
+key.jei.previousPage
+key.jei.nextPage
+key.jei.bookmark
+key.hei.toggleBookmarkOverlay
+key.hei.crafting
+bbw.key.mode
+bbw.key.fluidmode
+key.toggleLiquids
+key.toggleVisible
+key.cofh.multimode
+key.refinedstorage.focusSearchBar
+key.refinedstorage.clearGridCraftingMatrix
+key.refinedstorage.openWirelessGrid
+key.refinedstorage.openWirelessCraftingGrid
+key.refinedstorage.openWirelessFluidGrid
+key.refinedstorage.openPortableGrid
+key.refinedstorage.openWirelessCraftingMonitor
+key.durabilityviewer_duraview
+key.fpsreducer_guiopen
+key.fpsreducer_forceidle
+key.integrateddynamics.logic_programmer_focus_search
+key.integrateddynamics.logic_programmer_open_rename
+key.integratedterminals.terminal.tab.next
+key.integratedterminals.terminal.tab.previous
+key.integratedterminals.terminal.craftinggrid.clearplayer
+key.integratedterminals.terminal.craftinggrid.clearstorage
+key.integratedterminals.terminal.craftinggrid.balance
+jecalculation.key.gui_craft
+jecalculation.key.gui_math
+key.quit
+key.hideHUD
+key.debugScreen
+key.switchShader
+key.narrator
+key.retro_sophisticated_backpacks_open_backpack_desc
+key.sakura.sheath_in
+key.taiga.alt_action
+key.universaltweaksbind_clear_toasts
+gui.xaero_open_map
+gui.xaero_open_settings
+gui.xaero_world_map_server_settings
+gui.xaero_map_zoom_in
+gui.xaero_map_zoom_out
+gui.xaero_quick_confirm
+gui.xaero_toggle_dimension
+gui.xaero_minimap_settings
+gui.xaero_minimap_server_profiles
+gui.xaero_zoom_in
+gui.xaero_zoom_out
+gui.xaero_new_waypoint
+gui.xaero_waypoints_key
+gui.xaero_enlarge_map
+gui.xaero_toggle_map
+gui.xaero_toggle_waypoints
+gui.xaero_toggle_map_waypoints
+gui.xaero_toggle_slime
+gui.xaero_toggle_grid
+gui.xaero_instant_waypoint
+gui.xaero_switch_waypoint_set
+gui.xaero_display_all_sets
+gui.xaero_toggle_light_overlay
+gui.xaero_toggle_entity_radar
+gui.xaero_reverse_entity_radar
+gui.xaero_toggle_manual_cave_mode
+gui.xaero_alternative_list_players
+gui.xaero_toggle_tracked_players_on_map
+gui.xaero_toggle_tracked_players_in_world
+Save/Load NewChunks to Disk
+Switch to Overworld
+Baritone Goal Waypoint
+Switch to End
+Always Render Player Icon
+Nether Cave Fix
+Always Render Player Name
+Show Render Distance WorldMap
+Waystones Waypoint Sync
+null OW Dim Dir
+Persist Dim Switch
+Transparent Background
+Show Render Distance
+Show Waypoint Distances
+Skip Background Render
+Fast Mapping
+Portal Highlights
+WDL Highlight
+Fix Main Entity Dot
+Waystones Dimension Sync
+Transparent Obsidian Roof
+Switch to Nether
+Waypoint Beacons
+NewChunks Highlighting
+PortalSkip Detection
+bogosort.key.move_all_same
+bogosort.key.move_all
+bogosort.key.move_single
+bogosort.key.move_single_empty
+bogosort.key.throw_all_same
+bogosort.key.throw_all
+bogosort.key.sort_config
+bogosort.key.sort
+bogosort.key.lock_slot
+enderio.keybind.inventory
+enderio.keybind.dsu
+enderio.keybind.glidertoggle
+enderio.keybind.soundlocator
+enderio.keybind.nightvision
+enderio.keybind.gogglesofrevealing
+enderio.keybind.stepassist
+enderio.keybind.speed
+enderio.keybind.jump
+enderio.keybind.top
+enderio.keybind.tnt
+enderio.keybind.yetawrenchmode
+enderio.keybind.magnet
+enderio.keybind.fovreset
+enderio.keybind.fovunreset
+enderio.keybind.fovstore
+enderio.keybind.fovrecall
+enderio.keybind.fovplus
+enderio.keybind.fovminus
+enderio.keybind.fovplusfast
+enderio.keybind.fovminusfast
+key.swapHands

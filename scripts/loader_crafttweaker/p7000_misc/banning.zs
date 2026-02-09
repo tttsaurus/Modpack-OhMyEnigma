@@ -410,7 +410,8 @@ var banned_items = [
     <item:abyssalcraft:abyssalniteu>,
     <item:abyssalcraft:coraliumu>,
     <item:abyssalcraft:dreadiumu>,
-    <item:abyssalcraft:ethaxiumu>
+    <item:abyssalcraft:ethaxiumu>,
+    <item:baubles:max_verstappen>,
     ] as IItemStack[];
 
 var banned_item_tooltip as string = game.localize("banned_item_tooltip");
