@@ -313,10 +313,10 @@
     "modId": "fantasticlib",
     "version": "1.12.2.047"
   },
-  "Fixeroo-2.3.5-hotfix.1.jar": {
-    "jarName": "Fixeroo-2.3.5-hotfix.1.jar",
+  "Fixeroo-2.3.6.jar": {
+    "jarName": "Fixeroo-2.3.6.jar",
     "modId": "xporbclump",
-    "version": "2.3.5-hotfix.1"
+    "version": "2.3.6"
   },
   "flare-0.7.0.jar": {
     "jarName": "flare-0.7.0.jar"
@@ -431,10 +431,10 @@
     "modId": "gunpowderlib",
     "version": "1.12.2-1.1"
   },
-  "HadEnoughItems_1.12.2-4.29.13.jar": {
-    "jarName": "HadEnoughItems_1.12.2-4.29.13.jar",
+  "HadEnoughItems_1.12.2-4.29.15.jar": {
+    "jarName": "HadEnoughItems_1.12.2-4.29.15.jar",
     "modId": "jei",
-    "version": "4.29.13"
+    "version": "4.29.15"
   },
   "hecharacters-1.12.2-1.4.1.jar": {
     "jarName": "hecharacters-1.12.2-1.4.1.jar",
@@ -535,6 +535,11 @@
     "jarName": "LargeFluidTank-12.5.3.jar",
     "modId": "fluidtank",
     "version": "12.5.3"
+  },
+  "lemonskin-3.1.0.jar": {
+    "jarName": "lemonskin-3.1.0.jar",
+    "modId": "lemonskin",
+    "version": "3.1.0"
   },
   "libnine-1.12.2-1.2.1.jar": {
     "jarName": "libnine-1.12.2-1.2.1.jar",
@@ -784,11 +789,6 @@
     "modId": "scalar",
     "version": "1.0.0"
   },
-  "scalingguis-1.12.2-1.0.3.1.jar": {
-    "jarName": "scalingguis-1.12.2-1.0.3.1.jar",
-    "modId": "scalingguis",
-    "version": "1.12.2-1.0.3.1"
-  },
   "SCP Lockdown-1.12.2-2.4.3-release.jar": {
     "jarName": "SCP Lockdown-1.12.2-2.4.3-release.jar",
     "modId": "scp",
@@ -879,20 +879,20 @@
     "modId": "unidict",
     "version": "1.12.2-3.0.10"
   },
-  "UniversalTweaks-1.12.2-1.15.2.jar": {
-    "jarName": "UniversalTweaks-1.12.2-1.15.2.jar",
+  "UniversalTweaks-1.12.2-1.18.0.jar": {
+    "jarName": "UniversalTweaks-1.12.2-1.18.0.jar",
     "modId": "universaltweaks",
-    "version": "1.15.2"
+    "version": "1.18.0"
   },
   "valkyrielib-1.12.2-2.0.20.1.jar": {
     "jarName": "valkyrielib-1.12.2-2.0.20.1.jar",
     "modId": "valkyrielib",
     "version": "1.12.2-2.0.20.1"
   },
-  "vintagefix-0.5.3.jar": {
-    "jarName": "vintagefix-0.5.3.jar",
+  "vintagefix-0.6.2.jar": {
+    "jarName": "vintagefix-0.6.2.jar",
     "modId": "vintagefix",
-    "version": "0.5.3"
+    "version": "0.6.2"
   },
   "WanionLib-1.12.2-2.91.jar": {
     "jarName": "WanionLib-1.12.2-2.91.jar",
@@ -908,11 +908,6 @@
     "jarName": "xaerominimap-forge-1.12.2-25.3.9.jar",
     "modId": "xaerominimap",
     "version": "25.3.9"
-  },
-  "XaeroPlus-Forge-1.12.2-185-WM1.40.10-MM25.3.9.jar": {
-    "jarName": "XaeroPlus-Forge-1.12.2-185-WM1.40.10-MM25.3.9.jar",
-    "modId": "xaeroplus",
-    "version": "1.12.2"
   },
   "xaeroworldmap-forge-1.12.2-1.40.10.jar": {
     "jarName": "xaeroworldmap-forge-1.12.2-1.40.10.jar",

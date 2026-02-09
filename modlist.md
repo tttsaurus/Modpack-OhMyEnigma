@@ -1,4 +1,4 @@
-List of Mods (191):
+List of Mods (190):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -61,7 +61,7 @@ List of Mods (191):
 - **[Environmental Tech](http://minecraft.curseforge.com/projects/environmental-tech)**: environmentaltech-1.12.2-2.0.20.1.jar
 - extendedcrafting-nomifactory-edition-1.7.0.7.jar
 - **Fantastic Lib**: FantasticLib-1.12.2.047.jar
-- **[Fixeroo](https://github.com/CaliforniaDemise/Fixeroo)**: Fixeroo-2.3.5-hotfix.1.jar
+- **[Fixeroo](https://github.com/CaliforniaDemise/Fixeroo)**: Fixeroo-2.3.6.jar
 - flare-0.7.0.jar
 - **[Flavorful](TBA)**: flavorful-1.0.1.jar
 - **[Flopper](https://github.com/CyclopsMC/Flopper)**: Flopper-1.12.2-1.0.3.jar
@@ -85,7 +85,7 @@ List of Mods (191):
 - **[Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)**: gnetum-1.2.6.jar
 - **Guide-API**: Guide-API-1.12-2.1.8-63.jar
 - **[GunpowderLib](https://github.com/JackyyTV/GunpowderLib)**: GunpowderLib-1.12.2-1.1.jar
-- **[Had Enough Items](https://github.com/CleanroomMC/HadEnoughItems)**: HadEnoughItems_1.12.2-4.29.13.jar
+- **[Had Enough Items](https://github.com/CleanroomMC/HadEnoughItems)**: HadEnoughItems_1.12.2-4.29.15.jar
 - **Had Enough Characters**: hecharacters-1.12.2-1.4.1.jar
 - **[IFPatcher](https://www.curseforge.com/minecraft/mc-mods/ifpatcher)**: IFPatcher-2.4.0.jar
 - **[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)**: industrialforegoing-1.12.2-1.12.13-237.jar
@@ -106,6 +106,7 @@ List of Mods (191):
 - **Just Enough Resources**: JustEnoughResources-1.12.2-0.9.3.203.jar
 - **[Konkrete](https://www.curseforge.com/minecraft/mc-mods/konkrete)**: konkrete_forge_1.6.1_MC_1.12-1.12.2.jar
 - **[FluidTank](https://minecraft.curseforge.com/projects/largefluidtank)**: LargeFluidTank-12.5.3.jar
+- **[LemonSkin](https://github.com/myxazaur/LemonSkin)**: lemonskin-3.1.0.jar
 - **libnine**: libnine-1.12.2-1.2.1.jar
 - **[LLibrary](https://github.com/iLexiconn/LLibrary)**: llibrary-1.7.20-1.12.2.jar
 - LootTableTweaker-1.12.2-1.1.17.jar
@@ -157,7 +158,6 @@ List of Mods (191):
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
 - **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: scalar-1.0.0.jar
-- **ScalingGUIs**: scalingguis-1.12.2-1.0.3.1.jar
 - **SCP: Lockdown**: SCP Lockdown-1.12.2-2.4.3-release.jar
 - **[Sledgehammer](https://lxgaming.github.io/)**: Sledgehammer-1.12.2-2.0.26.jar
 - **[Smooth Font](https://minecraft.curseforge.com/projects/smooth-font)**: SmoothFont-mc1.12.2-2.1.4.jar
@@ -176,13 +176,12 @@ List of Mods (191):
 - **[Torcherino Community Edition](https://github.com/Artiks54/Torcherino-ce)**: torcherino-7.7.1.jar
 - **TreeTweaker**: treetweaker-1.6.1.jar
 - UniDict-1.12.2-3.0.10.jar
-- **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.15.2.jar
+- **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.18.0.jar
 - **[Valkyrie Lib](http://minecraft.curseforge.com/projects/valkyrielib)**: valkyrielib-1.12.2-2.0.20.1.jar
-- **[VintageFix](https://github.com/embeddedt/VintageFix)**: vintagefix-0.5.3.jar
+- **[VintageFix](https://github.com/embeddedt/VintageFix)**: vintagefix-0.6.2.jar
 - **[WanionLib](http://minecraft.curseforge.com/projects/wanionlib)**: WanionLib-1.12.2-2.91.jar
 - **XaeroLib**: xaerolib-forge-1.12.2-1.1.0.jar
 - **Xaero's Minimap**: xaerominimap-forge-1.12.2-25.3.9.jar
-- **[XaeroPlus](https://github.com/rfresh2/XaeroPlus)**: XaeroPlus-Forge-1.12.2-185-WM1.40.10-MM25.3.9.jar
 - **Xaero's World Map**: xaeroworldmap-forge-1.12.2-1.40.10.jar
 - **ZenRecipeReloading**: zenrecipereloading-1.4.5.jar
 - **ZenScroll**: zenscroll-1.4.0.jar
