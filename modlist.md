@@ -1,4 +1,4 @@
-List of Mods (186):
+List of Mods (191):
 - **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
 - **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
@@ -9,7 +9,6 @@ List of Mods (186):
 - **[Alfheim](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)**: Alfheim-1.5.jar
 - **Color Block**: AnotherColorBlock-1.0.0-1.12.2.jar
 - **[AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)**: AppleCore-mc1.12.2-3.4.0.jar
-- **AppleSkin**: AppleSkin-mc1.12-1.0.14.jar
 - **[Armory Expansion](https://www.curseforge.com/minecraft/mc-mods/armory-expansion)**: armoryexpansion-1.4.2.jar
 - assetmover-2.5.jar
 - **Athenaeum**: athenaeum-1.12.2-1.19.6.jar
@@ -18,13 +17,13 @@ List of Mods (186):
 - **[Avaritia Item](https://github.com/i-xiaotian/AvaritiaItem.git)**: AvaritiaItem-1.0.3-beta.jar
 - **[B.A.S.E](http://minecraft.curseforge.com/projects/b-a-s-e)**: base-1.12.2-3.14.0.jar
 - Baublelicious-1.4.0-4.jar
-- **[Baubles](http://www.minecraftforum.net/topic/2535073-baubles)**: Baubles-1.12-1.5.2.jar
 - **Better Builder's Wands**: BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar
 - **Better Quest Pop-up**: BetterQuestPopup-1.12.2-1.2.3.jar
 - **[Blood Magic: Alchemical Wizardry](http://www.minecraftforum.net/topic/1899223-bloodmagic)**: BloodMagic-1.12.2-2.4.3-105.jar
 - **[Blur](http://tterrag.com)**: Blur-1.0.4-14.jar
-- **Inventory Bogo Sorter**: bogosorter-1.4.9.jar
+- **Inventory Bogo Sorter**: bogosorter-1.6.1.jar
 - **[Bookshelf](http://minecraft.curseforge.com/projects/bookshelf)**: Bookshelf-1.12.2-2.3.590.jar
+- **[Bubbles](https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork)**: Bubbles-2.4.9.jar
 - **[LoliASM](https://github.com/LoliKingdom/LoliASM)**: censoredasm5.28.jar
 - **[Chameleon](http://www.jaquadro.com/)**: Chameleon-1.12-4.1.3.jar
 - **[ChickenChunks](http://www.minecraftforum.net/topic/909223)**: ChickenChunks-1.12.2-2.4.2.74-universal.jar
@@ -47,6 +46,7 @@ List of Mods (186):
 - CustomStartingGear-1.12-1.2.0.9-universal.jar
 - **[Cyclops Core](https://minecraft.curseforge.com/projects/cyclops-core)**: CyclopsCore-1.12.2-1.6.7.jar
 - **[Dakimakura Mod](https://minecraft.curseforge.com/projects/dakimakura-mod)**: dakimakuramod-1.12.2-1.5.jar
+- **[Default Options](http://blay09.net)**: DefaultOptions_1.12.2-9.2.8.jar
 - **Dense Neutron Collectors**: denseneutroncollectors-1.1.jar
 - **[Double Doors](https://curseforge.com/minecraft/mc-mods/double-doors)**: doubledoors_1.12.2-2.5.jar
 - **[DrawerFPS](https://www.curseforge.com/minecraft/mc-mods/drawerfps-legacy)**: DrawerFPS-1.12.2-1.0.0.jar
@@ -78,7 +78,7 @@ List of Mods (186):
 - **[FTB Quests](http://minecraft.curseforge.com/projects/ftb-quests)**: FTBQuests-1202.9.0.15.jar
 - **[Fullscreen Windowed](https://github.com/hancin/Fullscreen-Windowed-Minecraft)**: FullscreenWindowed-1.12-1.6.0.jar
 - futurefireproof-1.12.2-1.2.2.jar
-- **Galacticraft**: Galacticraft-1.12.2-4.0.6.jar
+- **Galacticraft**: Galacticraft-1.12.2-4.0.7.jar
 - **Example Mod**: GalacticraftTweaker-1.12.2-1.0.3.jar
 - **[Game Stages](https://minecraft.curseforge.com/projects/game-stages)**: GameStages-1.12.2-2.0.123.jar
 - **[GeckoLib](http://berniesoftware.com/)**: geckolib-forge-1.12.2-3.0.31.jar
@@ -117,15 +117,17 @@ List of Mods (186):
 - minieffects-2.3.2.jar
 - **Mysterious Mountain Lib**: MMLib-2.3.0.jar
 - **MmmMmmMmmMmm**: MmmMmmMmmMmm-1.12-1.14.jar
+- **mob_grinding_utils**: MobGrindingUtils-0.3.13.jar
 - **[Mod Tweaker](https://minecraft.curseforge.com/projects/ModTweaker)**: modtweaker-4.0.20.11.jar
+- **[Modular Routers](https://minecraft.curseforge.com/projects/modular-routers)**: modular-routers-1.12.2-3.3.0-33.jar
 - **[Modular Machinery: Community Edition](https://www.curseforge.com/minecraft/mc-mods/modularmachinery-community-edition)**: ModularMachinery-CE-2.0.3.jar
-- **ModularUI**: modularui-2.4.3.jar
+- **ModularUI**: modularui-3.1.2.jar
 - **[Refined Storage](https://refinedstorage.raoulvdberge.com)**: morerefinedstorage-2.3.2.jar
 - **[Mouse Tweaks Unofficial](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial)**: mousetweaks-1.12.2-3.1.5.jar
 - **[MrTJPCore](...)**: MrTJPCore-1.12.2-2.1.4.43-universal.jar
 - **MTLib**: MTLib-3.0.7.jar
 - **[Nature's Compass](https://minecraft.curseforge.com/projects/natures-compass)**: NaturesCompass-1.12.2-1.8.5.jar
-- **NeverEnoughAnimations**: neverenoughanimations-1.0.5.jar
+- **NeverEnoughAnimations**: neverenoughanimations-1.0.7.jar
 - **[New Walls](https://www.curseforge.com/minecraft/mc-mods/new-walls)**: NewWalls-1.12.2-1.0.0.jar
 - **No Advancements**: NoAdvancements-1.12.2.002.jar
 - **NonConflictKeys**: NonConflictKeys-Forge-1.12.2-1.0.0.jar
@@ -149,11 +151,13 @@ List of Mods (186):
 - **[Redstone Flux](http://www.teamcofh.com)**: RedstoneFlux-1.12-2.1.1.1-universal.jar
 - **[RenderLib](https://github.com/Meldexun/RenderLib)**: RenderLib-1.12.2-1.4.5.jar
 - **Requious Frakto**: Requious Frakto-0.12.jar
+- **Retro Sophisticated Backpacks**: Retro-Sophisticated-Backpacks-1.1.1.jar
 - **Roid's Tweaker**: roidtweaker-1.0.1.jar
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
 - **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: scalar-1.0.0.jar
+- **ScalingGUIs**: scalingguis-1.12.2-1.0.3.1.jar
 - **SCP: Lockdown**: SCP Lockdown-1.12.2-2.4.3-release.jar
 - **[Sledgehammer](https://lxgaming.github.io/)**: Sledgehammer-1.12.2-2.0.26.jar
 - **[Smooth Font](https://minecraft.curseforge.com/projects/smooth-font)**: SmoothFont-mc1.12.2-2.1.4.jar
@@ -168,20 +172,21 @@ List of Mods (186):
 - **[The Beneath](https://minecraft.curseforge.com/projects/the-beneath)**: The Beneath-1.12.2-1.7.1.jar
 - **[The One Smeagle](https://github.com/strubium/TheOneSmeagle)**: TheOneSmeagle-1.12-1.1.0.jar
 - **[Time in a Bottled](https://github.com/Rongmario/Time-in-a-Bottled)**: timeinabottled-2.0.jar
-- **[Tinkers' Antique](https://github.com/Elite-Modding-Team/TinkersAntique)**: TinkersAntique-1.12.2-2.13.0.202.jar
+- **[Tinkers' Antique](https://github.com/Elite-Modding-Team/TinkersAntique)**: TinkersAntique-1.12.2-2.13.0.205.jar
 - **[Torcherino Community Edition](https://github.com/Artiks54/Torcherino-ce)**: torcherino-7.7.1.jar
-- **Traveler's Backpack**: TravelersBackpack-1.12.2-1.0.35.jar
 - **TreeTweaker**: treetweaker-1.6.1.jar
 - UniDict-1.12.2-3.0.10.jar
 - **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.15.2.jar
 - **[Valkyrie Lib](http://minecraft.curseforge.com/projects/valkyrielib)**: valkyrielib-1.12.2-2.0.20.1.jar
 - **[VintageFix](https://github.com/embeddedt/VintageFix)**: vintagefix-0.5.3.jar
 - **[WanionLib](http://minecraft.curseforge.com/projects/wanionlib)**: WanionLib-1.12.2-2.91.jar
-- **[XaeroPlus](https://github.com/rfresh2/XaeroPlus)**: XaeroPlus-Forge-1.12.2-165-WM1.39.0-MM24.4.1.jar
-- **Xaero's World Map**: XaerosWorldMap_1.39.0_Forge_1.12.jar
-- **Xaero's Minimap**: Xaeros_Minimap_24.4.1_Forge_1.12.jar
+- **XaeroLib**: xaerolib-forge-1.12.2-1.1.0.jar
+- **Xaero's Minimap**: xaerominimap-forge-1.12.2-25.3.9.jar
+- **[XaeroPlus](https://github.com/rfresh2/XaeroPlus)**: XaeroPlus-Forge-1.12.2-185-WM1.40.10-MM25.3.9.jar
+- **Xaero's World Map**: xaeroworldmap-forge-1.12.2-1.40.10.jar
 - **ZenRecipeReloading**: zenrecipereloading-1.4.5.jar
 - **ZenScroll**: zenscroll-1.4.0.jar
 - **ZenTraits**: zentraits-1.1.jar
 - **ZenUtils**: zenutils-1.21.11.jar
 - **[ZenToast](https://github.com/MARYT-Studio/ZenToast)**: zen_toast-1.1-hotfix.jar
+- **[Key Binding Patch](https://www.mcmod.cn/class/12624.html)**: [MC-1.12.2] Key Binding Patch v1.3.3.3 - 2024-12-1.jar
