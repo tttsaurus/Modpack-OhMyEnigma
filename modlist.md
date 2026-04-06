@@ -1,19 +1,21 @@
-List of Mods (191):
-- **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.9.15.jar
-- **Cleanroom Relauncher**: !cleanroom-relauncher-0.3.2.jar
+List of Mods (190):
+- **[Crash Assistant](https://github.com/KostromDan/Crash-Assistant)**: !!!CrashAssistant-forge-1.12.2-1.11.6.jar
+- **[Cleanroom Relauncher](https://github.com/CleanroomMC/CleanroomRelauncher)**: !cleanroom-relauncher-0.4.0.jar
 - **ConfigAnytime**: !configanytime-3.0.jar
-- **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.5.jar
+- **[MixinBooter](https://github.com/CleanroomMC/MixinBooter)**: !mixinbooter-10.7.jar
+- **[Pack Companion](https://legacy.curseforge.com/minecraft/mc-mods/packcompanion)**: !packcompanion-1.0.0.jar
 - **[Red Core](https://www.curseforge.com/minecraft/mc-mods/red-core)**: !Red-Core-MC-1.8-1.12-0.6.jar
 - **[Fugue](https://github.com/CleanroomMC/Fugue)**: +Fugue-0.23.0.jar
 - **[AbyssalCraft Integration](http://minecraft.curseforge.com/mc-mods/234851)**: AbyssalCraft Integration-1.12.2-1.11.3.jar
 - **[AbyssalCraft](https://shinoow.github.io/AbyssalCraft/)**: AbyssalCraft-1.12.2-1.10.6.jar
 - **[Alfheim](https://www.curseforge.com/minecraft/mc-mods/alfheim-lighting-engine)**: Alfheim-1.5.jar
 - **Color Block**: AnotherColorBlock-1.0.0-1.12.2.jar
+- AntiqueArmory-1.12.2-1.2.7.jar
 - **[AppleCore](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2222837-applecore-an-api-for-modifying-the-food-and-hunger)**: AppleCore-mc1.12.2-3.4.0.jar
 - **[Armory Expansion](https://www.curseforge.com/minecraft/mc-mods/armory-expansion)**: armoryexpansion-1.4.2.jar
 - assetmover-2.5.jar
 - **Athenaeum**: athenaeum-1.12.2-1.19.6.jar
-- **Avaritia**: Avaritia-1.12.2-3.3.0.37-universal.jar
+- **[Avaritia](https://www.curseforge.com/minecraft/mc-mods/avaritia-1-1x-unofficial)**: avaritia-1.12.2-3.3.0.48-hotfix6.jar
 - **Avaritia IO**: avaritiaio-1.4.jar
 - **[Avaritia Item](https://github.com/i-xiaotian/AvaritiaItem.git)**: AvaritiaItem-1.0.3-beta.jar
 - **[B.A.S.E](http://minecraft.curseforge.com/projects/b-a-s-e)**: base-1.12.2-3.14.0.jar
@@ -27,14 +29,14 @@ List of Mods (191):
 - **[Bubbles](https://www.curseforge.com/minecraft/mc-mods/bubbles-a-baubles-fork)**: Bubbles-2.4.9.jar
 - **[Chameleon](http://www.jaquadro.com/)**: Chameleon-1.12-4.1.3.jar
 - **[ChickenChunks](http://www.minecraftforum.net/topic/909223)**: ChickenChunks-1.12.2-2.4.2.74-universal.jar
+- **[Cleanse](https://www.curseforge.com/minecraft/mc-mods/cleanse)**: Cleanse-1.12-1.0.1.1.jar
 - **Click Machine**: ClickMachine-1.12.2-1.2.0.jar
-- **[CodeChicken Lib](http://chickenbones.net/Pages/links.html)**: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+- **[CodeChickenLib CRE](http://chickenbones.net/Pages/links.html)**: codechickenlib-3.3.5-universal.jar
 - **[CoFH Core](http://www.teamcofh.com)**: CoFHCore-1.12.2-4.6.6.1-universal.jar
 - **[CoFH World](http://www.teamcofh.com)**: CoFHWorld-1.12.2-1.4.0.1-universal.jar
 - **[Collective](https://curseforge.com/minecraft/mc-mods/collective)**: collective-1.12.2-3.0.jar
 - **[CommonCapabilities](https://github.com/CyclopsMC/CommonCapabilities)**: CommonCapabilities-1.12.2-2.4.8.jar
 - **Compact Machines 3**: compactmachines3-1.12.2-3.0.18-b278.jar
-- **Construct's Armory**: conarm-1.12.2-1.2.5.10.jar
 - **[Content Creator](https://github.com/ISurrealI/ContentCreator)**: ContentCreator-1.3.93.jar
 - **[ContentTweaker](teamacronymcoders.com)**: ContentTweaker-1.12.2-4.10.0.jar
 - **[CraftTweaker2](http://minetweaker3.powerofbytes.com)**: CraftTweaker2-1.12-4.1.20.703.jar
@@ -49,7 +51,6 @@ List of Mods (191):
 - **[Default Options](http://blay09.net)**: DefaultOptions_1.12.2-9.2.8.jar
 - **Dense Neutron Collectors**: denseneutroncollectors-1.1.jar
 - **[Double Doors](https://curseforge.com/minecraft/mc-mods/double-doors)**: doubledoors_1.12.2-2.5.jar
-- **[DrawerFPS](https://www.curseforge.com/minecraft/mc-mods/drawerfps-legacy)**: DrawerFPS-1.12.2-1.0.0.jar
 - **Dropt**: dropt-1.12.2-1.19.4.jar
 - **Durability Viewer**: DurabilityViewer-1.12-forge14.21.1.2387-1.6.jar
 - **[Elevator Mod](https://minecraft.curseforge.com/projects/openblocks-elevator)**: ElevatorMod-1.12.2-1.3.14.jar
@@ -67,7 +68,7 @@ List of Mods (191):
 - **[Flopper](https://github.com/CyclopsMC/Flopper)**: Flopper-1.12.2-1.0.3.jar
 - **Fluid Dictionary**: fluidict-1.2.jar
 - **[Fluid Interaction Tweaker](https://github.com/tttsaurus/Fluid-Interaction-Tweaker)**: fluidintetweaker-1.5.2.jar
-- **FluxLoading**: fluxloading-1.3.7.jar
+- **FluxLoading**: fluxloading-1.4.1.jar
 - **Foregoing RubberTrees**: foregoing-rubbertrees-1.0.3.jar
 - **[Forestry](http://forestry.sengir.net/)**: forestry_1.12.2-5.8.2.425.jar
 - **[Forgelin-Continuous](https://github.com/ChAoSUnItY/Forgelin-Continuous)**: Forgelin-Continuous-2.1.21.0.jar
@@ -81,7 +82,6 @@ List of Mods (191):
 - **Galacticraft**: Galacticraft-1.12.2-4.0.7.jar
 - **Example Mod**: GalacticraftTweaker-1.12.2-1.0.3.jar
 - **[Game Stages](https://minecraft.curseforge.com/projects/game-stages)**: GameStages-1.12.2-2.0.123.jar
-- **[GeckoLib](http://berniesoftware.com/)**: geckolib-forge-1.12.2-3.0.31.jar
 - **[Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)**: gnetum-1.2.6.jar
 - **Guide-API**: Guide-API-1.12-2.1.8-63.jar
 - **[GunpowderLib](https://github.com/JackyyTV/GunpowderLib)**: GunpowderLib-1.12.2-1.1.jar
@@ -89,7 +89,7 @@ List of Mods (191):
 - **Had Enough Characters**: hecharacters-1.12.2-1.4.1.jar
 - **[IFPatcher](https://www.curseforge.com/minecraft/mc-mods/ifpatcher)**: IFPatcher-2.4.0.jar
 - **[Industrial Foregoing](https://minecraft.curseforge.com/projects/industrial-foregoing)**: industrialforegoing-1.12.2-1.12.13-237.jar
-- **[In-Game Info Reborn](https://github.com/tttsaurus/Ingame-Info-Reborn)**: ingameinfo-1.2.2.jar
+- **[In-Game Info Reborn](https://github.com/tttsaurus/Ingame-Info-Reborn)**: ingameinfo-1.2.4.jar
 - **[Integrated Crafting](https://github.com/CyclopsMC/IntegratedCrafting)**: IntegratedCrafting-1.12.2-1.0.10.jar
 - **[Integrated Dynamics](https://minecraft.curseforge.com/projects/integrated-dynamics)**: IntegratedDynamics-1.12.2-1.1.11.jar
 - **[Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt)**: integratednbt-1.2.2.jar
@@ -122,7 +122,7 @@ List of Mods (191):
 - **mob_grinding_utils**: MobGrindingUtils-0.3.13.jar
 - **[Mod Tweaker](https://minecraft.curseforge.com/projects/ModTweaker)**: modtweaker-4.0.20.11.jar
 - **[Modular Routers](https://minecraft.curseforge.com/projects/modular-routers)**: modular-routers-1.12.2-3.3.0-33.jar
-- **[Modular Machinery: Community Edition](https://www.curseforge.com/minecraft/mc-mods/modularmachinery-community-edition)**: ModularMachinery-CE-2.0.3.jar
+- ModularMachinery-CE-2.2.2.jar
 - **ModularUI**: modularui-3.1.2.jar
 - **[Refined Storage](https://refinedstorage.raoulvdberge.com)**: morerefinedstorage-2.3.2.jar
 - **[Mouse Tweaks Unofficial](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks-unofficial)**: mousetweaks-1.12.2-3.1.5.jar
@@ -131,7 +131,6 @@ List of Mods (191):
 - **[Nature's Compass](https://minecraft.curseforge.com/projects/natures-compass)**: NaturesCompass-1.12.2-1.8.5.jar
 - **NeverEnoughAnimations**: neverenoughanimations-1.0.7.jar
 - **[New Walls](https://www.curseforge.com/minecraft/mc-mods/new-walls)**: NewWalls-1.12.2-1.0.0.jar
-- **No Advancements**: NoAdvancements-1.12.2.002.jar
 - **NonConflictKeys**: NonConflictKeys-Forge-1.12.2-1.0.0.jar
 - **[Nothirium](https://github.com/Meldexun/Nothirium)**: Nothirium-1.12.2-0.4.7-beta.jar
 - **[Extra Slabs](https://mcreator.net)**: ObsidianSlabs.jar
@@ -158,10 +157,10 @@ List of Mods (191):
 - RSLargePatterns-1.12.2-1.0.0.1.jar
 - **[Ruins Spawning System](http://www.minecraftforum.net/topic/1113099-)**: Ruins-1.12.2.jar
 - **Sakura**: Sakura-1.0.7-1.12.2.jar
+- **SauriaLib 3**: SauriaLib 3-3.1.5.jar
 - **[Scalar Legacy](https://github.com/CleanroomMC/Scalar)**: Scalar Legacy-1.0.1.jar
 - **SCP: Lockdown**: SCP Lockdown-1.12.2-2.4.3-release.jar
 - **[Sledgehammer](https://lxgaming.github.io/)**: Sledgehammer-1.12.2-2.0.26.jar
-- **[Smooth Font](https://minecraft.curseforge.com/projects/smooth-font)**: SmoothFont-mc1.12.2-2.1.4.jar
 - **SpawnTableTweaker**: spawntabletweaker-1.0.jar
 - StellarCore-1.5.22.jar
 - **[Storage Drawers](http://www.jaquadro.com/)**: StorageDrawers-1.12.2-5.5.2.jar
@@ -177,7 +176,7 @@ List of Mods (191):
 - **[Torcherino Community Edition](https://github.com/Artiks54/Torcherino-ce)**: torcherino-7.7.1.jar
 - **TreeTweaker**: treetweaker-1.6.1.jar
 - UniDict-1.12.2-3.0.10.jar
-- **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.18.0.jar
+- **[Universal Tweaks](https://github.com/ACGaming/UniversalTweaks)**: UniversalTweaks-1.12.2-1.19.1.jar
 - **[Valkyrie Lib](http://minecraft.curseforge.com/projects/valkyrielib)**: valkyrielib-1.12.2-2.0.20.1.jar
 - **[VintageFix](https://github.com/embeddedt/VintageFix)**: vintagefix-0.6.2.jar
 - **[WanionLib](http://minecraft.curseforge.com/projects/wanionlib)**: WanionLib-1.12.2-2.91.jar

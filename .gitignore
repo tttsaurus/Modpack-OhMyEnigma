@@ -46,5 +46,6 @@ config/jei/worldSettings.cfg
 config/ingameinfo/ui_element_dump.md
 config/tconstruct_oredictcache.dat
 
+/config/packcompanion/output/
 /config/flare/activity/
 /config/flare/profiler/

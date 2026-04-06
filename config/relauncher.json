@@ -1,6 +1,10 @@
 {
-  "selectedVersion": "0.4.2-alpha",
-  "latestVersion": "0.4.2-alpha",
+  "selectedVersion": "0.5.7-alpha",
+  "latestVersion": "0.5.7-alpha",
+  "targetJavaVersion": "J25",
+  "targetVendor": "AZUL_ZULU",
   "javaPath": "E:\\Software\\Java\\zulu-25\\bin\\javaw.exe",
-  "args": ""
+  "args": "-XX:+UseCompactObjectHeaders ",
+  "autoSetup": true,
+  "enableRelauncher": true
 }
